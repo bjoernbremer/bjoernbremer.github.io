@@ -15,7 +15,7 @@ Feel free to contact me if you have any questions about my research:
 
 &nbsp;&nbsp;&nbsp;&nbsp; European University Institute (EUI)   
 &nbsp;&nbsp;&nbsp;&nbsp; Department of Social and Political Sciences   
-&nbsp;&nbsp;&nbsp;&nbsp; Badia Fiesolana 
+&nbsp;&nbsp;&nbsp;&nbsp; Badia Fiesolana     
 &nbsp;&nbsp;&nbsp;&nbsp; Via dei Roccettini, 9   
 &nbsp;&nbsp;&nbsp;&nbsp; I-50014 San Domenico di Fiesole   
 &nbsp;&nbsp;&nbsp;&nbsp; Italy     
