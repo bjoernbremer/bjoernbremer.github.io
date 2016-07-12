@@ -21,4 +21,4 @@ During the summer of 2013, I worked as a research intern at the [German Institut
 
 My main research interests include political economy, comparative politics, the politics of economic crises, political parties, and public opinion.
 
-<a markdown="0" href="{{ site.url }}/documents/Bremer_CV_05_2016.pdf" class="btn">See my CV</a>
+<a markdown="0" href="{{ site.url }}/documents/Bremer_CV_07_2016.pdf" class="btn">See my CV</a>
