@@ -51,6 +51,9 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
-  
+
+{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}  
 </body>
 </html>
