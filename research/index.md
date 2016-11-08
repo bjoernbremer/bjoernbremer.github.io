@@ -19,8 +19,8 @@ The current economic crisis in Europe has also caused a crisis of social democra
 
 *Previous Presentations:*
 
-“What is left of the left? The Response of Left-Wing Parties to the Great Recession in Electoral Campaigns.” Presentation at the 23rd Annual Conference of Europeanists, Philadelphia, 14-16 April 2016. 
-"What is left of the left? The Response of Left-Wing Parties to the Great Recession." Presentation at the Annual Meeting of the American Political Science Association, 01-04 September 2016.
+*“What is left of the left? The Response of Left-Wing Parties to the Great Recession in Electoral Campaigns.” Presentation at the 23rd Annual Conference of Europeanists, Philadelphia, 14-16 April 2016. 
+*"What is left of the left? The Response of Left-Wing Parties to the Great Recession." Presentation at the Annual Meeting of the American Political Science Association, 01-04 September 2016.
 
 *Working Papers:*
 
@@ -34,13 +34,13 @@ The financialisation of advanced economies has been one of the most important ph
 
 “Are the Rich Right-Wing? The Political Consequences of Financialisation." Presentation at the 6th Annual Conference of the European Political Science Association (EPSA), Brussels, 23-25 June 2016. 
 
-**3) From Boom to Bust: A Comparative Analysis of Greece and Spain under Austerity (with [Guillem Vidal](http://guillemvidal.eu/)**
+**3) From Boom to Bust: A Comparative Analysis of Greece and Spain under Austerity (with [Guillem Vidal](http://guillemvidal.eu/))**
 
 The deep economic crisis caused by the financial crisis and the austerity policies imposed thereafter have shaken the foundations of the Greek and Spanish political systems. Massive protests and demonstrations preceded the emergence of new parties that put an end to their stable bi-partisan system. However, despite some general similarities, the economic and political consequences of the crisis have been substantially different in both countries. In Greece, a radical left party is in government and the economic situation does not appear to be improving. In Spain, there are some signs of recovery and the new challenger parties are different political animals. How can we explain such similarities and differences in the consequences of living under austerity in Greece and Spain? By comparing the experience of both countries, we argue that the economic crisis in Southern Europe did not only cause a political crisis, but that prior political developments also caused the economic crisis in the first place. In particular, irresponsible governments in Spain and Greece failed to regulate the pre-crisis boom effectively. Driven by incentives that derived from the ill-conceived institutional structure of the EU, they created a socio-economic environment, in which the economic crisis could only have the disruptive political consequences that we have witnessed. Consequently, the substantial differences in the restructuring of the party systems of both countries must be understood through a combination of pre-existing domestic conflicts and new conflicts brought about by the exceptional economic and political situation.
 
-*[Working Paper](({{ site.url }}/documents/working_papers/Bremer_Vidal_BoomtoBust_05_2016.pdf]"*
+*[Working Paper]({{ site.url }}/documents/working_papers/Bremer_Vidal_BoomtoBust_05_2016.pdf)"*
 
-**4) Analysing the Weaknesses of the German Export-led Growth Model: Where is the Achilles Heel? (with [Guido Baldi](http://www.vwi.unibe.ch/about_us/people/dr_baldi_guido/index_eng.html)**
+**4) Analysing the Weaknesses of the German Export-led Growth Model: Where is the Achilles Heel? (with [Guido Baldi](http://www.vwi.unibe.ch/about_us/people/dr_baldi_guido/index_eng.html))**
 
 *Note: This research is based on two research projects that I was involved in at the German Institute for Economic Research (DIW) from 2013 to 2015.*
 
