@@ -19,8 +19,8 @@ The current economic crisis in Europe has also caused a crisis of social democra
 
 *Previous Presentations:*
 
-* “What is Left of the Left? The Response of Left-Wing Parties to the Great Recession in Electoral Campaigns.” Presentation at the 23rd Annual Conference of Europeanists, Philadelphia, 14-16 April 2016. 
 * "The Missing Left? The Response of Left-Wing Parties to the Great Recession." Presentation at the Annual Meeting 2016 of the American Political Science Association, 01-04 September 2016.
+* “What is Left of the Left? The Response of Left-Wing Parties to the Great Recession in Electoral Campaigns.” Presentation at the 23rd Annual Conference of Europeanists, Philadelphia, 14-16 April 2016. 
 
 *Working Papers:*
 

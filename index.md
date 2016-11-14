@@ -8,4 +8,4 @@ image:
   creditlink: 
 ---
 
-I am a PhD Candidate in the [Department of Social and Political Sciences](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/Index.aspx) at the [European University Institute](http://www.eui.eu/Home.aspx) and a Doctoral Researcher in the [POLCON](http://www.eui.eu/Projects/POLCON/Home.aspx) project. I occasionally tweet and blog about my research and other thoughts about politics and economics <a href="{{ site.url }}/blog" style="text-decoration: underline">here</a>.
+I am a PhD Candidate in the [Department of Social and Political Sciences](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/Index.aspx) at the [European University Institute](http://www.eui.eu/Home.aspx) and a Doctoral Researcher in the [POLCON](http://www.eui.eu/Projects/POLCON/Home.aspx) project. I tweet and occasionally blog about my research and other thoughts about politics and economics <a href="{{ site.url }}/blog" style="text-decoration: underline">here</a>.
