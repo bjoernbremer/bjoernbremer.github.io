@@ -11,7 +11,7 @@ image:
 share: false
 ---
 
-My research focuses on comparative political economy, i.e. I am interested in how decisions in democratic countries impact economic outcomes and vice versa. Trained in both economics and politics in the midst of the Great Recession, I am especially interested in the politics of economic crisis when existing laws and theories about how the economy functions do not hold anymore. In order to study these extraordinary times, I combine both quantitative and qualitative methods eclectically. At the moment, I work on the following research projects: 
+My research focuses on comparative political economy, i.e. I am interested in how decisions in democratic countries impact economic outcomes and vice versa. Trained in both economics and politics in the midst of the Great Recession, I am especially interested in the politics of economic crises when existing laws and theories about how the economy functions do not hold anymore. In order to study these extraordinary times, I combine both quantitative and qualitative methods eclectically. At the moment, I work on the following research projects: 
 
 **1) The Missing Left? Explaining the The Response of Social Democratic Parties to the Great Recession (PhD Thesis)**
 
@@ -19,14 +19,14 @@ The current economic crisis in Europe has also caused a crisis of social democra
 
 *Previous Presentations:*
 
-* “What is left of the left? The Response of Left-Wing Parties to the Great Recession in Electoral Campaigns.” Presentation at the 23rd Annual Conference of Europeanists, Philadelphia, 14-16 April 2016. 
-* "What is left of the left? The Response of Left-Wing Parties to the Great Recession." Presentation at the Annual Meeting of the American Political Science Association, 01-04 September 2016.
+* “What is Left of the Left? The Response of Left-Wing Parties to the Great Recession in Electoral Campaigns.” Presentation at the 23rd Annual Conference of Europeanists, Philadelphia, 14-16 April 2016. 
+* "The Missing Left? The Response of Left-Wing Parties to the Great Recession." Presentation at the Annual Meeting 2016 of the American Political Science Association, 01-04 September 2016.
 
 *Working Papers:*
 
 "[The Missing Left? The Programmatic Response of Social Democratic Parties to the Great Recession]({{ site.url }}/documents/working_papers/Bremer_MissingLeft_11_2016.pdf)"
 
-**2) Financialisation and Attitudes Towards Redistribution (with Andreas Winkler)** 
+**2) Income, Asset Ownership, and Preferences for Redistribution: A Comprehensive Model (with Andreas Winkler)** 
 
 The financialisation of advanced economies has been one of the most important phenomena of the last few decades. Facing stagnating wages in a low-growth environment, many citizens have increasingly invested in private assets, which has created a "society of rentiers" (Piketty, 2014). What impact does this have on people’s preferences for redistribution? In order to answer this question, we provide a new theoretical model for redistributive preferences in this paper. Previous models have either focused exclusively on income (Meltzer and Richard, 1981) or risks and insurance (Moene and Wallerstein, 2001; 2003) to explain redistributive preferences. However, these models do not allow us to study the impact of financialisation because capital ownership reduces current consumption but acts as a form of insurance by increasing future  consumption. Consequently, we develop a heterogeneous agent model that explicitly explores the relationship between income, asset holdings, and preferences for redistribution. Our model supports initial evidence that asset ownership reduces support for redistribution (Ansell, 2014; Auf dem Brinke, 2015), but it suggest that this effect is relatively small. Moreover, the effect is influenced by an individual's level of income and it depends on the liquidity of the assets that an individual owns as well as the level of existing redistributive spending. We test these hypotheses by using data from the International Social Survey Programme (ISSP) for 22 advanced economies and show that there is preliminary evidence for all our hypotheses. This indicates that the financialisation of advanced economies has complicated the preferences of citizens towards the welfare state, which future research should explore more fully.
 
