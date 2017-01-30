@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A New Face for Germany's Social Democrats? Why Martin Schulz Might Reinvigorate the SPD but Struggle on his Path Towards the Chancellery" 
+title: "Hope for Germany's Social Democrats? Why Martin Schulz Might Reinvigorate the SPD but Struggle on his Path Towards the Chancellery" 
 excerpt: ""
 tags: [German election, SPD, Schuzlz]
 comments: true
