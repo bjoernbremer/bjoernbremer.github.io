@@ -11,7 +11,7 @@ image:
 share: false
 ---
 
-I am currently a PhD Candidate at the [European University Institute](http://www.eui.eu/Home.aspx) in Florence and a doctoral researcher in the ERC funded research project  [POLCON](http://www.eui.eu/Projects/POLCON/Home.aspx). My doctoral research focuses on the response of social democratic parties to the Great Recession.
+I am currently a PhD Candidate at the [European University Institute](http://www.eui.eu/Home.aspx) in Florence and a doctoral researcher in the ERC funded research project  [POLCON](http://www.eui.eu/Projects/POLCON/Home.aspx). My doctoral research focuses on the fiscal policies of social democratic parties in response to the Great Recession.
 
 I previously studied at [UWC Atlantic College](http://www.atlanticcollege.org/) before I obtained my Bachelor in Philosophy, Politics and Economics (PPE) from the [University of Oxford](http://www.ox.ac.uk/). Afterwards I pursued a Master’s degree in International Relations and International Economics at the [School of Advanced International Studies](https://www.sais-jhu.edu/) (SAIS) at Johns Hopkins University. For my Master’s, I concentrated in European Studies and worked towards a specialisation in Economic Theory and Quantitative Methods. 
 
