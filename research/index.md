@@ -49,7 +49,7 @@ In a second paper, I analyse the public preferences towards social investment. T
 *Working Papers:*
 
 * "[Income, Asset Ownership, and Preferences for Redistribution: A Comprehensive Model]({{ site.url }}/documents/abstracts/ abstract_redistribution_11.2016.pdf)" with Andreas Winkler (abstract only)
-* "[Public Preferences Towards Redistribution: A Multi-Level-Analysis]({{ site.url }}/documents/abstracts/bremer_wopsi_abstract_1.pdf)" (abstract only)
+* "[Public Preferences Towards Social Investment: A Multi-Level-Analysis]({{ site.url }}/documents/abstracts/bremer_wopsi_abstract_1.pdf)" (abstract only)
 
 *Previous Presentations:*
 
