@@ -24,9 +24,9 @@ The current economic crisis in Europe has also caused a crisis of social democra
 
 *Working Papers:*
 
-"[The Missing Left? The Programmatic Response of Social Democratic Parties to the Great Recession]({{ site.url }}/documents/working_papers/Bremer_MissingLeft_11_2016.pdf)"
+* "[The Missing Left? The Programmatic Response of Social Democratic Parties to the Great Recession]({{ site.url }}/documents/working_papers/Bremer_MissingLeft_11_2016.pdf)"
 
-**2) The Political Consequences of the Great Recession: 
+**2) The Political Consequences of the Great Recession** 
 
 In the ERC-funded research project [POLCON](http://www.eui.eu/Projects/POLCON/Home.aspx) we analyse the political consequences of the Great Recession.  The project combines a comparative-static analysis of 30 European countries with a dynamic analysis of political conflict in 12 cases. For this purpose, we study both elections and political protest in the shadow of the Great Recession and attempt to analyse the issue-specific public interaction between both political arenas. The key question that we address is whether the Great Recession changed the long-term trends of European democracies. For this purpose, we utlise survey data as well as original content analyis of protest events, election campaigns, and issue-specific public contestations.
 
@@ -34,12 +34,11 @@ In co-authored papers, I work on different aspects of this research project. On 
 
 *Working Papers:*
 
-*[From Boom to Bust: A Comparative Analysis of Greece and Spain under Austerity (with [Guillem Vidal](http://guillemvidal.eu/))]({{ site.url }}/documents/working_papers/Bremer_Vidal_BoomtoBust_05_2016.pdf) (abstract only)* 
+* "[From Boom to Bust: A Comparative Analysis of Greece and Spain under Austerity]({{ site.url }}/documents/working_papers/Bremer_Vidal_BoomtoBust_05_2016.pdf)" with [Guillem Vidal](http://guillemvidal.eu/)
+* "[Two Worlds of Dissatisfaction? Electoral Punishment and Protest Politics Compared]({{ site.url }}/documents/abstracts/two_worlds_abstract_2.pdf)" with [Swen Hutter](http://www.swen-hutter.eu/) and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)) (abstract only)
 
-*[Two Worlds of Dissatisfaction? Electoral Punishment and Protest Politics Compared (with [Swen Hutter](http://www.swen-hutter.eu/) and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx))]({{ site.url }}/documents/abstracts/two_worlds_abstract_2.pdf)*
 
-
-**3) The Politics of the Welfare State: Conceptualising the Multi-Dimensionality of Public Preferences
+**3) The Politics of the Welfare State: Conceptualising the Multi-Dimensionality of Public Preferences**
 
 In recent decades, the politics of the welfare state have become complex. In an age of permanent austerity, governments face difficult choices about how the redistribute resources across society and reform the existing welfare states in Western Europe and beyond. In liberal democracies public opinion has a strong conditioning effect on these choices because governments have to anticipate the public reaction's to policy changes. Consequently, in my research I attempt to conceputalise the multi-dimensionality of public preferences towards the welfare state.
 
@@ -49,12 +48,12 @@ In a second paper, I analyse the public preferences towards social investment. T
 
 *Working Papers:*
 
-"[Income, Asset Ownership, and Preferences for Redistribution: A Comprehensive Model (with Andreas Winkler)]({{ site.url }}/documents/abstracts/abstract_redistribution_11.2016.pdf)" (abstract only)
-"[Public Preferences Towards Redistribution: A Multi-Level-Analysis]({{ site.url }}/documents/abstracts/bremer_wopsi_abstract_1.pdf)" (abstract only)
+* "[Income, Asset Ownership, and Preferences for Redistribution: A Comprehensive Model]({{ site.url }}/documents/abstracts/ abstract_redistribution_11.2016.pdf)" with Andreas Winkler (abstract only)
+* "[Public Preferences Towards Redistribution: A Multi-Level-Analysis]({{ site.url }}/documents/abstracts/bremer_wopsi_abstract_1.pdf)" (abstract only)
 
 *Previous Presentations:*
 
-“Are the Rich Right-Wing? The Political Consequences of Financialisation." Presentation at the 6th Annual Conference of the European Political Science Association (EPSA), Brussels, 23-25 June 2016.
+* “Are the Rich Right-Wing? The Political Consequences of Financialisation." Presentation at the 6th Annual Conference of the European Political Science Association (EPSA), Brussels, 23-25 June 2016.
 
 **4) Analysing the Weaknesses of the German Export-led Growth Model: Where is the Achilles Heel? (with [Guido Baldi](http://www.vwi.unibe.ch/about_us/people/dr_baldi_guido/index_eng.html))**
 

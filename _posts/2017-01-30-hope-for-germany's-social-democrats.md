@@ -12,7 +12,7 @@ The recent global economic crisis also led to a crisis of social democratic part
 
 In France, the former protégé of Francois Holland and now independent Emmanuel Macron has revived the hopes of the centre-left, even though the Socialist Party is mired in conflict after five disappointing years in power. Most recently, Martin Schulz, the former president of the European Parliament, has stepped up to become the new beacon of hope for the centre-left in Germany. Two weeks ago, the Social Democratic Party (SPD) announced that he would be the party’s chancellor candidate in the upcoming federal election in September 2017. Since then, a renewed sense of optimism has gripped the SPD. Several thousand new members have joined the party and in opinion surveys the party has jumped up by eight to ten percentage points, as seen in figure 2. A recent [survey by INSA](http://insa-meinungstrend.de/de/sonntagsfrage.php) even put the SPD one percentage point ahead of the conservative CDU/CSU. 
 
-![Figure 2: Monthly Average of German Opinion Polls since September 2013](({{ site.url }}/documents/images/blog/schulz/figure2.png)
+![Figure 2: Monthly Average of German Opinion Polls since September 2013]({{ site.url }}/documents/images/blog/schulz/figure2.png)
 
 **What are the Reasons for the Schulz Effect?**
 
