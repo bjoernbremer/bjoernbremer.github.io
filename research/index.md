@@ -35,7 +35,7 @@ In co-authored papers, I work on different aspects of this research project. On 
 *Working Papers:*
 
 * "[From Boom to Bust: A Comparative Analysis of Greece and Spain under Austerity]({{ site.url }}/documents/working_papers/Bremer_Vidal_BoomtoBust_05_2016.pdf)" with [Guillem Vidal](http://guillemvidal.eu/)
-* "[Two Worlds of Dissatisfaction? Electoral Punishment and Protest Politics Compared]({{ site.url }}/documents/abstracts/two_worlds_abstract_2.pdf)" with [Swen Hutter](http://www.swen-hutter.eu/) and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)) (abstract only)
+* "[Two Worlds of Dissatisfaction? Electoral Punishment and Protest Politics Compared]({{ site.url }}/documents/abstracts/two_worlds_abstract_2.pdf)" with [Swen Hutter](http://www.swen-hutter.eu/) and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) (abstract only)
 
 
 **3) The Politics of the Welfare State: Conceptualising the Multi-Dimensionality of Public Preferences**
