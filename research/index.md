@@ -11,7 +11,7 @@ image:
 share: false
 ---
 
-My research focuses on comparative political economy, i.e. I am interested in how decisions in democratic countries impact economic outcomes and vice versa. Trained in both economics and politics in the midst of the Great Recession, I am especially interested in the politics of economic crises when existing laws and theories about how the economy functions do not hold anymore. In order to study these extraordinary times, I combine both quantitative and qualitative methods eclectically. At the moment, I work on the following borad research topics: 
+My research focuses on comparative political economy. In other words, I am interested in how decisions in democratic countries impact economic outcomes and vice versa. Trained in both economics and politics in the midst of the Great Recession, I am especially interested in the politics of economic crises when existing laws and theories about how the economy functions do not hold anymore. In order to study these extraordinary times, I combine both quantitative and qualitative methods eclectically. At the moment, I work on the following borad research topics: 
 
 **1) The Missing Left? Explaining the The Response of Social Democratic Parties to the Great Recession (PhD Thesis)**
 
@@ -19,7 +19,7 @@ The current economic crisis in Europe has also caused a crisis of social democra
 
 *Publications:*
 
-* "[The Missing Left? The Programmatic Response of Social Democratic Parties to the Great Recession]({{ site.url }}/documents/working_papers/Bremer_MissingLeft_06_2017.pdf)" Supplemental material: "[Online appendix]({{ site.url }}/documents/working_papers/Bremer_MissingLeft_appendix_06_2017.pdf)"
+* "[The Missing Left? The Programmatic Response of Social Democratic Parties to the Great Recession]({{ site.url }}/documents/publications/Bremer_MissingLeft_06_2017.pdf)" (Supplemental material: [online appendix]({{ site.url }}/documents/publications/Bremer_MissingLeft_appendix_06_2017.pdf); [replication material]())
 
 **2) The Political Consequences of the Great Recession** 
 
