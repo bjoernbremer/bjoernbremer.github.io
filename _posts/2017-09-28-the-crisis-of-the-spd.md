@@ -6,7 +6,6 @@ tags: [German election, SPD, crisis of social democracy]
 comments: true
 ---
 
-
 The German SPD hit a historic low in the 2017 federal elections. The 20.5 per cent of votes received was the party's worst result since the Second World War. On the evening of the election, Martin Schulz called the result a "bitter defeat", which was still something of an understatement. Despite the [short revival](https://democracy.blog.wzb.eu/author/bjoern/) of the SPD in the polls at the beginning of the year, the party was defeated for the fourth Bundestag election in a row. When compared to 1998, when Gerhard Schröder won 40.9 per cent, the party’s vote share has nearly halved over the last two decades. The party has now been thrown into a deep and existential crisis.
 
 But this crisis is not unique to Germany. Since the mid-2000s, almost all social democratic parties across Europe have struggled and they are now falling like dominoes. In 2017 alone, the Dutch Labour party and the French Socialists have experienced electoral obliteration and the Austrian SPÖ is expected to lose upcoming elections in October. There are only very few social democratic parties in Western Europe which are resisting this trend, including the Socialist Party in Portugal and the British Labour party under Jeremy Corbyn.
