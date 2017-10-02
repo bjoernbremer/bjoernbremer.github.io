@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The crisis of the SPD: Where now for Germany’s social democrats?
+title: "The Crisis of the SPD: Where Now for Germany’s Social Democrats?"
 excerpt: ""
 tags: [German election, SPD, crisis of social democracy]
 comments: true
