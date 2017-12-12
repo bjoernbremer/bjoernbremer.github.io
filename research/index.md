@@ -53,7 +53,6 @@ In a second paper, I analyse the public preferences towards social investment. T
 In a joint research project with Reto Bürgisser, I study public opinion towards (i) fiscal policies (including government spending, taxation, and government debt) and (ii) social policies (including varies forms of social investment and social consumption). This research project brings together my substantive interests in the politics of fiscal policies and the welfare state. It uses original conjoint and split-sample survey experiments in four European countries (Germany, Italy, Spain, UK) to capture the multidimensionality of fiscal and social policies. Disentangling the preferences towards different policies in this ways allows us to analyse the citizens' priorities when they are confronted with the trade-offs that policy-makers face.  
 
 * "[Public Preferences Towards Fiscal Policies: Survey Experiments on Budgetary Priorities and Trade-Offs]({{ site.url }}/documents/publications/BremerBurgisser_PreAnalysisPlan_PublicOpinionOnWelfareStateRecalibration.pdf)" with Reto Bürgisser (Pre-Analysis Plan)
-
 * "[Public Opinion on Welfare State Recalibration in Times of Austerity: Evidence from Survey Experiments]({{ site.url }}/documents/publications/BremerBurgisser_PreAnalysisPlan_PublicOpinionOnWelfareStateRecalibration.pdf)" with Reto Bürgisser (Pre-Analysis Plan)
 
 
