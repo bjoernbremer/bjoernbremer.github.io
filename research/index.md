@@ -19,8 +19,7 @@ The current economic crisis in Europe has also caused a crisis of social democra
 
 *Publications:*
 
-* [The Missing Left? Economic Crisis and the Programmatic Response of Social Democratic Parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745). *Party Politics*. 24(1):23-38. 
-[Pre-print version]({{ site.url }}/documents/publications/Bremer_MissingLeft_12_2017.pdf); [online appendix]({{ site.url }}/documents/publications/Bremer_MissingLeft_appendix_12_2017.pdf); [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC))
+* [The Missing Left? Economic Crisis and the Programmatic Response of Social Democratic Parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745). *Party Politics*. 24(1):23-38.  [Pre-print version]({{ site.url }}/documents/publications/Bremer_MissingLeft_12_2017.pdf); [online appendix]({{ site.url }}/documents/publications/Bremer_MissingLeft_appendix_12_2017.pdf); [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC))
 
 
 **2) The Political Consequences of the Great Recession** 
