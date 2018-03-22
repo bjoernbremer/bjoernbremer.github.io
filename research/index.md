@@ -19,7 +19,8 @@ The current economic crisis in Europe has also caused a crisis of social democra
 
 *Publications:*
 
-* [The Missing Left? Economic Crisis and the Programmatic Response of Social Democratic Parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745) *Party Politics*. 24(1):23-38. [Pre-print version]({{ site.url }}/documents/publications/Bremer_MissingLeft_12_2017.pdf); [online appendix]({{ site.url }}/documents/publications/Bremer_MissingLeft_appendix_12_2017.pdf); [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC))
+* [The Missing Left? Economic Crisis and the Programmatic Response of Social Democratic Parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745). *Party Politics*. 24(1):23-38. 
+[Pre-print version]({{ site.url }}/documents/publications/Bremer_MissingLeft_12_2017.pdf); [online appendix]({{ site.url }}/documents/publications/Bremer_MissingLeft_appendix_12_2017.pdf); [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC))
 
 
 **2) The Political Consequences of the Great Recession** 
@@ -31,12 +32,12 @@ In co-authored papers, I work on different aspects of this research project. On 
 *Publications:*
 
 * Björn Bremer and [Guillem Vidal](http://guillemvidal.eu/) (forthcoming). "[From Boom to Bust: A Comparative Analysis of Greece and Spain under Austerity]({{ site.url }}/documents/publications/BremerVidal_Berghahn_10_2017.pdf)". In Doxiadis, Evdoxios and Aimee Placas (eds.).*Living Under Austerity: Greek Society in Crisis](http://www.berghahnbooks.com/title/DoxiadisLiving)*. New York: Berghahn Books.
-Greek Society in Crisis
 
 *Working papers:*
 
-* "Two Worlds of Dissatisfaction? Electoral Punishment and Protest Politics Compared" with [Swen Hutter](http://www.swen-hutter.eu/) and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)
-* "From the public purse to the ballot box: the electoral prospects of incumbent parties after austerity and bank bailout packages during the Great Recession" with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang
+* "Dynamics of protest and electoral politics in the Great
+Recession: A comparative study of 30 European countries" with [Swen Hutter](http://www.swen-hutter.eu/) and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)
+* "From the public purse to the ballot box: The electoral prospects of incumbent parties after austerity and bank bailout packages during the Great Recession" with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang
 
 
 **3) Public Opinion Towards Fiscal and Social Policies: Studying Priorities and Trade-Offs with Survey Experiments (with Reto Bürgisser)** 
