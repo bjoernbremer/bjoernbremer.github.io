@@ -15,7 +15,43 @@ My research focuses on comparative political economy. In other words, I am inter
 
 **1) Austerity from the Left? Explaining the Fiscal Policies of Social Democratic Parties in Response to the Great Recession (PhD Thesis)**
 
-The current economic crisis in Europe has also caused a crisis of social democracy. Following a brief period of ‘emergency Keynesianism’ shortly after the 2008 financial crisis, social democratic parties accepted austerity as the dogma of the day since 2010 and, thereby, proposed and implemented macroeconomic policies that are contrary to their general economic ideology. This has happened even in countries where the pressures from financial markets to consolidate state finances were weak or absent (e.g. Germany, Netherlands, or the UK) and, hence, market pressures are not a sufficient explanation. Still, most of the existing literature attempts to explain this outcome by the institutional constraints that have been placed upon European politicians during the Great Recession. In my thesis, I shift the focus towards the popular coalitions that underlie socio-economic policy by examining both the elite *and* the popular politics of austerity in order to explain the policy-making process within social democratic parties. Uncovering the surprising amount of popular support for austerity among voters, my thesis argues that parties adopted orthodox fiscal policies to signal economic competence. Based on the iron logic of ‘folk economics’ that governments cannot spend more than they earn, many voters believed that fiscal consolidation was necessary. In combination with lingering neo-Keynesian ideas from the Third Way among party leaders, these ‘electoral pressures’ were just as powerful as ‘market pressures’ and created the pre-conditions for the social democratic embrace of austerity. Combining a larger quantitative analysis with case studies, the thesis tests this argument by studying both the demand and the supply-side of politics in Western Europe. In this way, it attempts to bring the 'electoral turn' to the ideational literature in political economy.
+Austerity has come to define the post-crisis European political economy
+    as the predominant policy response to the Great Recession since 2010.
+    After a brief period of "emergency Keynesianism" from 2008 to 2010, even
+    social democratic parties abandoned plans for deficit-spending and
+    accepted austerity as the dogma of the day. Most of the existing
+    literature attempts to explain this outcome either by pressures from
+    financial markets or by the influence of external institutions, for
+    example the European Union or the International Monetary Fund. However,
+    social democratic parties also accepted fiscal orthodoxy in countries
+    where the pressure from financial markets and external institutions was
+    weak or absent and thus these pressures are not a sufficient explanation
+    to explain austerity from the left. This dissertation instead shifts the
+    focus towards the popular coalitions that underlie macroeconomic policy
+    by examining both the elite and the popular politics of austerity. It
+    argues that social democratic parties had both *political* and
+    *economic* reasons to support orthodox fiscal policies during the
+    crisis. On the one hand, social democratic parties believed that there
+    was a high public support for fiscal consolidation. Influenced by the
+    differentiation of interests among their traditional constituencies,
+    they attempted to increase their economic credibility in order appeal to
+    centre-left voters from the expanded middle class. On the other hand,
+    social democratic parties were influenced by mainstream economic ideas.
+    They drew on New Keynesianism, endogenous growth theory, and supply-side
+    economics, which had become popular among social democrats at the end of
+    the 20^th^ century, to legitimize their support for the "austerity
+    settlement" in the wake of the Great Recession. This combination of
+    electoral and ideational forces created powerful pressures for social
+    democratic parties to support orthodox economic policies over Keynesian
+    deficit-spending that they failed to resist. To make this argument, the
+    thesis combines qualitative and quantitative methods and draws on a wide
+    range of empirical evidence. It uses quantitative content analysis,
+    survey experiments, and evidence from more than 40 elite interviews with
+    leading social democratic politicians and policy-makers in Germany and
+    the UK in order to study both the demand- and supply-side of politics in
+    Western Europe. In this way, the thesis provides a new account account
+    of social democratic austerity and contributes to a growing literature
+    on the politics of macroeconomic policies.
 
 *Publications:*
 
