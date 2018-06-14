@@ -19,13 +19,13 @@ Austerity has come to define the post-crisis European political economy as the p
 
 *Publications:*
 
-* [The Missing Left? Economic Crisis and the Programmatic Response of Social Democratic Parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745). *Party Politics*. 24(1):23-38. <br/>
+* [The missing left? Economic crisis and the programmatic response of social democratic parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745). *Party Politics*. 24(1):23-38. <br/>
 [Pre-print version]({{ site.url }}/documents/publications/Bremer_MissingLeft_12_2017.pdf) / [online appendix]({{ site.url }}/documents/publications/Bremer_MissingLeft_appendix_12_2017.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC)
 
 *Working papers:*
 
-* "The Ideational Foundations of Social Democratic Austerity" (with Sean McDaniel)
-* "The Political Economy of the SPD Reconsidered: Evidence from the Great Recession"
+* "The ideational foundations of social democratic austerity" (with Sean McDaniel)
+* "The political economy of the SPD Reconsidered: Evidence from the Great Recession"
 
 **2) The Political Consequences of the Great Recession** 
 
@@ -35,7 +35,7 @@ In co-authored papers, I work on different aspects of this research project. On 
 
 *Publications:*
 
-* Björn Bremer and [Guillem Vidal](http://guillemvidal.eu/) (forthcoming). "From Boom to Bust: A Comparative Analysis of Greece and Spain under Austerity". In Doxiadis, Evdoxios and Aimee Placas (eds.).*[Living Under Austerity: Greek Society in Crisis](http://www.berghahnbooks.com/title/DoxiadisLiving)*. New York: Berghahn Books.
+* Björn Bremer and [Guillem Vidal](http://guillemvidal.eu/) (forthcoming). "From boom to bust: A comparative analysis of Greece and Spain under austerity". In Doxiadis, Evdoxios and Aimee Placas (eds.).*[Living Under Austerity: Greek Society in Crisis](http://www.berghahnbooks.com/title/DoxiadisLiving)*. New York: Berghahn Books.
 
 *Working papers:*
 
@@ -46,12 +46,12 @@ Recession: A comparative study of 30 European countries" (with [Swen Hutter](htt
 
 **3) Public Opinion Towards Fiscal and Social Policies: Studying Priorities and Trade-Offs with Survey Experiments (with Reto Bürgisser)** 
 
-In this joint research project, we I study public opinion towards (i) fiscal policies (including government spending, taxation, and government debt) and (ii) social policies (including varies forms of social investment and social consumption). The research project brings together our substantive interests in the politics of fiscal policies and the welfare state and it uses original conjoint and split-sample survey experiments in four European countries (Germany, Italy, Spain, UK) to capture the multidimensionality of fiscal and social policies. Disentangling the preferences towards different policies in this ways allows us to analyse the citizens' priorities when they are confronted with some of the trade-offs that are inherent in policy-making.  
+In this joint research project, we I study public opinion towards (i) fiscal policies (including government spending, taxation, and government debt) and (ii) social policies (including varies forms of social investment and social consumption). The research project brings together our substantive interests in the politics of fiscal policies and the welfare state and it uses original conjoint and split-sample survey experiments in four European countries (Germany, Italy, Spain, UK) to capture the multidimensionality of fiscal and social policies. Disentangling the preferences towards different policies in this way allows us to analyse the citizens' priorities when they are confronted with some of the trade-offs that are inherent in policy-making.  
 
-* "[Public Preferences Towards Fiscal Policies: Survey Experiments on Budgetary Priorities and Trade-Offs]({{ site.url }}/documents/publications/BremerBurgisser_PreAnalysisPlan_PublicOpinionOnWelfareStateRecalibration.pdf)" with Reto Bürgisser (pre-analysis plan)
-* "[Public Opinion on Welfare State Recalibration in Times of Austerity: Evidence from Survey Experiments]({{ site.url }}/documents/publications/BremerBurgisser_PreAnalysisPlan_PublicOpinionOnWelfareStateRecalibration.pdf)" with Reto Bürgisser (pre-analysis plan)
+* "[Public preferences towards fiscal policies: Survey experiments on budgetary priorities and trade-Offs]({{ site.url }}/documents/publications/BremerBurgisser_PreAnalysisPlan_PublicOpinionOnWelfareStateRecalibration.pdf)" with Reto Bürgisser (pre-analysis plan)
+* "[Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments]({{ site.url }}/documents/publications/BremerBurgisser_PreAnalysisPlan_PublicOpinionOnWelfareStateRecalibration.pdf)" with Reto Bürgisser (pre-analysis plan)
 
 **4) Other Work in Progress**
 
-* "Income, Asset Ownership, and Preferences for Redistribution: A Comprehensive Model" (with Andreas Winkler)
-* "Public Preferences Towards Social Investment: Comparing Patterns of Support Across the World"
+* "Income, asset ownership, and preferences for redistribution: A comprehensive model" (with Andreas Winkler)
+* "Public preferences towards social investment: Comparing patterns of support across the world"
