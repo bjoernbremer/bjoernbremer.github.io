@@ -5,14 +5,14 @@ author_profile: true
 
 {% include base_path %}
 
-If you would like to get in touch, send me an email to: [borbath.endre@gmail.com](mailto:borbath.endre@gmail.com)
+Feel free to contact me if you have any questions about my research: 
 
-For everything else:
+&nbsp;&nbsp;&nbsp;&nbsp; European University Institute (EUI)   
+&nbsp;&nbsp;&nbsp;&nbsp; Department of Social and Political Sciences   
+&nbsp;&nbsp;&nbsp;&nbsp; Badia Fiesolana   
+&nbsp;&nbsp;&nbsp;&nbsp; Via dei Roccettini, 9   
+&nbsp;&nbsp;&nbsp;&nbsp; I-50014 San Domenico di Fiesole   
+&nbsp;&nbsp;&nbsp;&nbsp; Italy     
 
-  European University Institute (EUI)  
-  Department of Social and Political Sciences  
-  Badia Fiesolana,  
-  Via dei Roccettini, 9  
-  I-50014 San Domenico di Fiesole  
-  Italy  
-
+&nbsp;&nbsp;&nbsp;&nbsp; Email: bjoern.bremer[at]eui.eu   
+&nbsp;&nbsp;&nbsp;&nbsp; Twitter: bjoern_bremer
