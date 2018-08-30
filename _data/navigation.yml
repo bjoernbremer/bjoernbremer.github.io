@@ -1,19 +1,18 @@
-# Site navigation links
+# main links links
+main:
+        
+  - title: "Research"
+    url: /projects/
 
-- title: About
-  url: /about/
+  - title: "Teaching"
+    url: /teaching/
 
-- title: Research
-  url: /research/
-
-- title: Publications
-  url: /publications/
-
-- title: Teaching
-  url: /teaching/
-
-- title: Blog
-  url: /blog/
-
-- title: Contact
-  url: /contact/
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "CV"
+    url: /files/cv_web.pdf
+    
+  - title: "Contact"
+    url: /contact/
+    
