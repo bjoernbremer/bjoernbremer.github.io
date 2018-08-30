@@ -12,5 +12,5 @@ I am a PhD Candidate in the <a href="https://www.eui.eu/DepartmentsAndCentres/Po
 
 For more recent updates, feel free to browse my twitter timeline: 
 
-<a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/bjoern_bremer?ref_src=twsrc%5Etfw">Tweets by eborbath</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/bjoern_bremer?ref_src=twsrc%5Etfw">Tweets by bjoern_bremer</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
