@@ -1,17 +1,23 @@
 # main links links
 main:
-        
+
+  - about: "About"
+    url: /about/
+
   - title: "Research"
-    url: /projects/
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Blog"
+    url: /blog/
     
   - title: "CV"
-    url: /files/cv_web.pdf
+    url: /files/Bremer_CV_08_2018.pdf
     
   - title: "Contact"
     url: /contact/
