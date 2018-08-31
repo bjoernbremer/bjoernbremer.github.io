@@ -1,7 +1,7 @@
 ---
 title: "The Missing Left? Economic crisis and the Programmatic Response of Social Democratic Parties in Europe"
 date: 2018-01-03
-permalink:
+permalink: /posts/2018/01/missing-left/
 tags: 
 	- economic issues
 	- elections
