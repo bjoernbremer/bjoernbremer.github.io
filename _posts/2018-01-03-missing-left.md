@@ -1,9 +1,14 @@
 ---
-layout: post
 title: "The Missing Left? Economic crisis and the Programmatic Response of Social Democratic Parties in Europe"
-excerpt: ""
-tags: [economic issues, elections, party change/adaptation, political parties, Western Europe]
-comments: true
+date: 2018-01-03
+permalink:
+tags: 
+	- economic issues
+	- elections
+	- party change/adaptation
+	- political parties 
+	- Western Europe
+
 ---
 
 My article "The Missing Left? Economic crisis and the Programmatic Response of Social Democratic Parties in Europe" was just published by Party Politics. The article is available [here](http://journals.sagepub.com/doi/full/10.1177/1354068817740745). 
