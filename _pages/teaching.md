@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /teaching/
 author_profile: true
 ---
 
