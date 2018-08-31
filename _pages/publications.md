@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 **Articles (Peer-Review):**
 
 * Björn Bremer (2018). [The missing left? Economic crisis and the programmatic response of social democratic parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745) *Party Politics*. 24(1):23-38. <br/>
