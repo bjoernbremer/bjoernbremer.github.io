@@ -20,5 +20,6 @@ My article shows that social democratic parties shifted their positions towards 
 
 The findings suggest that parties are strategic actors that respond to changes in their economic context. In response to large economic shocks like the Great Recession, parties changed the salience that they attribute to economic issues and the positions that they took on these issues in different ways. However, parties do not always change their positions in the same direction on all (economic) issue categories. Instead, party competition during the Great Recession was complex and cannot be represented on a single economic dimension as parties attempted to bundle policy packages together that do not fall on the same end of the left-right dimensions.
 
-The article includes work that is part of my PhD. In later parts of my dissertation, I attempt to explain the curious patterns that I found in the Party Politics article. Note that the artcile is part of a special issue in Party Politics edited by Nicolò Conti, Swen Hutter, Kyriaki Nanou. The entire special issue is available [here](http://journals.sagepub.com/toc/ppqa/24/1).
+The article includes work that is part of my PhD. In later parts of my dissertation, I attempt to explain the curious patterns that I found in the Party Politics article. Note that the article is part of a special issue in Party Politics edited by Nicolò Conti, Swen Hutter, Kyriaki Nanou. The entire special issue is available [here](http://journals.sagepub.com/toc/ppqa/24/1).
+
 ------
