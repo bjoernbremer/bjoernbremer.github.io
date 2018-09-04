@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "A Letter to my British Friends"
-excerpt: ""
-tags: [EU Referendum, Brexit, European Union]
-comments: true
+title: 'A Letter to my British Friends'
+date: 2016-06-23
+permalink: /posts/2016/06/a-letter/
+tags:
+  - EU referendum
+  - Brexit
+  - European Union
 ---
 
 Dear British friends,
@@ -21,3 +23,5 @@ Europe needs you more than you realise!
 
 Much love from the continent,
 Björn
+
+------

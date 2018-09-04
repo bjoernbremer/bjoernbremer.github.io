@@ -1,18 +1,21 @@
 ---
-layout: post
-title: "Hope for Europe’s Social Democrats? Why Martin Schulz Might Reinvigorate the SPD but Struggle To Become Chancellor" 
-excerpt: ""
-tags: [German election, SPD, Schuzlz]
-comments: true
+title: 'Hope for Europe’s Social Democrats? Why Martin Schulz Might Reinvigorate the SPD but Struggle To Become Chancellor'
+date: 2017-01-30
+permalink: /posts/2017/01/schulz/
+tags:
+  - German election
+  - SPD
+  - social democratic parties
+  - Schulz
 ---
 
 The recent global economic crisis also led to a crisis of social democratic parties. Lacking clear ideas, the parties struggled to respond to the economic malaise and failed to be a strong political force in the context of the worst economic downturn since the Great Depression. As a result, the average vote share of social democratic parties in Western Europe dropped to an unprecedented low since 1945 (figure 1), leaving them at risk of sliding into political insignificance. In some countries, the far left benefited from this crisis of social democratic parties and much has been written about the causes behind the success of [Alexis Tsipras](https://www.theguardian.com/world/2015/jan/28/greek-people-wrote-history-how-syriza-rose-to-power), [Jeremy Corbyn](http://www.newyorker.com/magazine/2016/05/23/the-astonishing-rise-of-jeremy-corbyn), or [Bernie Sanders](https://www.theguardian.com/us-news/commentisfree/2016/feb/16/thomas-piketty-bernie-sanders-us-election-2016), who are spearheading these socialist insurgencies. However, except for Syriza in Greece, the far left failed to win elections and was unable to stop the [wave of right-wing populism](https://www.washingtonpost.com/news/monkey-cage/wp/2016/03/11/its-not-just-trump-authoritarian-populism-is-rising-across-the-west-heres-why/?utm_term=.452346d235aa) that is currently rolling across the Western world. At the beginning of 2017, commentators are instead looking to figures from the centre-left to stop this wave.
 
-![Figure 1: Average Vote Share of Left-Wing Parties in 17 Western European Countries since 1945]({{ site.url }}/documents/images/schulz/figure1_small.png)
+![Figure 1: Average Vote Share of Left-Wing Parties in 17 Western European Countries since 1945]({{ site.url }}/files/images/schulz/figure1_small.png)
 
 In France, the former protégé of Francois Holland and now independent Emmanuel Macron has revived the hopes of the centre-left, even though the Socialist Party is mired in conflict after five disappointing years in power. Most recently, Martin Schulz, the former president of the European Parliament, has stepped up to become the new beacon of hope for the centre-left in Germany. Two weeks ago, the Social Democratic Party (SPD) announced that he would be the party’s chancellor candidate in the upcoming federal election in September 2017. Since then, a renewed sense of optimism has gripped the SPD. Several thousand new members have joined the party and in opinion surveys the party has jumped up by eight to ten percentage points, as seen in figure 2. A recent [survey by INSA](http://insa-meinungstrend.de/de/sonntagsfrage.php) even put the SPD one percentage point ahead of the conservative CDU/CSU. 
 
-![Figure 2: Monthly Average of German Opinion Polls since September 2013]({{ site.url }}/documents/images/schulz/figure2_small.png)
+![Figure 2: Monthly Average of German Opinion Polls since September 2013]({{ site.url }}/files/images/schulz/figure2_small.png)
 
 **What are the Reasons for the Schulz Effect?**
 
@@ -24,7 +27,7 @@ Another reason that Martin Schulz is a promising candidate for the SPD is his ab
 
 Despite the positive standing of Martin Schulz in opinion surveys, it remains uncertain whether his candidacy will pave the way for a SPD-led government. First, the recent failure of pollsters to accurately forecast election results in the [US](http://www.pewresearch.org/fact-tank/2016/11/09/why-2016-election-polls-missed-their-mark/) or the [UK](http://eprints.ncrm.ac.uk/3789/1/Report_final_revised.pdf) have cast doubt over the predictive power of polls in an age of political fragmentation. Moreover, prior to the last two German federal elections, public opinion was also volatile, as shown in figure 3. For example, at the beginning of 2013 the SPD received more than 30 percent of support in some polls, but eventually it only won 25.7 percent of the popular vote.
 
-![Figure 3: Variation in Opinion Polls in the 12 Months Prior to the Last Two German Elections]({{ site.url }}/documents/images/schulz/figure3_small.png)
+![Figure 3: Variation in Opinion Polls in the 12 Months Prior to the Last Two German Elections]({{ site.url }}/files/images/schulz/figure3_small.png)
 
 Second, the fragmentation of political competition is still presenting the SPD with a difficult situation. On the one hand, Angela Merkel has firmly situated the CDU/CSU in the political centre and in the last few months her popularity ratings have recovered from the refugee crisis. According to some [polls](http://www.forschungsgruppe.de/Umfragen/Politbarometer/Langzeitentwicklung_-_Themen_im_Ueberblick/Politik_II/#Politiker), she is nearly as popular as she was in early 2013, when the CDU/CSU won the election with a resounding 41.5 percent of the vote. On the other hand, the radical parties on both the left and the right end of the political spectrum are challenging the SPD. Die Linke is still supported by many people, who abandoned the SPD after Gerhard Schröder’s liberal reforms in the early 2000s. The AfD more recently attracted the support of former social democratic voters due to its Euro-sceptic and anti-immigration stance. Thus, political competition in Germany is pulling the SPD into different directions and it will be impossible for Martin Schulz to simultaneously appeal to the different constituencies that have abandoned the SPD. 
 
@@ -39,3 +42,5 @@ However, the signs from Die Linke and the Greens are not necessarily encouraging
 In conclusion, it remains to be seen whether the Schulz effect will be large enough to end Angela Merkel’s dominance over the political landscape in Germany. While the SPD will benefit from his popularity and his ability to connect with people from very different backgrounds, the structural difficulties that social democratic parties have faced in Europe in the last few years still exist. The SPD has been torn apart by political competition and the party needs to be given a new, firm sense of direction with a clear programmatic position. As invigorating as Schulz may be, his popularity and a dash of European optimism alone will not be sufficient to win the election.
 
 *This post was first published on the [WZB Democracy Blog](https://democracy.blog.wzb.eu/2017/02/10/schulzeffect/). A slightly edited version was published by [EuVisions](http://www.euvisions.eu/european-social-democracy/).*
+
+------

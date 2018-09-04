@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "International Investments and Current Account Imbalances: The Importance of Valuation Changes"
-excerpt: ""
-tags: [Current account imbalances, capital flows, valuation changes, investments, DIW]
-comments: true
+title: 'International Investments and Current Account Imbalances: The Importance of Valuation Changes'
+date: 2017-12-11
+permalink: /posts/2017/01/valuation-changes/
+tags:
+  - current account imablances
+  - capital flows
+  - valuation changes
+  - investments
+  - DIW
 ---
 
 The German Institute for Economic Research (DIW) has published a short round-up that I have written with Guido Baldi and Thore Schlaack. The round-up is available [here](http://www.diw.de/en/diw_01.c.572376.en/press/diw_roundup/international_investments_and_current_account_imbalances_the_importance_of_valuation_changes.html). In the round-up we summarise the literature on international current account balances and international investments with a specific focus on Germany: 
@@ -14,4 +18,4 @@ In conclusion, we write that:
 
 *Against the backdrop of the sharp rise in foreign investment over the last forty years, valuation changes have become increasingly important for net foreign assets. Even if the global capital flows developed less dynamically since the financial crisis, the high foreign assets and liabilities are likely to persist in the future. Discussions about current account balances should, therefore, be conducted by taking into account the high levels of international investment positions and the associated valuation changes, which are potentially large. Against the backdrop of these value changes on foreign assets and liabilities, a discussion is being held in Germany as to whether additional investments - for example in domestic infrastructure or in research and development - could generate higher and less volatile returns than some of Germany’s foreign investments.*
 
-
+------

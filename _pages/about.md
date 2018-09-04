@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the <a href="https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/Index.aspx" style="text-decoration: underline">Department of Social and Political Sciences</a> at the <a href="https://www.eui.eu/Home.aspx" style="text-decoration: underline">European University Institute</a> and a Doctoral Researcher in the <a href="http://www.eui.eu/Projects/POLCON/Home.aspx" style="text-decoration: underline">POLCON</a> project. I occasionally <a href="https://twitter.com/bjoern_bremer" style="text-decoration: underline">tweet</a> and collect news about my research, blog articles, and other thoughts about politics and economics here.
+I am a PhD Candidate in the [Department of Social and Political Sciences](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/Index.aspx) at the [European University Institute](https://www.eui.eu/Home.aspx") and a Doctoral Researcher in the [POLCON project]("http://www.eui.eu/Projects/POLCON/Home.aspx).
+
+I previously studied at [UWC Atlantic College](http://www.atlanticcollege.org/) and I hold degress from in Philisophy, Politics, and Economics (PPE) from the [University of Oxford](http://www.ox.ac.uk/) and in International Relations and International Economcis from the [School of Advanced International Studies](https://www.sais-jhu.edu/) (SAIS) at Johns Hopkins University.
+
+My main research interests lie at the intersection of political economy, comparative politics, and political sociology. My doctoral research explores the fiscal policies of social democratic parties in response to the Great Recession.
+
+I collect news about my research, blog articles, and other thoughts about politics and economics [here]({{ site.url }}/blog).
 
 For more recent updates, feel free to browse my twitter timeline: 
 
