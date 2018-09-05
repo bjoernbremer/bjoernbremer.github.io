@@ -1,10 +1,8 @@
 ---
-title: "Other Work in Progress"
+title: "4) Other Work in Progress"
 collection: projects
 permalink: /projects/fiscal_trade-offs
 ---
-
-Other Work in Progress
 
 ------
 

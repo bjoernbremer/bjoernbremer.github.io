@@ -1,10 +1,8 @@
 ---
-title: "The Political Consequences of the Great Recession"
+title: "2) The Political Consequences of the Great Recession"
 collection: projects
 permalink: /projects/polcon
 ---
-
-The Political Consequences of the Great Recession
 
 ------
 

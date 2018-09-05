@@ -4,8 +4,6 @@ collection: projects
 permalink: /projects/fiscal_trade-offs
 ---
 
-Public Opinion Towards Fiscal: Studying Priorities and Trade-Offs with Survey Experiments (with Reto Bürgisser)
-
 ------
 
 In this joint research project, we I study public opinion towards (i) fiscal policies (including government spending, taxation, and government debt) and (ii) social policies (including varies forms of social investment and social consumption). The research project brings together our substantive interests in the politics of fiscal policies and the welfare state and it uses original conjoint and split-sample survey experiments in four European countries (Germany, Italy, Spain, UK) to capture the multidimensionality of fiscal and social policies. Disentangling the preferences towards different policies in this way allows us to analyse the citizens' priorities when they are confronted with some of the trade-offs that are inherent in policy-making.  
