@@ -1,7 +1,7 @@
 ---
 title: "4) Other Work in Progress"
 collection: projects
-permalink: /projects/fiscal_trade-offs
+permalink: /projects/other
 ---
 
 ------
