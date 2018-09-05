@@ -1,5 +1,5 @@
 ---
-title: "2) The Political Consequences of the Great Recession"
+title: "The Political Consequences of the Great Recession"
 collection: projects
 permalink: /projects/polcon
 ---
