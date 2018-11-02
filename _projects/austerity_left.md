@@ -15,5 +15,5 @@ Austerity has come to define the post-crisis European political economy as the p
 [Pre-print version]({{ site.url }}/files/publications/Bremer_MissingLeft_12_2017.pdf) / [online appendix]({{ site.url }}/files/publications/Bremer_MissingLeft_appendix_12_2017.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC)
 
 *Working papers:*
-* "The ideational foundations of social democratic austerity" (with Sean McDaniel, *revise and resubmit*)
+* "[The ideational foundations of social democratic austerity]({{ site.url }}/files/abstracts/BremerMcDaniel_2018_abstract.pdf)" (with Sean McDaniel, *revise and resubmit*)
 * "The political economy of the SPD Reconsidered: Evidence from the Great Recession" (*minor revisions*)
