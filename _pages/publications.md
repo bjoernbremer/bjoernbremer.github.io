@@ -8,7 +8,7 @@ author_profile: true
 
 **Articles (Peer-Review):**
 
-* Björn Bremer and Sean McDaniel (forthocming). The ideational foundations of social democratic austerity. *Socio-Economci Review*.
+* Björn Bremer and Sean McDaniel (forthocming). The ideational foundations of social democratic austerity. *Socio-Economic Review*.
 * Björn Bremer (forthcoming). The political economy of the SPD reconsidered: Evidence from the Great Recession. *German Politics*.
 * Björn Bremer (2018). [The missing left? Economic crisis and the programmatic response of social democratic parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745) *Party Politics*. 24(1):23-38. <br/>
 [Pre-print version]({{ site.url }}/files/publications/Bremer_MissingLeft_12_2017.pdf) / [online appendix]({{ site.url }}/files/publications/Bremer_MissingLeft_appendix_12_2017.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC)
