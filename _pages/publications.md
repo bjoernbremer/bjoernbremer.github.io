@@ -8,15 +8,15 @@ author_profile: true
 
 **Articles (Peer-Review):**
 
-* Björn Bremer and Sean McDaniel (forthocming). The ideational foundations of social democratic austerity. *Socio-Economic Review*.
-* Björn Bremer (forthcoming). The political economy of the SPD reconsidered: Evidence from the Great Recession. *German Politics*.
-* Björn Bremer (2018). [The missing left? Economic crisis and the programmatic response of social democratic parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745) *Party Politics*. 24(1):23-38. <br/>
+* Björn Bremer and [Sean McDaniel](https://warwick.ac.uk/fac/soc/pais/people/mcdaniel/) (2019). [The ideational foundations of social democratic austerity in the context of the Great Recession](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwz001/5320344). *Socio-Economic Review*. Online first.
+* Björn Bremer (2019). [The political economy of the SPD reconsidered: Evidence from the Great Recession](https://www.tandfonline.com/doi/abs/10.1080/09644008.2018.1555817?journalCode=fgrp20). *German Politics*. Online first.
+* Björn Bremer (2018). [The missing left? Economic crisis and the programmatic response of social democratic parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745). *Party Politics*. 24(1):23-38. <br/>
 [Pre-print version]({{ site.url }}/files/publications/Bremer_MissingLeft_12_2017.pdf) / [online appendix]({{ site.url }}/files/publications/Bremer_MissingLeft_appendix_12_2017.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC)
 
 **Book Chapters in Edited Volumes:**
 
+* Björn Bremer and [Julia Schulte-Cloos](https://jschultecloos.github.io/) (2019). "The restructuring of British and German party politics in times of crisis". In Hutter, Swen and Hanspeter Kriesi (eds.), *European Party Politics in Times of Crisis.* Cambridge: Cambridge University Press.
 * Björn Bremer and [Guillem Vidal](http://guillemvidal.eu/) (2018). "From boom to bust: A comparative analysis of Greece and Spain under austerity". In Doxiadis, Evdoxios and Aimee Placas (eds.). *[Living Under Austerity: Greek Society in Crisis](http://www.berghahnbooks.com/title/DoxiadisLiving)*. New York: Berghahn Books.
-* Björn Bremer and [Julia Schulte-Cloos](https://jschultecloos.github.io/) (forthcomig). "The restructuring of British and German party politics in times of crisis". In Hutter, Swen and Hanspeter Kriesi (eds.), *Transformative Elections? Restructuring the National Political space in Europe in Times of Multiple Crises.* Cambridge: Cambridge University Press.
 
 **Policy Papers:**
 
