@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Department of Social and Political Sciences](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/Index.aspx) at the [European University Institute](https://www.eui.eu/Home.aspx") and a Doctoral Researcher in the [POLCON project]("http://www.eui.eu/Projects/POLCON/Home.aspx).
+I am a political economist at the Max Planck Institute for the Study of Societies (MPIfG) in Cologne. Previously, I completed a Ph.D. in Political and Social Sciences at the [European University Institute (EUI)](https://www.eui.eu/Home.aspx") in Florence. At the EUI, I was also a researcher in the [POLCON project]("http://www.eui.eu/Projects/POLCON/Home.aspx).
 
-I previously studied at [UWC Atlantic College](http://www.atlanticcollege.org/) and I hold degrees in Philosophy, Politics, and Economics (PPE) from the [University of Oxford](http://www.ox.ac.uk/) and in International Relations and International Economics from the [School of Advanced International Studies](https://www.sais-jhu.edu/) (SAIS) at Johns Hopkins University.
+Prior to my Ph.D., I studied at [UWC Atlantic College](http://www.atlanticcollege.org/) and obtained a BA in Philosophy, Politics, and Economics (PPE) from the [University of Oxford](http://www.ox.ac.uk/) and an MA in International Relations and International Economics from the [School of Advanced International Studies](https://www.sais-jhu.edu/) (SAIS) at Johns Hopkins University.
 
 My main research interests lie at the intersection of political economy, comparative politics, and political behaviour. In my PhD, I studied the fiscal policies of social democratic parties in response to the Great Recession.
 
