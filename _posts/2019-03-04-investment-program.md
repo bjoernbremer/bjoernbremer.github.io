@@ -1,5 +1,5 @@
 ---
-title: 'Why Germany and the US should embark on a large-scale investment program now'
+title: 'Why Germany and the US Should Embark on a Large-Scale Investment Program Now'
 date: 2019-04-03
 permalink: /posts/2018/01/missing-left/
 tags:
