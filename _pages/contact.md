@@ -7,12 +7,11 @@ author_profile: true
 
 Feel free to contact me if you have any questions about my research: 
 
-&nbsp;&nbsp;&nbsp;&nbsp; European University Institute (EUI)   
-&nbsp;&nbsp;&nbsp;&nbsp; Department of Social and Political Sciences   
-&nbsp;&nbsp;&nbsp;&nbsp; Badia Fiesolana   
-&nbsp;&nbsp;&nbsp;&nbsp; Via dei Roccettini, 9   
-&nbsp;&nbsp;&nbsp;&nbsp; I-50014 San Domenico di Fiesole   
-&nbsp;&nbsp;&nbsp;&nbsp; Italy     
+&nbsp;&nbsp;&nbsp;&nbsp; Max Planck Institute for the Study of Societies (MPIfG)   
+&nbsp;&nbsp;&nbsp;&nbsp; Paulstraße 3 
+&nbsp;&nbsp;&nbsp;&nbsp; 50676 Cologne
+&nbsp;&nbsp;&nbsp;&nbsp; Germany
 
-&nbsp;&nbsp;&nbsp;&nbsp; Email: bjoern.bremer[at]eui.eu   
+&nbsp;&nbsp;&nbsp;&nbsp; Email: bremer[at]mpifg.de
 &nbsp;&nbsp;&nbsp;&nbsp; Twitter: bjoern_bremer
+&nbsp;&nbsp;&nbsp;&nbsp; Phone: +49 221 2767-154

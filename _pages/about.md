@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a political economist at the Max Planck Institute for the Study of Societies (MPIfG) in Cologne. Previously, I completed a Ph.D. in Political and Social Sciences at the [European University Institute (EUI)](https://www.eui.eu/Home.aspx") in Florence. At the EUI, I was also a researcher in the [POLCON project]("http://www.eui.eu/Projects/POLCON/Home.aspx).
+I am a Senior Researcher in Comparative and International Political Economy at the Max Planck Institute for the Study of Societies (MPIfG) in Cologne. Previously, I completed a Ph.D. in Political and Social Sciences at the [European University Institute (EUI)](https://www.eui.eu/Home.aspx") in Florence. At the EUI, I was also a researcher in the [POLCON project]("http://www.eui.eu/Projects/POLCON/Home.aspx).
 
 Prior to my Ph.D., I studied at [UWC Atlantic College](http://www.atlanticcollege.org/) and obtained a BA in Philosophy, Politics, and Economics (PPE) from the [University of Oxford](http://www.ox.ac.uk/) and an MA in International Relations and International Economics from the [School of Advanced International Studies](https://www.sais-jhu.edu/) (SAIS) at Johns Hopkins University.
 

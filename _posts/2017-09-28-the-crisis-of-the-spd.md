@@ -13,7 +13,9 @@ The German SPD hit a historic low in the 2017 federal elections. The 20.5 per ce
 
 But this crisis is not unique to Germany. Since the mid-2000s, almost all social democratic parties across Europe have struggled and they are now falling like dominoes. In 2017 alone, the Dutch Labour party and the French Socialists have experienced electoral obliteration and the Austrian SPÖ is expected to lose upcoming elections in October. There are only very few social democratic parties in Western Europe which are resisting this trend, including the Socialist Party in Portugal and the British Labour party under Jeremy Corbyn.
 
-![Figure 1: The SPD’s vote share compared to the average vote share of social democratic parties in Western Europe (1945-2017)]({{ site.url }}/files/images/spd_crisis/figure1.png)
+*Figure 1: The SPD’s vote share compared to the average vote share of social democratic parties in Western Europe (1945-2017)*
+
+![Figure 1]({{ site.url }}/files/images/spd_crisis/figure1.png)
 
 *Source: [ParlGov Database 2016](http://www.parlgov.org/), author’s update and calculations*
 
@@ -27,9 +29,11 @@ The second factor contributing to the SPD’s weakness was the party’s inabili
 
 The SPD’s inability to connect with the electorate is greatest in Bavaria and East Germany, as figure 2 shows. In Bavaria, the SPD has traditionally been weak due to the dominance of the CSU, but weakness in East Germany is bad news for the social democrats. In 1998 and 2002 – the only federal elections that the SPD has won after reunification – the SPD was by far the most popular party in East Germany, winning the popular vote in the East by 7.8 and 11.4 percentage points, respectively. In contrast, in 2017, it was relegated to fourth place and only won 14.2 per cent in East Germany. It was unable to address the concerns of East German voters, [many of whom are frustrated](https://www.ft.com/content/4eb3aff0-a29a-11e7-b797-b61809486fe2). Twenty-seven years after re-unification there is still a significant [economic gap between West and East Germany](http://www.faz.net/aktuell/wirtschaft/deutsche-einheit-bleibende-unterschiede-zwischen-ost-und-west-15185868.html) and a large part of the population feels left behind.
 
-![Figure 2: Vote share for the SPD across Germany in the 2017 federal election]({{ site.url }}/files/images/spd_crisis/figure2.png)
+*Figure 2: Vote share for the SPD across Germany in the 2017 federal election*
 
-*Federal Returning Officer, author’s calculations*
+![Figure 2]({{ site.url }}/files/images/spd_crisis/figure2.png)
+
+*Source: Federal Returning Officer, author’s calculations*
 
 The SPD lacks a grand narrative to reconnect with these frustrated voters in East Germany and elsewhere. The party had [already shifted to the left](http://bjoern-bremer.com/files/publications/Bremer_MissingLeft_06_2017.pdf) in terms of its social and economic policies in the wake of the Great Recession, but it remains hamstrung by inconsistencies within its own programme. Importantly, the SPD has not challenged the orthodox nature of the economic debate in Germany since the early 2000s, when Schröder implemented the Agenda 2010. In 2017, the SPD campaigned under the slogan “time for more justice”, but it offered little beyond technocratic fixes. For all the details that its electoral programme contained, it lacked ideas that could have helped the party to rediscover its own voice. This undermined the ability of the party to reach out to the working class and voters in East Germany.
 
@@ -38,6 +42,7 @@ A third reason for the weakness of the SPD is that it does not have a clear pers
 Looking ahead, the SPD’s leadership, party members, and voters are all opposed to joining another grand coalition under Merkel. They rightly fear that this could deal a final blow to the party. However, the SPD cannot simply lick its wounds and lie low until the next election in 2021. Instead, a more fundamental renewal is needed. In the short-run, party leaders will try not to rock the boat until the state elections in Lower Saxony on 15 October. Yet, more dramatic changes in leadership and direction might come afterwards.
 
 The party’s left wing will undoubtedly try to reassert itself and the [election of Andrea Nahles as the leader of the parliamentary faction](http://www.politico.eu/article/martin-schulz-picks-andrea-nahles-to-lead-spd-in-german-parliament-elections-2017/) is already a first sign of this realignment within the SPD. This process will help the SPD to become a strong opposition to Merkel’s fourth government, but the party also needs to do some deeper soul-searching. Together with other European social democratic parties, the SPD must develop a new, coherent vision that clearly demonstrates how they remain relevant in the 21st century. Even without the responsibility of government, the SPD’s to-do list over the next four years will be long. Their task is nothing less than to save social democracy.
+
 
 *This post was first published on the [EUROPP Blog](http://blogs.lse.ac.uk/europpblog/2017/09/28/the-crisis-of-the-spd-where-now-for-germanys-social-democrats/) from the LSE on 28 September 2017*
 
