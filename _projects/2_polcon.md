@@ -16,4 +16,4 @@ In co-authored papers, I work on different aspects of this research project. On 
 
 *Working papers:*
 * "[Dynamics of protest and electoral politics in the Great Recession: A comparative study of 30 European countries]({{ site.url }}/files/abstracts/Bremer_etal_2018_abstract.pdf)" (with [Swen Hutter](http://www.swen-hutter.eu/) and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx), *revise and resubmit*)
-* "[The effect of austerity packages on government popularity during the Great Recession]({{ site.url }}/files/abstracts/Bojar_etal_2018_abstract.pdf)" (with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang, *revise and resubmit*)
+* "[The effect of austerity packages on government popularity during the Great Recession]({{ site.url }}/files/abstracts/Bojar_etal_2018_abstract.pdf)" (with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang, *under review*)
