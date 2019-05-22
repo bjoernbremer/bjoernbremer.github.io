@@ -1,5 +1,5 @@
 ---
-title: "Public Opinion Towards Fiscal: Studying Priorities and Trade-Offs with Survey Experiments"
+title: "Public Opinion Towards Fiscal and Social Policies: Studying Priorities and Trade-Offs with Survey Experiments"
 collection: projects
 permalink: /projects/fiscal_trade-offs
 ---
