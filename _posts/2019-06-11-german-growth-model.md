@@ -1,6 +1,6 @@
 ---
 title: 'Germany’s growth model under attack?'
-date: 2019-04-03
+date: 2019-06-11
 permalink: /posts/2019/06/german-growth-model/
 tags:
   - growth models
@@ -20,7 +20,7 @@ In light of recent evidence, however, Macron’s comments may still be right. To
 
 *Figure 1: Forecasted GPD growth of advanced economies in 2019*
 
-![Figure 1]({{ site.url }}/files/images/aicgs/blog_2/figure1.png)
+![Figure 1]({{ site.url }}/files/images/aicgs/blog_2/figure1.png =150x)
 
 *Source: IMF World Economic Outlook, April 2019*
 
