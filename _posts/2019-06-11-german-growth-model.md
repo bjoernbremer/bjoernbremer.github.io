@@ -20,7 +20,7 @@ In light of recent evidence, however, Macron’s comments may still be right. To
 
 *Figure 1: Forecasted GPD growth of advanced economies in 2019*
 
-<img src="{{ site.url }}/files/images/aicgs/blog_2/figure1.png" width="250">
+<img src="{{ site.url }}/files/images/aicgs/blog_2/figure1.png" width="350">
 
 *Source: IMF World Economic Outlook, April 2019*
 
