@@ -1,7 +1,7 @@
 ---
 title: 'Why Germany and the US Should Embark on a Large-Scale Investment Program Now'
 date: 2019-04-03
-permalink: /posts/2018/01/missing-left/
+permalink: /posts/2019/03/investment-program/
 tags:
   - investments
   - government debt 
@@ -26,7 +26,7 @@ The results of this shortfall in public and private investment are already drama
 
 Policy-makers in Germany and the US should, therefore, shift their fiscal priorities: they need to develop large-scale investment programs that safeguard economic prosperity. This would not only help to revitalize regions that are left behind, but it would also help to expand the economic potential on both sides of the Atlantic. Unless policy-makers act fast, their countries will lose the physical and human capital to compete in the 21st century. 
 
-Policy-makers are in luck, though: there is no better time to develop a new “Marshall plan” than today. On the one hand, governments in advanced countries can finance debt very cheaply. Interest rates on government bonds remain extremely low (see Figure 2) and, as Olivier Blanchard recently pointed out, this allows governments to issue debt without large fiscal costs. This is particularly true for the Germany: yields on German government bonds have just turned negative, meaning that the government can issue debt of up to 10 years at negative interest rates. Private investors would essentially subsidize a public investment program in Germany.
+Policy-makers are in luck, though: there is no better time to develop a new “Marshall plan” than today. On the one hand, governments in advanced countries can finance debt very cheaply. Interest rates on government bonds remain extremely low (see Figure 2) and, [as Olivier Blanchard recently pointed out](https://www.aeaweb.org/aea/2019conference/program/pdf/14020_paper_etZgfbDr.pdf), this allows governments to issue debt without large fiscal costs. This is particularly true for the Germany: yields on German government bonds have just turned negative, meaning that the government can issue debt of up to 10 years at negative interest rates. Private investors would essentially subsidize a public investment program in Germany.
 
 *Figure 2: Long-term interest rate on German and US government bonds, 1970-2020*
 
