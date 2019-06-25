@@ -17,7 +17,7 @@ On both sides of the Atlantic, the biggest loser from these development has been
 
 *Figure 1: Gross capital formation as a share of GDP in Germany and the US, 1970-2018*
 
-![Figure 1]({{ site.url }}/files/images/aicgs/blog_1/investment_graph.png)
+<img src="{{ site.url }}/files/images/aicgs/blog_1/investment_graph.png" width="80">
 
 *Source: World Bank national accounts data and OECD national accounts data files*
 
