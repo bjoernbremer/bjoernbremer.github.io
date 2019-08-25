@@ -8,6 +8,7 @@ author_profile: true
 
 **Articles (Peer-Review):**
 
+* Björn Bremer, [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel), and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/) (forthcoming). [Juncker's curse? Identity, interest and public support for the integration of core state powers]. *Journal of Common Market Studies.* 
 * Björn Bremer and [Sean McDaniel](https://warwick.ac.uk/fac/soc/pais/people/mcdaniel/) (2019). [The ideational foundations of social democratic austerity in the context of the Great Recession](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwz001/5320344). *Socio-Economic Review*. Online first. <br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerMcDaniel_SER_2019.pdf)
 * Björn Bremer (2019). [The political economy of the SPD reconsidered: Evidence from the Great Recession](https://www.tandfonline.com/doi/abs/10.1080/09644008.2018.1555817?journalCode=fgrp20). *German Politics*. Online first. <br/>
