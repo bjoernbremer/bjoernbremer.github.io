@@ -11,7 +11,7 @@ Austerity has come to define the post-crisis European political economy as the p
 
 *Publications:*
 
-* "[The ideational foundations of social democratic austerity in the context of the Great Recession](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwz001/5320344)". *Socio-Economic Review*. Online first (2019, with Sean McDaniel).<br/>
+* "[The ideational foundations of social democratic austerity in the context of the Great Recession](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwz001/5320344)" (with [Sean McDaniel](https://warwick.ac.uk/fac/soc/pais/people/mcdaniel/)). *Socio-Economic Review*. Online first (2019).<br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerMcDaniel_SER_2019.pdf)
 *  "[The political economy of the SPD reconsidered: Evidence from the Great Recession](https://www.tandfonline.com/doi/abs/10.1080/09644008.2018.1555817?journalCode=fgrp20)". *German Politics*. Online first (2019).<br/>
 [Pre-print version]({{ site.url }}/files/publications/Bremer_GermanPolitics_2019.pdf)
