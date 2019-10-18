@@ -23,7 +23,7 @@ author_profile: true
 
 * Björn Bremer, [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx). Forthcoming. "Electoral punishment and protest politics in times of crisis." In Hanspeter Kriesi, Jasmine Lorenzini, Bruno Wüest, and Silja Häusermann (eds.), *Contention in Times of Crises: Comparing Political Protest in 30 European Countries, 2000-2015*. Cambridge: Cambridge University Press.
 * Björn Bremer and [Julia Schulte-Cloos](https://jschultecloos.github.io/). 2019. "The restructuring of British and German party politics in times of crisis". In Hutter, Swen and Hanspeter Kriesi (eds.), *European Party Politics in Times of Crisis.* Cambridge: Cambridge University Press.
-* Björn Bremer and [Guillem Vidal](http://guillemvidal.eu/). 2018. "From boom to bust: A comparative analysis of Greece and Spain under austerity". In Doxiadis, Evdoxios and Aimee Placas (eds.). *[Living Under Austerity: Greek Society in Crisis](http://www.berghahnbooks.com/title/DoxiadisLiving)*. New York: Berghahn Books.
+* Björn Bremer and [Guillem Vidal](http://guillemvidal.eu/). 2018. "From boom to bust: A comparative analysis of Greece and Spain under austerity". In Doxiadis, Evdoxios and Aimee Placas (eds.), *[Living Under Austerity: Greek Society in Crisis](http://www.berghahnbooks.com/title/DoxiadisLiving)*. New York: Berghahn Books.
 
 **Policy Papers:**
 
