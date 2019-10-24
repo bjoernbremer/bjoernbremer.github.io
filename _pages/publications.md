@@ -8,9 +8,9 @@ author_profile: true
 
 **Articles (Peer-Review):**
 
-* Björn Bremer, [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx). Forthcoming. "Dynamics of protest and electoral politics in the Great Recession". *European Journal of Political Research*. <br/> 
+* Björn Bremer, [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx). Forthcoming. "Dynamics of protest and electoral politics in the Great Recession." *European Journal of Political Research*. <br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR.pdf) / [online appendix]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR_appendix.pdf)
-* Björn Bremer, [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel), and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/). Forthcoming. "Juncker's curse? Identity, interest and public support for the integration of core state powers". *Journal of Common Market Studies.* <br/>
+* Björn Bremer, [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel), and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/). Forthcoming. "Juncker's curse? Identity, interest and public support for the integration of core state powers." *Journal of Common Market Studies.* <br/> 
 [Pre-print version]({{ site.url }}/files/publications/BremerGenschelJachtenfuchs_2019_JCMS.pdf) / [online appendix]({{ site.url }}/files/publications/BremerGenschelJachtenfuchs_2019_JCMS_appendix.pdf)
 * Björn Bremer and [Sean McDaniel](https://warwick.ac.uk/fac/soc/pais/people/mcdaniel/). 2019. [The ideational foundations of social democratic austerity in the context of the Great Recession](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwz001/5320344). *Socio-Economic Review*. Online first. <br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerMcDaniel_SER_2019.pdf)
