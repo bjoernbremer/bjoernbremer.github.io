@@ -22,7 +22,7 @@ Im vergangenen Jahr haben wir zusammen mit YouGov Bürgerinnen und Bürger aus e
 
 Abbildung 1: Einstellungen zu europäischer Solidarität[^1]
 
-<img src="{{ site.url }}/files/images/jcms/figure1.tiff" width="350">
+<img src="{{ site.url }}/files/images/jcms/figure1.png" width="350">
 
 Die gute Nachricht ist, dass die Unterstützung generell höher ist als die Ablehnung. Nur eine Minderheit lehnt transnationale Solidarität in der EU ab. Die schlechte Nachricht ist, dass das Unterstützungsniveau je nach Thema sehr stark schwankt.
 
@@ -36,7 +36,7 @@ Verschweigen die europäischen Durchschnittswerte in Abbildung 1 den Blick auf l
 
 Abbildung 2: Durchschnittliche Nettounterstützung für die europäische Solidarität nach Interesse (links: Schulden; rechts: Flüchtlinge)[^2]
 
-<img src="{{ site.url }}/files/images/jcms/figure2a.tiff" width="175"> <img src="{{ site.url }}/files/images/jcms/figure2b.tiff" width="175">
+<img src="{{ site.url }}/files/images/jcms/figure2a.png" width="175"> <img src="{{ site.url }}/files/images/jcms/figure2b.png" width="175">
 
 Während eine Mehrheit der Befragten aus nordwestlichen Ländern gegen Finanzhilfen für überschuldete Mitgliedstaaten ist (negative Nettounterstützung) – vermutlich weil sie befürchten, dass Heimatland müsse zahlen – sind die Befragten aus südöstlichen Ländern mehrheitlich dafür – vermutlich weil sie erwarten, das eigene Land könne profitieren.
 
@@ -52,7 +52,7 @@ Oft haben politische Minderheiten mit starken Meinungen einen größeren Einflus
 
 Abbildung 3: Durchschnittliche Nettounterstützung für Solidarität nach Parteizugehörigkeit: radikale populistische Rechte (RPR) und andere Wähler[^3]
 
-<img src="{{ site.url }}/files/images/jcms/figure2a.tiff" width="175"> <img src="{{ site.url }}/files/images/jcms/figure3.tiff" width="350">
+<img src="{{ site.url }}/files/images/jcms/figure3.png" width="350">
 
 Wie erwartet, sind rechte Wählerinnen und Wähler tendenziell weniger solidarisch als andere. Die Größe der Unterstützungslücke variiert jedoch stark nach Thema: In der Flüchtlingsfrage ist sie sehr groß, bei anderen Themen ist sie kleiner. Rechte sind deutlich fremdenfeindlicher als andere Wähler, aber ansonsten sind ihre Präferenzen nicht allzu extrem. Ihre Unterstützung für militärische Solidarität und Solidarität mit den Opfern von Naturkatastrophen ist positiv und erreicht fast das Unterstützungsniveau anderer Wähler. Man kann die Rechten wahrscheinlich nicht für mehr Flüchtlingssolidarität gewinnen, aber in anderen Fragen ist der Widerstand vielleicht gar nicht so groß.
 
@@ -64,9 +64,9 @@ Die stärkste Ablehnung kommt von denen, die befürchten, die Zeche zahlen zu m�
 
 Wenn die europäischen Regierungschefs wissen, was zu tun ist, wie Jean-Claude Juncker meint, dann sollten sie sich von unseren Ergebnissen nicht aufhalten lassen. Natürlich gewinnen populistische und nationalistische Strömungen an Einfluss und selbstverständlich sind damit Wahlrisiken verbunden. Solidarität zu verweigern ist aber nicht weniger riskant. Die Bevölkerung ist mehrheitlich proeuropäisch und will eine erfolgreiche EU. Wenn dazu mehr transnationale Solidarität notwendig ist, sollte man das offen sagen. Die Wählerinnen und Wähler würden das womöglich goutieren.
 
-* Datenquelle: YouGov 2018. Die Abbildung zeigt die durchschnittliche Unterstützung über die Länder hinweg.
-** Datenquelle: YouGov 2018. Die Abbildung zeigt das Verhältnis auf Länderebene zwischen der ‚durchschnittlichen Nettounterstützung‘ für horizontale Transfers und der durchschnittlichen Auffassung der Befragten, ob ihr Land Nettoempfänger oder Nettozahler eines EU-Krisenfonds sei. Die Nettounterstützung bezieht sich auf den Durchschnitt der Unterstützer (codiert als 1) und Gegner (codiert als –1) in einem bestimmten Land. Jedes Diagramm enthält eine lineare Regressionslinie und das zugehörige 95-prozentige Konfidenzintervall.
-*** Datenquelle: YouGov 2018. Die Abbildung zeigt die ‚durchschnittliche Nettounterstützung‘ nach politischer Präferenz in allen Ländern. Die Nettounterstützung bezieht sich auf den Durchschnitt der Unterstützer (codiert als 1) und Gegner (codiert als –1) in einem bestimmten Land. ‚RPR‘ bezieht sich auf Wähler der populistischen Rechtsradikalen; ‚Andere‘ bezieht sich auf alle anderen Wähler.
+[^1]: Datenquelle: YouGov 2018. Die Abbildung zeigt die durchschnittliche Unterstützung über die Länder hinweg.
+[^2]: Datenquelle: YouGov 2018. Die Abbildung zeigt das Verhältnis auf Länderebene zwischen der ‚durchschnittlichen Nettounterstützung‘ für horizontale Transfers und der durchschnittlichen Auffassung der Befragten, ob ihr Land Nettoempfänger oder Nettozahler eines EU-Krisenfonds sei. Die Nettounterstützung bezieht sich auf den Durchschnitt der Unterstützer (codiert als 1) und Gegner (codiert als –1) in einem bestimmten Land. Jedes Diagramm enthält eine lineare Regressionslinie und das zugehörige 95-prozentige Konfidenzintervall.
+[^3]: Datenquelle: YouGov 2018. Die Abbildung zeigt die ‚durchschnittliche Nettounterstützung‘ nach politischer Präferenz in allen Ländern. Die Nettounterstützung bezieht sich auf den Durchschnitt der Unterstützer (codiert als 1) und Gegner (codiert als –1) in einem bestimmten Land. ‚RPR‘ bezieht sich auf Wähler der populistischen Rechtsradikalen; ‚Andere‘ bezieht sich auf alle anderen Wähler.
 
 *Notiz:*
 
