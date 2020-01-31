@@ -10,5 +10,5 @@ In this joint research project, [Reto Bürgisser](https://www.ipw.unibe.ch/ueber
 
 *Working papers:*
 
-* "Are voters austerians? Evidence from survey experiments on budgetary trade-offs and priorities" (with [Reto Bürgisser](https://www.ipw.unibe.ch/ueber_uns/personen/dr_buergisser_reto/index_ger.html), under review) 
+* "Are voters austerians? Evidence from survey experiments on budgetary trade-offs and priorities" (with [Reto Bürgisser](https://www.ipw.unibe.ch/ueber_uns/personen/dr_buergisser_reto/index_ger.html), revise and resubmit) 
 * "Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments" (with [Reto Bürgisser](https://www.ipw.unibe.ch/ueber_uns/personen/dr_buergisser_reto/index_ger.html), under review)
