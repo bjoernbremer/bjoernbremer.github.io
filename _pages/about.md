@@ -12,7 +12,7 @@ I am a Senior Researcher in Comparative and International Political Economy at t
 
 Prior to my Ph.D., I studied at [UWC Atlantic College](http://www.atlanticcollege.org/) and obtained a BA in Philosophy, Politics, and Economics (PPE) from the [University of Oxford](http://www.ox.ac.uk/) and an MA in International Relations and International Economics from the [School of Advanced International Studies](https://www.sais-jhu.edu/) (SAIS) at Johns Hopkins University.
 
-My main research interests lie at the intersection of political economy, comparative politics, and political behaviour. In my PhD, I studied the fiscal policies of social democratic parties in response to the Great Recession.
+My main research interests lie at the intersection of political economy, comparative politics, and political behaviour. In my PhD, I studied the fiscal policies of social democratic parties in the context of the Great Recession.
 
 I collect news about my research, blog articles, and other thoughts about politics and economics [here]({{ site.url }}/blog). For more recent updates, feel free to browse my twitter timeline: 
 

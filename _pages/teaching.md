@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 **Bacherlor's Seminars:**
 * The Politics of Macroeconomic Policies, University of Cologne, Spring 2020
 
