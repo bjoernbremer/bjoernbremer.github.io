@@ -1,6 +1,6 @@
 ---
 title: 'Dynamics of protest and elections in the Great Recession'
-date: 2019-02-12
+date: 2020-02-12
 permalink: /posts/2020/01/dynamics/
 tags:
   - protest politics
