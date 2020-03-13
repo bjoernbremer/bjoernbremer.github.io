@@ -1,7 +1,7 @@
 ---
 title: 'International Investments and Current Account Imbalances: The Importance of Valuation Changes'
 date: 2017-12-11
-permalink: /posts/2017/01/valuation-changes/
+permalink: /posts/2017/12/valuation-changes/
 tags:
   - current account imablances
   - capital flows

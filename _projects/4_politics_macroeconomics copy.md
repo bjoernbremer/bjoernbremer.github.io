@@ -10,7 +10,7 @@ The Great Recession dragged macroeconomic policies from the technocratic realm o
 
 *Work in progress:*
 
-* "Up for grabs? Preferences for Eurozone membership and exit in Italy" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
 * "Public opinion towards growth models: Evidence from  a new survey" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp), [Kostas Gemenis](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=881), and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
-* "Beyond dogma and dominance: A state-centered explanation for Germany's investment gap" (with [Donato di Carlo](http://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=739))
+* "Beyond dogma and dominance: A state-centered explanation for Germany's investment gap" (with [Donato di Carlo](http://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=739) and [Leon Wansleben]())
+* "Unconventional monetary policies and anti-system attitudes and voting" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
 * "Current account imbalances, foreign investments, and valuation changes" (with [Guido Baldi](https://www.guidobaldi.ch/))

@@ -1,7 +1,7 @@
 ---
 title: 'The Ideational Foundations of Social Democratic Austerity in the Context of the Great Recession'
 date: 2019-02-14
-permalink: /posts/2018/01/missing-left/
+permalink: /posts/2019/02/ideational-foundations/
 tags:
   - social democratic parties
   - austerity

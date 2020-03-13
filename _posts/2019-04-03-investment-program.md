@@ -1,7 +1,7 @@
 ---
 title: 'Why Germany and the US Should Embark on a Large-Scale Investment Program Now'
 date: 2019-04-03
-permalink: /posts/2019/03/investment-program/
+permalink: /posts/2019/04/investment-program/
 tags:
   - investments
   - government debt 

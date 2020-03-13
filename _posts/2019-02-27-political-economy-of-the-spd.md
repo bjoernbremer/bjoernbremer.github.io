@@ -1,7 +1,7 @@
 ---
 title: 'The Political Economy of the SPD Reconsidered: Evidence from the Great Recession'
 date: 2019-02-27
-permalink: /posts/2018/01/missing-left/
+permalink: /posts/2019/02/spd-reconsidered/
 tags:
   - political econoy
   - social democratic parties 

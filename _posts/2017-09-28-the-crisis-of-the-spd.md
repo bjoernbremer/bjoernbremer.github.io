@@ -1,7 +1,7 @@
 ---
 title: 'The Crisis of the SPD: Where Now for Germany’s Social Democrats?'
 date: 2017-09-29
-permalink: /posts/2017/01/spd-crisis/
+permalink: /posts/2017/09/spd-crisis/
 tags:
   - German election
   - SPD
