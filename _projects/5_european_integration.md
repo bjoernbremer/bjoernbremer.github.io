@@ -1,5 +1,5 @@
 ---
-title: "Public Opinion towards the Eurozone and the European Union after a Tumultuous Decade"
+title: "Public Opinion on the Euro and the EU after a Tumultuous Decade"
 collection: projects
 permalink: /projects/contesting_europe
 ---
