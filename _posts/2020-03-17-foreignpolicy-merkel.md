@@ -1,5 +1,5 @@
 ---
-title: 'The Coronavirus Is Reducing Merkel's EU Legacy to Ashes'
+title: 'The Coronavirus Is Reducing Merkel’s EU Legacy to Ashes'
 date: 2020-03-17
 permalink: /posts/2020/03/foreign-policy/
 tags:

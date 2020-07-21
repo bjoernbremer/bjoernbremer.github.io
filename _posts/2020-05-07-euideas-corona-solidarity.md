@@ -11,11 +11,13 @@ tags:
 
 ---
 
-*This [post](https://euideas.eui.eu/2020/05/07/corona-solidarity/) was co-authored with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and first published by the [EUIdeas blog](https://euideas.eui.eu/) of the [European University Instite](https://eui.eu).*
+*This [post](https://euideas.eui.eu/2020/05/07/corona-solidarity/) was co-authored with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and first published by the [EUIdeas blog](https://euideas.eui.eu/) of the [European University Instiute](https://eui.eu).*
 
 What do Matteo Salvini, Emmanuel Macron, and Angela Merkel have in common? They all call for European solidarity to fight the corona-crisis. Figure 1 shows why: when a pandemic strikes, solidarity is popular with voters.
 
-![Figure 1. Support for EU solidarity across different types of crisis]({{ site.url }}/files/images/corona_solidarity/figure1.png)
+![Figure 1]({{ site.url }}/files/images/corona_solidarity/figure1.png)
+
+Figure 1: Support for EU solidarity across different types of crisis
 
 *Note: The figure shows the share of different response options to the EUI/YouGov survey question: "Now, imagine another country in the European Union is suffering [CRISIS]. Do you think [COUNTRY] should or should not provide any major help?"*
 
@@ -35,7 +37,9 @@ The corona-crisis is a major economic disaster. While countries like Germany and
 
 The key question is whether the EU should prop up their fiscal firepower, and how? Through loans or grants? Through the ESM, Coronabonds or the budget? Through "real budgetary transfers" or "fake money", as Emmanuel Macron put it? Clear-cut answers are made difficult by the peculiar fusion of debt and disease that the corona-crisis brought about. Figure 2 helps to understand why.
 
-![Figure 2: Average net support for pandemic-solidarity and debt-solidarity by country]({{ site.url }}/files/images/corona_solidarity/figure2.png)
+![Figure 2]({{ site.url }}/files/images/corona_solidarity/figure2.png)
+
+Figure 2: Average net support for pandemic-solidarity and debt-solidarity by country
 
 *Note: 'Average net support' refers to the average of supporters (coded as 1) and opponents (coded as -1) in a given country. For the underlying survey question see figure 1.*
 
@@ -53,7 +57,9 @@ Whether there is more to come will ultimately depend on two things: how Northern
 
 We focus on two key countries to explore these issues, Germany and Italy. As figure 3 shows, all German parties are conflicted between a desire to help other member states with the pandemic and an aversion to debt mutualization. Variation is limited. Green voters are the only group that supports debt solidarity by a relative majority. All others oppose it by relative or absolute majorities. The likely result is immobilism, uneasy denial, and foot dragging.
 
-![Figure 3: Support for pandemic-solidarity and debt-solidary in Germany by party]({{ site.url }}/files/images/corona_solidarity/figure2.png)
+![Figure 3]({{ site.url }}/files/images/corona_solidarity/figure2.png)
+
+Figure 3: Support for pandemic-solidarity and debt-solidary in Germany by party
 
 *Note: For the underlying survey question see figure 1.*
 
@@ -65,7 +71,9 @@ Second, the judgement of the German Constitutional Court on the ECB’s bond buy
 
 Finally, the German government could override domestic fiscal aversions to protect the coherence and viability of the EU. Whether such a leap is required, depends in large part on Italy. Italy has been particularly hard hit by the coronavirus. Disappointment about Europe’s perceived lack of solidarity was widespread. Support for EU membership dropped significantly. While in April 2019, 54 per cent of Italian respondents to the EUI/YouGov survey still said they would vote to remain in the EU in a hypothetical referendum (25 per cent leave), the remain-vote had decreased to 39 per cent (41 per cent leave) by April 2020. The picture is even more bleak, if we look at voting intentions across Italy’s main parties.
 
-[!Figure 4: Vote choice in a hypothetical referendum on EU membership in Italy by party]({{ site.url }}/files/images/corona_solidarity/figure4.png)
+[!Figure 4]({{ site.url }}/files/images/corona_solidarity/figure4.png)
+
+Figure 4: Vote choice in a hypothetical referendum on EU membership in Italy by party
 
 *Note: The figure shows the share of different response options to the EUI/YouGov survey question: "If there was a referendum on membership of the European Union, how would you vote?"*
 
