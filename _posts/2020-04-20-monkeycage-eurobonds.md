@@ -1,5 +1,5 @@
 ---
-title: 'Everyone Thinks That Germans Oppose ‘Coronabonds.’ Our Research Shows How They’re Wrong.'
+title: 'Everyone Thinks That Germans Oppose ‘Coronabonds.’ Our Research Shows How They’re Wrong'
 date: 2020-04-20
 permalink: /posts/2020/02/monkeycage-eurobonds/
 tags:
