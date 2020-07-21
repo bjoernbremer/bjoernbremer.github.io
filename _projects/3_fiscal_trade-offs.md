@@ -14,9 +14,12 @@ Second, I further analyze public opinion towards different fiscal and social pol
 
 *Working papers:*
 
-* "Are citizens austerians? Evidence from survey experiments on budgetary trade-offs and priorities" (with [Reto Bürgisser](https://www.ipw.unibe.ch/ueber_uns/personen/dr_buergisser_reto/index_ger.html), revise and resubmit) 
-* "Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments" (with [Reto Bürgisser](https://www.ipw.unibe.ch/ueber_uns/personen/dr_buergisser_reto/index_ger.html), under review)
+* "Are citizens austerians? Evidence from survey experiments on budgetary priorities" (with [Reto Bürgisser](https://scholar.google.com/citations?user=RL6fT8MAAAAJ&hl=de), revise and resubmit) 
+[Pre-print version](https://osf.io/preprints/socarxiv/gw5ea/)
+* "Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments" (with [Reto Bürgisser](https://scholar.google.com/citations?user=RL6fT8MAAAAJ&hl=de), under review)
+[Pre-print version](https://osf.io/preprints/socarxiv/uj6eq/)
 * "Green voters and support for different social policy logics in times of electoral realignment" (with [Hanna Schwander](www.schander-hanna.ch), revise and resubmit)
+* "Deservingness under constraints: Which social policies are prioritized in trade-off scenarios?" (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/))
 
 *Work in progress papers:*
 * "Is the low tax doctrine rooted in public opinion? Evidence from a survey experiment in four European countries" (with [Reto Bürgisser](https://www.ipw.unibe.ch/ueber_uns/personen/dr_buergisser_reto/index_ger.html))

@@ -14,4 +14,7 @@ The recent crises of the European Union have exposed a functional demand for the
 
 *Work in progress:*
 
-* "Up for grabs? Preferences for Eurozone membership and exit in Italy" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
+* "Is the euro up for grabs? Evidence from a survey experiment in Italy" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
+* "Reassessing the democratic constraint: Strategic Interdependence and Voter Preferences about the Euro" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
+* "Viral solidarity? EU Solidarity and Risk-Sharing in the COVID-19 Crisis" (with Theresa Kuhn, Maurits Meijers, and Francesco Nicoli)
+* "Party Cues and Common European Debt: A Survey Experiment" (with Theresa Kuhn, Maurits Meijers, and Francesco Nicoli)
