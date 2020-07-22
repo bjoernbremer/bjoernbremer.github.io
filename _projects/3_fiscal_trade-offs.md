@@ -21,5 +21,5 @@ Second, I further analyze public opinion towards different fiscal and social pol
 * "Green voters and support for different social policy logics in times of electoral realignment" (with [Hanna Schwander](www.schander-hanna.ch), revise and resubmit)
 * "Deservingness under constraints: Which social policies are prioritized in trade-off scenarios?" (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/))
 
-*Work in progress papers:*
+*Work in progress:*
 * "Is the low tax doctrine rooted in public opinion? Evidence from a survey experiment in four European countries" (with [Reto Bürgisser](https://www.ipw.unibe.ch/ueber_uns/personen/dr_buergisser_reto/index_ger.html))
