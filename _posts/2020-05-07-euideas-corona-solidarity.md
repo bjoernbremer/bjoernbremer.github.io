@@ -11,7 +11,7 @@ tags:
 
 ---
 
-*This [post](https://euideas.eui.eu/2020/05/07/corona-solidarity/) was co-authored with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and first published by the [EUIdeas blog](https://euideas.eui.eu/) of the [European University Instiute](https://eui.eu).*
+*This [post](https://euideas.eui.eu/2020/05/07/corona-solidarity/) was co-authored with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and first published by the [EUIdeas blog](https://euideas.eui.eu/) of the [European University Institute](https://eui.eu).*
 
 What do Matteo Salvini, Emmanuel Macron, and Angela Merkel have in common? They all call for European solidarity to fight the corona-crisis. Figure 1 shows why: when a pandemic strikes, solidarity is popular with voters.
 
