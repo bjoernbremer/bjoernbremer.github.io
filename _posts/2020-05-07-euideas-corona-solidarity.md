@@ -1,7 +1,7 @@
 ---
 title: 'Corona Solidarity'
 date: 2020-05-07
-permalink: /posts/2020/04/corona-solidarity/
+permalink: /posts/2020/05/corona-solidarity/
 tags:
   - COVID-19
   - European solidarity
