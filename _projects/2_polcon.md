@@ -20,5 +20,5 @@ In co-authored papers, I worked on different aspects of this research project. O
 * "From boom to bust: A comparative analysis of Greece and Spain under austerity" (with [Guillem Vidal](http://guillemvidal.eu/)). In Doxiadis, Evdoxios and Aimee Placas (eds.). *[Living Under Austerity: Greek Society in Crisis](http://www.berghahnbooks.com/title/DoxiadisLiving)*. New York: Berghahn Books, 2018.
 
 *Work in progress:*
-*"Where have all the social democrats gone? The mobilizing capacity of social democracy reconsidered" (with Line Rennwald)
+* "Where have all the social democrats gone? The mobilizing capacity of social democracy reconsidered" (with Line Rennwald)
 * "The impact of bank bailouts on government popularity during the Great Recession" (with Abel Bojar)
