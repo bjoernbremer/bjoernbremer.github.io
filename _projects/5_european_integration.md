@@ -10,7 +10,7 @@ The recent crises of the European Union have exposed a functional demand for the
 
 *Publications:*
 
-* [Juncker's curse? Identity, interest and public support for the integration of core state powers](https://doi.org/10.1111/jcms.12980). *Journal of Common Market Studies*, 58(1):56-75 (with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/)).
+* [Juncker's curse? Identity, interest and public support for the integration of core state powers](https://doi.org/10.1111/jcms.12980). *Journal of Common Market Studies*, 2020. 58(1):56-75 (with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/)).
 
 *Work in progress:*
 
