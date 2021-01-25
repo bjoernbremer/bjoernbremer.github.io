@@ -1,5 +1,5 @@
 ---
-title: 'MAX CPE program announced'
+title: 'MAX CPE Program Announced'
 date: 2021-01-04
 permalink: /posts/2021/01/maxcpe/
 tags:
