@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 **Articles (Peer-Review):**
-* Abel Bojar, Björn Bremer, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx), and Chendi Wang. Forthcoming. The effect of austerity packages on government popularity during the Great Recession. *British Journal of Political Science.* <br/>
+* Abel Bojar, Björn Bremer, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx), and Chendi Wang. 2021. [The effect of austerity packages on government popularity during the Great Recession](https://t.co/2Fmbwkxf9T?amp=1). *British Journal of Political Science.* <br/>
 [Pre-print version]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [replication material]()
 * Björn Bremer, [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx). 2020. [Dynamics of protest and electoral politics in the Great Recession](https://doi.org/10.1111/1475-6765.12375). *European Journal of Political Research*. 59(4):842-866. <br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR.pdf) / [online appendix]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR_appendix.pdf) / [replication material](https://doi.org/10.7910/DVN/GWPX1A)

@@ -13,6 +13,10 @@ author_profile: true
 
 * The Politics of Macroeconomic Policies, University of Cologne, Spring 2020
 
+**Master's Lecture:
+
+* Democratic Theory and Politics, University of Cologne, Spring 2021
+
 **Master's Seminars:**
 
 * Comparative Political Economy, University of Lucerne, Spring 2018
