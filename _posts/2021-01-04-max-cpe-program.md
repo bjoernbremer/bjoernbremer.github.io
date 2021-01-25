@@ -1,5 +1,5 @@
 ---
-title: 'Max Planck Online Workshop in Comparative Political Economy (MAX CPE)'
+title: 'MAX CPE program announced'
 date: 2021-01-04
 permalink: /posts/2021/01/maxcpe/
 tags:

@@ -14,7 +14,7 @@ Second, I further analyze public opinion towards different fiscal and social pol
 
 *Working papers:*
 
-* "Are citizens austerians? Evidence from survey experiments on budgetary priorities" (with [Reto Bürgisser](https://scholar.google.com/citations?user=RL6fT8MAAAAJ&hl=de)) <br/>
+* "Do citizens care about government debt? Evidence from survey experiments on budgetary priorities" (with [Reto Bürgisser](https://scholar.google.com/citations?user=RL6fT8MAAAAJ&hl=de)) <br/>
 [Pre-print version](https://osf.io/preprints/socarxiv/gw5ea/)
 * "Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments" (with [Reto Bürgisser](https://scholar.google.com/citations?user=RL6fT8MAAAAJ&hl=de), under review) <br/>
 [Pre-print version](https://osf.io/preprints/socarxiv/uj6eq/)
