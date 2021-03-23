@@ -7,8 +7,10 @@ author_profile: true
 {% include base_path %}
 
 **Articles (Peer-Review):**
+* [Baccaro, Lucio](https://www.mpifg.de/people/lb/index_en.asp), Björn Bremer, and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885). 2021. Till austerity do us part? A survey experiment on support for the Euro in Italy. *European Union Politics* <br/>
+[Pre-print version]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_2021) / [online appendix]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_2021_OnlineAppendix) / [replication material]()
 * Abel Bojar, Björn Bremer, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx), and Chendi Wang. 2021. [The effect of austerity packages on government popularity during the Great Recession](https://t.co/2Fmbwkxf9T?amp=1). *British Journal of Political Science.* <br/>
-[Pre-print version]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [replication material]()
+[Pre-print version]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [replication material](https://doi.org/10.7910/DVN/MDLQKC)
 * Björn Bremer, [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx). 2020. [Dynamics of protest and electoral politics in the Great Recession](https://doi.org/10.1111/1475-6765.12375). *European Journal of Political Research*. 59(4):842-866. <br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR.pdf) / [online appendix]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR_appendix.pdf) / [replication material](https://doi.org/10.7910/DVN/GWPX1A)
 * Björn Bremer, [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel), and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/). 2020. [Juncker's curse? Identity, interest and public support for the integration of core state powers](https://doi.org/10.1111/jcms.12980). *Journal of Common Market Studies. 58(1):56-75.* <br/> 

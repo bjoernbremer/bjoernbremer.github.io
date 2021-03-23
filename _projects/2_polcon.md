@@ -12,7 +12,7 @@ In co-authored papers, I worked on different aspects of this research project. O
 
 *Publications:*
 * ["The effect of austerity packages on government popularity during the Great Recession"](https://t.co/2Fmbwkxf9T?amp=1) (with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang). *British Journal of Political Science*. <br/>
-[Pre-print version]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [replication material]()
+[Pre-print version]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [replication material]( https://doi.org/10.7910/DVN/MDLQKC)
 * ["Dynamics of protest and electoral politics in the Great Recession"](https://doi.org/10.1111/1475-6765.12375) (with [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)). *European Journal of Political Research*, 59(4):842-866, 2020. <br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR.pdf) / [online appendix]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR_appendix.pdf) / [replication material](https://doi.org/10.7910/DVN/GWPX1A)
 * "Electoral punishment and protest politics in times of crisis" (with [Swen Hutter](http://www.swen-hutter.eu/) and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)). In Hanspeter Kriesi, Jasmine Lorenzini, Bruno Wüest, and Silja Häusermann (eds.), *Contention in Times of Crises: Comparing Political Protest in 30 European Countries, 2000-2015*. Cambridge: Cambridge University Press, 2020.

@@ -10,11 +10,13 @@ The recent crises of the European Union have exposed a functional demand for the
 
 *Publications:*
 
-* [Juncker's curse? Identity, interest and public support for the integration of core state powers](https://doi.org/10.1111/jcms.12980). *Journal of Common Market Studies*, 2020. 58(1):56-75 (with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/)).
+* "Till austerity do us part? A survey experiment on support for the Euro in Italy. *European Union Politics* (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)).<br/>
+[Pre-print version]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_2021) / [online appendix]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_2021_OnlineAppendix) / [replication material]()
+*[Juncker's curse? Identity, interest and public support for the integration of core state powers](https://doi.org/10.1111/jcms.12980). *Journal of Common Market Studies*, 2020. 58(1):56-75 (with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/)).<br/>
+[Pre-print version]() 
 
 *Work in progress:*
 
-* "Is the euro up for grabs? Evidence from a survey experiment in Italy" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885), revise and resubmit)
-* "Reassessing the democratic constraint: Strategic interdependence and voter Preferences about the euro" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
-* "Viral solidarity? EU solidarity and risk-sharing in the COVID-19 crisis" (with Theresa Kuhn, Maurits Meijers, and Francesco Nicoli)
-* "Party cues and common European debt: A survey experiment" (with Theresa Kuhn, Maurits Meijers, and Francesco Nicoli)
+* "Reassessing the "democratic constraint" of the eurozone: Strategic interdependence and preferences for fiscal integration and disintegration" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
+* "Viral solidarity? EU solidarity and risk-sharing in the COVID-19 crisis" (with [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://maurits-meijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/))
+* "Party cues and common European debt: A survey experiment" (with [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://maurits-meijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/))
