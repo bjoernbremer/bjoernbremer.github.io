@@ -1,5 +1,5 @@
 ---
-title: 'Till austerity do us part? A survey experiment on support for the euro in Italy'
+title: 'Till Austerity Do Us Part? A Survey Experiment on Support for the Euro in Italy'
 date: 2021-04-08
 permalink: /posts/2021/04/austerity-italexit/
 tags:

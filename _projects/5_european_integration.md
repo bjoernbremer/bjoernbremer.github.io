@@ -18,9 +18,9 @@ The recent crises of the European Union have exposed a functional demand for the
 *Working papers:*
 
 * "Getting closer by moving apart? Strategic interdependence and preferences for debt mutualization in the eurozone" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885), under review)<br/>
-[Pre-print version](https://osf.io/preprints/socarxiv/uj6eq/)
+[Pre-print version](https://osf.io/preprints/socarxiv/atg8p/)
 * "Viral solidarity? EU solidarity and risk-sharing in the COVID-19 crisis" (with [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://maurits-meijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/))<br/>
-[Pre-print version](https://osf.io/preprints/socarxiv/uj6eq/)
+[Pre-print version](https://osf.io/preprints/socarxiv/82cyw/)
 
 *Work in progress:*
 
