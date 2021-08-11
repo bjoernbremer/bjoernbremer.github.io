@@ -53,7 +53,6 @@ However, the signs from Die Linke and the Greens are not necessarily encouraging
 
 In conclusion, it remains to be seen whether the Schulz effect will be large enough to end Angela Merkel’s dominance over the political landscape in Germany. While the SPD will benefit from his popularity and his ability to connect with people from very different backgrounds, the structural difficulties that social democratic parties have faced in Europe in the last few years still exist. The SPD has been torn apart by political competition and the party needs to be given a new, firm sense of direction with a clear programmatic position. As invigorating as Schulz may be, his popularity and a dash of European optimism alone will not be sufficient to win the election.
 
-
 *This post was first published on the [WZB Democracy Blog](https://democracy.blog.wzb.eu/2017/02/10/schulzeffect/). A slightly edited version was published by [EuVisions](http://www.euvisions.eu/european-social-democracy/).*
 
 ------
