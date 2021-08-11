@@ -20,5 +20,5 @@ The Great Recession dragged macroeconomic policies from the technocratic realm o
 * "Covid Keynesianism and its trade-offs: Evidence from a survey experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
 * "The impact of unconventional monetary policies on public opinion: A natural experiment on the ECB's PEPP announcement" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
 * "When central banking becomes costly: The politics of unconventional monetary policies and its trade-offs" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
-* What should we do about debt? Understanding how people reason about fiscal stress and debt sustainability (with Charlotte Cavaille, Catherine de Vries, Lisanne de Block)
+* What should we do about debt? Understanding how people reason about fiscal stress and debt sustainability (with Charlotte Cavaille, Catherine de Vries, and Lisanne de Block)
 * Party favoritism and local public investment: Quasi-experimental evidence from Germany
