@@ -1,5 +1,5 @@
 ---
-title: "Political Aspects of Macroeconomic Policies and Growth Models"
+title: "The Politics of Macroeconomic Policies"
 collection: projects
 permalink: /projects/politics_macroeconomics
 ---
@@ -18,7 +18,9 @@ The Great Recession dragged macroeconomic policies from the technocratic realm o
 
 * "Public opinion towards growth strategies: Evidence from  a new survey" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp), [Kostas Gemenis](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=881), and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
 * "Covid Keynesianism and its trade-offs: Evidence from a survey experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
-* "The impact of unconventional monetary policies on public opinion: A natural experiment on the ECB's PEPP announcement" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
+* "Quantitative easing and trust in central banks: Evidence from a natural experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
 * "When central banking becomes costly: The politics of unconventional monetary policies and its trade-offs" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
-* "What should we do about debt? Understanding how people reason about fiscal stress and debt sustainability" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Catherine de Vries](https://www.catherinedevries.eu/), and [Lisanne de Blok](https://lisannedeblok.com/)
+* "Much ado about debt? Understanding how people reason about debt (un)sustainability" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Catherine de Vries](https://www.catherinedevries.eu/), and [Lisanne de Blok](https://lisannedeblok.com/))
+* "What explains support for crisis policy interventions? Race, class, and wealth" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/) and [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter))
 * "Party favoritism and local public investment: Quasi-experimental evidence from Germany"
+* "The electoral consequences of centrist policies: Fiscal consolidations and the fate of social democratic parties"

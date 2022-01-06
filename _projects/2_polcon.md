@@ -11,7 +11,8 @@ I was a member of the ERC-funded research project [POLCON](http://www.eui.eu/Pro
 In co-authored papers, I worked on different aspects of this research project. On the one hand, I worked on comparative-static analyses of the electoral consequences of the Great Recession. I was responsible for the analysis of the consequences of the economic crisis on protest and electoral politics and the interaction of both. To better understand these consequences, I also zoomed in and studied the political consequences of specific economic policies during the Great Recession, namely austerity and structural reforms. On the other hand, I analysed the development of political conflict in comparative case studies. In particular, I have worked on chapters in edited volumes that analyse the development of political conflict in Germany, Greece, Spain and the UK.
 
 *Publications:*
-* ["The effect of austerity packages on government popularity during the Great Recession"](https://t.co/2Fmbwkxf9T?amp=1) (with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang). *British Journal of Political Science*. <br/>
+
+* ["The effect of austerity packages on government popularity during the Great Recession"](https://t.co/2Fmbwkxf9T?amp=1) (with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang). *British Journal of Political Science*, 52(1):181-199, 2022. <br/>
 [Pre-print version]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [online appendix]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [replication material](https://doi.org/10.7910/DVN/MDLQKC)
 * ["Dynamics of protest and electoral politics in the Great Recession"](https://doi.org/10.1111/1475-6765.12375) (with [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)). *European Journal of Political Research*, 59(4):842-866, 2020. <br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR.pdf) / [online appendix]({{ site.url }}/files/publications/BremerHutterKriesi_2019_EJPR_appendix.pdf) / [replication material](https://doi.org/10.7910/DVN/GWPX1A)
@@ -20,4 +21,5 @@ In co-authored papers, I worked on different aspects of this research project. O
 * "From boom to bust: A comparative analysis of Greece and Spain under austerity" (with [Guillem Vidal](http://guillemvidal.eu/)). In Doxiadis, Evdoxios and Aimee Placas (eds.). *[Living Under Austerity: Greek Society in Crisis](http://www.berghahnbooks.com/title/DoxiadisLiving)*. New York: Berghahn Books, 2018.
 
 *Work in progress:*
-* "Where have all the social democrats gone? The mobilizing capacity of social democracy reconsidered" (with Line Rennwald)
+
+* "Who still likes social democracy? The support base of social democratic parties reconsidered" (with Line Rennwald)

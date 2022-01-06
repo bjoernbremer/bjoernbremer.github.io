@@ -1,5 +1,5 @@
 ---
-title: "Austerity from the Left: The Fiscal Policies of Social Democratic Parties in Response to the Great Recession (PhD Thesis)"
+title: "Austerity From the Left: Social Democratic Parties in the Shadow of the Great Recession (PhD Thesis)"
 collection: projects
 permalink: /projects/austerity_left
 ---
