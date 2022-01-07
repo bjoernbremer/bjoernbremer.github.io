@@ -12,14 +12,14 @@ First, in a joint research project, [Reto Bürgisser](https://retobuergisser.com
 
 Second, I further analyze public opinion towards different fiscal and social policies under constraints in several co-authored papers. Based on survey data from eight Western European countries, [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-dr-marius-r-busemeyer/) and I provide a partial answer to the question of why social investment policies are difficult to implement. We explore citizens' fiscal policy preferences about the preferred size of the state and the distribution of spending across different sub-sectors. Our results show that people who traditionally support a large public sector and more welfare state spending tend to oppose shifting spending towards social investment, whereas support for such a recalibration is higher among those who have skeptical views on public spending.
 
-*Working papers:*
+*Publications:*
 
 * "Do citizens care about government debt? Evidence from survey experiments on budgetary priorities" (with [Reto Bürgisser](https://retobuergisser.com/)). *European Journal of Political Research*, forthcoming. <br/>
 [Pre-print version](https://osf.io/preprints/socarxiv/gw5ea/)
 * "Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments" (with [Reto Bürgisser](https://retobuergisser.com/)). *Political Science Research and Methods*, forthcoming. <br/>
 [Pre-print version](https://osf.io/preprints/socarxiv/uj6eq/)
+
+*Working papers:*
+
 * "Fiscal policy preferences, trade-offs, and support for social investment" (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/))
-
-*Work in progress:*
-
 * "Is the low tax doctrine rooted in public opinion? Evidence from a survey experiment in four European countries" (with [Reto Bürgisser](https://retobuergisser.com/))

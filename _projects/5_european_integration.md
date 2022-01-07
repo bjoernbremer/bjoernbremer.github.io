@@ -21,8 +21,5 @@ The recent crises of the European Union have exposed a functional demand for the
 [Pre-print version](https://osf.io/preprints/socarxiv/atg8p/)
 * "In this together? Support for European fiscal integration in the COVID-19 crisis" (with [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://maurits-meijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/), under review)<br/>
 [Pre-print version](https://osf.io/preprints/socarxiv/82cyw/)
-
-*Work in progress:*
-
 * "Manufacturing support for international cooperation: How parties can affect fiscal integration preferences" (with [Maurits Meijers](http://maurits-meijers.eu/), [Theresa Kuhn](https://theresakuhn.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/))
 * "Better-off vs. left-behind? Patterns of support for the euro in Italy and Germany" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
