@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-**Undergraduate Seminars:**
+**Undergraduate Seminars (BA):**
 
 * The Politics of Macroeconomic Policies, University of Cologne, Spring 2020
 
