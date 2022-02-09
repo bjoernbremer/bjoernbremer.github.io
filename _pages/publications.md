@@ -7,10 +7,10 @@ author_profile: true
 {% include base_path %}
 
 **Articles (Peer-Review):**
-* Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). Forthcoming. Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments. *Political Science Research and Methods*. <br/>
-[Preprint version](https://osf.io/uj6eq/) 
-* Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). Forthcoming. [Do citizens care about government debt? Evidence from survey experiments on budgetary trade-offs and priorities](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12505). *European Journal of Political Research*. <br/>
-[Preprint version](https://osf.io/preprints/socarxiv/gw5ea/)
+* Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). 2022. [Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments](cup.org/3IVayu6). *Political Science Research and Methods*. <br/>
+[Preprint version](https://osf.io/uj6eq/)  / [online appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S2049847021000789/resource/name/S2049847021000789sup001.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7ERIFH)
+* Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). 2022. [Do citizens care about government debt? Evidence from survey experiments on budgetary trade-offs and priorities](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12505). *European Journal of Political Research*. <br/>
+[Preprint version](https://osf.io/preprints/socarxiv/gw5ea/) / [online appendix](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505) / [replication material](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505)
 * Abel Bojar, Björn Bremer, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx), and Chendi Wang. 2022. [The effect of austerity packages on government popularity during the Great Recession](https://t.co/2Fmbwkxf9T?amp=1). *British Journal of Political Science* 52(1):181-199. <br/>
 [Preprint version]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [online appendix]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [replication material](https://doi.org/10.7910/DVN/MDLQKC)
 * [Lucio Baccaro](https://www.mpifg.de/people/lb/index_en.asp), Björn Bremer, and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885). 2021. [Till austerity do us part? A survey experiment on support for the Euro in Italy](https://journals.sagepub.com/doi/full/10.1177/14651165211004772). *European Union Politics* 22(3):401-423. <br/>
