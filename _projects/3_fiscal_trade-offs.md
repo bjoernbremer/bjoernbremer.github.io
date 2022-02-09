@@ -14,10 +14,10 @@ Second, I further analyze public opinion towards different fiscal and social pol
 
 *Publications:*
 
-* "Do citizens care about government debt? Evidence from survey experiments on budgetary priorities" (with [Reto Bürgisser](https://retobuergisser.com/)). *European Journal of Political Research*, forthcoming. <br/>
-[Pre-print version](https://osf.io/preprints/socarxiv/gw5ea/)
-* "Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments" (with [Reto Bürgisser](https://retobuergisser.com/)). *Political Science Research and Methods*, forthcoming. <br/>
-[Pre-print version](https://osf.io/preprints/socarxiv/uj6eq/)
+* ["Do citizens care about government debt? Evidence from survey experiments on budgetary priorities"](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.1250) (with [Reto Bürgisser](https://retobuergisser.com/)). *European Journal of Political Research*, 2022. <br/>
+[Preprint version](https://osf.io/preprints/socarxiv/gw5ea/) / [online appendix](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505) / [replication material](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505)
+* ["Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments"](cup.org/3IVayu6) (with [Reto Bürgisser](https://retobuergisser.com/)). *Political Science Research and Methods*, 2022. <br/>
+[Preprint version](https://osf.io/uj6eq/)  / [online appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S2049847021000789/resource/name/S2049847021000789sup001.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7ERIFH)
 
 *Working papers:*
 
