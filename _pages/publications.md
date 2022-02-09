@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 **Articles (Peer-Review):**
-* Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). 2022. [Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments](cup.org/3IVayu6). *Political Science Research and Methods*. <br/>
+* Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). 2022. [Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments](https://cup.org/3IVayu6). *Political Science Research and Methods*. <br/>
 [Preprint version](https://osf.io/uj6eq/)  / [online appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S2049847021000789/resource/name/S2049847021000789sup001.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7ERIFH)
 * Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). 2022. [Do citizens care about government debt? Evidence from survey experiments on budgetary trade-offs and priorities](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12505). *European Journal of Political Research*. <br/>
 [Preprint version](https://osf.io/preprints/socarxiv/gw5ea/) / [online appendix](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505) / [replication material](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505)
