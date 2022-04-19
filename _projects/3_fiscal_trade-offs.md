@@ -13,7 +13,9 @@ First, in a joint research project, [Reto Bürgisser](https://retobuergisser.com
 Second, I further analyze public opinion towards different fiscal and social policies under constraints in several co-authored papers. Based on survey data from eight Western European countries, [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-dr-marius-r-busemeyer/) and I provide a partial answer to the question of why social investment policies are difficult to implement. We explore citizens' fiscal policy preferences about the preferred size of the state and the distribution of spending across different sub-sectors. Our results show that people who traditionally support a large public sector and more welfare state spending tend to oppose shifting spending towards social investment, whereas support for such a recalibration is higher among those who have skeptical views on public spending.
 
 *Publications:*
-
+* "The constrained politics of local public investments under cooperative federalism" (with [Donato di Carlo](https://www.mpifg.de/person/110112/753645) and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460), *Socio-Economic Review*, forthcoming). <br/>
+[Earlier working paper](https://www.mpifg.de/pu/dp_abstracts/dp21-4.asp)
+* * "Fiscal policy preferences, trade-offs, and support for social investment" (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/), *Journal of Public Policy*, forthcoming).
 * ["Do citizens care about government debt? Evidence from survey experiments on budgetary priorities"](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.1250) (with [Reto Bürgisser](https://retobuergisser.com/)). *European Journal of Political Research*, 2022. <br/>
 [Preprint version](https://osf.io/preprints/socarxiv/gw5ea/) / [online appendix](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505) / [replication material](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505)
 * ["Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments"](https://cup.org/3IVayu6) (with [Reto Bürgisser](https://retobuergisser.com/)). *Political Science Research and Methods*, 2022. <br/>
@@ -21,5 +23,4 @@ Second, I further analyze public opinion towards different fiscal and social pol
 
 *Working papers:*
 
-* "Fiscal policy preferences, trade-offs, and support for social investment" (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/))
 * "Is the low tax doctrine rooted in public opinion? Evidence from a survey experiment in four European countries" (with [Reto Bürgisser](https://retobuergisser.com/))
