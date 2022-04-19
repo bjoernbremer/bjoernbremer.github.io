@@ -12,7 +12,7 @@ In co-authored papers, I worked on different aspects of this research project. O
 
 *Publications:*
 
-* "Who still likes social democracy? The support base of social democratic parties reconsidered" (with [Line Rennwald](https://linerennwald.wordpress.com/), *Party Politics*, forthcoming).
+* "Who still likes social democracy? The support base of social democratic parties reconsidered" (with [Line Rennwald](https://linerennwald.wordpress.com/)) *Party Politics*, forthcoming.
 * ["The effect of austerity packages on government popularity during the Great Recession"](https://t.co/2Fmbwkxf9T?amp=1) (with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang). *British Journal of Political Science* 52(1):181-199, 2022.<br/>
 [Pre-print version]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [online appendix]({{ site.url }}/files/publications/AusterityEvents_BJPolS_accepted.pdf) / [replication material](https://doi.org/10.7910/DVN/MDLQKC)
 * ["Dynamics of protest and electoral politics in the Great Recession"](https://doi.org/10.1111/1475-6765.12375) (with [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)). *European Journal of Political Research* 59(4):842-866, 2020.<br/>
