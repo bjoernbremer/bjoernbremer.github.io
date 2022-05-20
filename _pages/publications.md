@@ -6,10 +6,13 @@ author_profile: true
 
 {% include base_path %}
 
-**Articles (Peer-Review):**
-* Björn Bremer, [Donato di Carlo](https://www.mpifg.de/person/110112/753645), and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460). Forthcoming. The constrained politics of local public investments under cooperative federalism. *Socio-Economic Revivew*.
-* Björn Bremer and [Line Rennwald](https://linerennwald.wordpress.com/). Forthcoming. Who still likes social democracy? The support base of social democratic parties reconsidered. *Party Politics*.
-* Björn Bremer and [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/). Forthcoming. Fiscal policy preferences, trade-offs, and support for social investment. *Journal of Public Policy*.
+**Journal Articles (Peer-Reviewed):**
+* Björn Bremer, [Donato di Carlo](https://www.mpifg.de/person/110112/753645), and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460). Forthcoming. The constrained politics of local public investments under cooperative federalism. *Socio-Economic Revivew*. <br/>
+[Preprint version]({{ site.url }}/files/publications/BremerDiCarloWansleben_SER_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerDiCarloWansleben_SER_OnlineAppendix.pdf)
+* Björn Bremer and [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/). Forthcoming. Fiscal policy preferences, trade-offs, and support for social investment. *Journal of Public Policy*. <br/>
+[Preprint version]({{ site.url }}/files/publications/BremerBusemeyer_JPP_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerBusemeyer_JPP_OnlineAppendix.pdf) / [replication material]( https://doi.org/10.7910/DVN/LQUPJW)
+* Björn Bremer and [Line Rennwald](https://linerennwald.wordpress.com/). 2022. Who still likes social democracy? [The support base of social democratic parties reconsidered](https://doi.org/10.1177/13540688221093770). *Party Politics*. <br/>
+[Preprint version]({{ site.url }}/files/publications/BremerRennwald_PartyPolitics_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerRennwald_PartyPolitics_OnlineAppendix.pdf)
 * Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). 2022. [Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments](https://cup.org/3IVayu6). *Political Science Research and Methods*. <br/>
 [Preprint version](https://osf.io/uj6eq/)  / [online appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S2049847021000789/resource/name/S2049847021000789sup001.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7ERIFH)
 * Björn Bremer and [Reto Bürgisser](https://retobuergisser.com/). 2022. [Do citizens care about government debt? Evidence from survey experiments on budgetary trade-offs and priorities](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.12505). *European Journal of Political Research*. <br/>
