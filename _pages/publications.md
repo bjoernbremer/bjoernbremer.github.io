@@ -7,9 +7,9 @@ author_profile: true
 {% include base_path %}
 
 **Journal Articles (Peer-Reviewed):**
-* Björn Bremer, [Donato di Carlo](https://www.mpifg.de/person/110112/753645), and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460). Forthcoming. The constrained politics of local public investments under cooperative federalism. *Socio-Economic Revivew*. <br/>
+* Björn Bremer, [Donato di Carlo](https://www.mpifg.de/person/110112/753645), and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460). 2022. [The constrained politics of local public investments under cooperative federalism](https://doi.org/10.1093/ser/mwac026). *Socio-Economic Revivew*. <br/>
 [Preprint version]({{ site.url }}/files/publications/BremerDiCarloWansleben_SER_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerDiCarloWansleben_SER_OnlineAppendix.pdf)
-* Björn Bremer and [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/). Forthcoming. Fiscal policy preferences, trade-offs, and support for social investment. *Journal of Public Policy*. <br/>
+* Björn Bremer and [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/). 2022. [Fiscal policy preferences, trade-offs, and support for social investment](https://doi.org/10.1017/S0143814X22000095). *Journal of Public Policy*. <br/>
 [Preprint version]({{ site.url }}/files/publications/BremerBusemeyer_JPP_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerBusemeyer_JPP_OnlineAppendix.pdf) / [replication material]( https://doi.org/10.7910/DVN/LQUPJW)
 * Björn Bremer and [Line Rennwald](https://linerennwald.wordpress.com/). 2022. Who still likes social democracy? [The support base of social democratic parties reconsidered](https://doi.org/10.1177/13540688221093770). *Party Politics*. <br/>
 [Preprint version]({{ site.url }}/files/publications/BremerRennwald_PartyPolitics_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerRennwald_PartyPolitics_OnlineAppendix.pdf)
