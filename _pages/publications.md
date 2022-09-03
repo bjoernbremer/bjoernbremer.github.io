@@ -7,6 +7,8 @@ author_profile: true
 {% include base_path %}
 
 **Journal Articles (Peer-Reviewed):**
+* [Lucio Baccaro], Björn Bremer, and [Erik Neimanns]. 2022. [Strategic interdependence and preferences for debt mutualization in the Eurozone](https://doi.org/10.1080/09692290.2022.2107043). *Review of International Political Economy*. <br/>
+[Preprint version]({{ site.url }}/files/publications/BaccaroBremerNeimanns_RIPE_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BaccaroBremerNeimanns_RIPE_OnlineAppendix.pdf)
 * Björn Bremer, [Donato di Carlo](https://www.mpifg.de/person/110112/753645), and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460). 2022. [The constrained politics of local public investments under cooperative federalism](https://doi.org/10.1093/ser/mwac026). *Socio-Economic Review*. <br/>
 [Preprint version]({{ site.url }}/files/publications/BremerDiCarloWansleben_SER_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerDiCarloWansleben_SER_OnlineAppendix.pdf)
 * Björn Bremer and [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/). 2022. [Fiscal policy preferences, trade-offs, and support for social investment](https://doi.org/10.1017/S0143814X22000095). *Journal of Public Policy*. <br/>
