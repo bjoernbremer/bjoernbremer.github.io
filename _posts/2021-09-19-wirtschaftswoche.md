@@ -12,6 +12,6 @@ tags:
 
 ---
 
-The German magazine [WirtschaftsWoche](https://www.wiwo.de/) published a piece about my joint research project with Donato di Carlo and Leon Wansleben on the determinants of local public investment in Germany, which is available [here](https://www.wiwo.de/technologie/digitalisierung-der-wirtschaft/investitionssummen-aller-401-kreise-wo-sich-der-investitionsstau-seit-der-wiedervereinigung-am-meisten-verschaerft-hat-/27619494.html). This fantastic piece written by Jannik Deters is based on our MPIfG Discussion Paper, which is available [here](https://www.mpifg.de/discussion-papers). 
+The German magazine [WirtschaftsWoche](https://www.wiwo.de/) published a piece about findings from my joint research project with Donato di Carlo and Leon Wansleben on the determinants of local public investment in Germany which is available [here](https://www.wiwo.de/technologie/digitalisierung-der-wirtschaft/investitionssummen-aller-401-kreise-wo-sich-der-investitionsstau-seit-der-wiedervereinigung-am-meisten-verschaerft-hat-/27619494.html). This fantastic piece written by Jannik Deters is based on our recent [MPIfG Discussion Paper](https://www.mpifg.de/discussion-papers). 
 
 ------
