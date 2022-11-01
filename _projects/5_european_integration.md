@@ -12,13 +12,12 @@ One research project conducted jointly with Lucio Baccaro and Erik Neimanns focu
 
 *Related publications:*
 
-* [Strategic interdependence and preferences for debt mutualization in the Eurozone](https://doi.org/10.1080/09692290.2022.2107043) (with [Lucio Baccaro](https://www.mpifg.de/people/lb/index_en.asp), Björn Bremer, and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885). *Review of International Political Economy*. 2022. 
+* [Strategic interdependence and preferences for debt mutualization in the Eurozone](https://doi.org/10.1080/09692290.2022.2107043) (with [Lucio Baccaro](https://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885). *Review of International Political Economy*. 2022. 
 * ["Till austerity do us part? A survey experiment on support for the Euro in Italy"](https://journals.sagepub.com/doi/full/10.1177/14651165211004772) (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)). *European Union Politics* 22(3):401-423, 2021.
 * ["Juncker's curse? Identity, interest and public support for the integration of core state powers"](https://doi.org/10.1111/jcms.12980), (with [Philipp Genschel](https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Genschel) and [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs/)). *Journal of Common Market Studies* 58(1):56-75, 2020.
 
 *Working papers:*
 
-* "In this together? Support for European fiscal integration in the COVID-19 crisis" (with [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://maurits-meijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/), under review)<br/>
-[Pre-print version](https://osf.io/preprints/socarxiv/82cyw/)
+* ["In this together? Support for European fiscal integration in the COVID-19 crisis"](https://osf.io/preprints/socarxiv/82cyw/) (with [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://maurits-meijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/))
 * "Manufacturing support for international cooperation: How parties can affect fiscal integration preferences" (with [Maurits Meijers](http://maurits-meijers.eu/), [Theresa Kuhn](https://theresakuhn.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/))
 * "Better-off vs. left-behind? Patterns of support for the euro in Italy and Germany" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
