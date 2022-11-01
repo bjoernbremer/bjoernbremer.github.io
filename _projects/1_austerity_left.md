@@ -14,9 +14,9 @@ Based on this evidence, the book shows that a complex interaction of *electoral*
 
 * *Austerity From the Left: Social Democratic Parties in the Shadow of the Great Recession*. Oxford: Oxford University Press, forthcoming (2023).
 * "Social democracy." In Neil Carter, Dan Keith, Gyda Sindre, and Sofia Vasilopoulou (eds.), *Routledge Handbook of Political Parties*. London: Routledge, forthcoming (2023).
-* "[The ideational foundations of social democratic austerity in the context of the Great Recession](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwz001/5320344)" (with [Sean McDaniel](https://warwick.ac.uk/fac/soc/pais/people/mcdaniel/)). *Socio-Economic Review* 18(2):439-463, 2020.<br/>
+* "[The ideational foundations of social democratic austerity in the context of the Great Recession](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwz001/5320344)" (with [Sean McDaniel](https://warwick.ac.uk/fac/soc/pais/people/mcdaniel/)). *Socio-Economic Review*, 18(2):439-463, 2020.<br/>
 [Pre-print version]({{ site.url }}/files/publications/BremerMcDaniel_SER_Preprint.pdf)
-* "[The political economy of the SPD reconsidered: Evidence from the Great Recession](https://www.tandfonline.com/doi/abs/10.1080/09644008.2018.1555817?journalCode=fgrp20)". *German Politics* 29(3):441-463, 2020.<br/>
+* "[The political economy of the SPD reconsidered: Evidence from the Great Recession](https://www.tandfonline.com/doi/abs/10.1080/09644008.2018.1555817?journalCode=fgrp20)". *German Politics*, 29(3):441-463, 2020.<br/>
 [Pre-print version]({{ site.url }}/files/publications/Bremer_GermanPolitics_Preprint.pdf)
-* "[The missing left? Economic crisis and the programmatic response of social democratic parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745)". *Party Politics* 24(1):23-38, 2018.<br/>
+* "[The missing left? Economic crisis and the programmatic response of social democratic parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745)". *Party Politics*, 24(1):23-38, 2018.<br/>
 [Pre-print version]({{ site.url }}/files/publications/Bremer_PartyPolitics_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/Bremer_PartyPolitics_OnlineAppendix.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC)
