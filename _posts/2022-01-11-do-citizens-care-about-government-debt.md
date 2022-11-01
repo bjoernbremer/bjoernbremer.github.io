@@ -1,5 +1,5 @@
 ---
-title: 'Do Citizens Care About Government Debt? Evidence from survey experiments on budgetary trade-offs and priorities'
+title: 'Do Citizens Care About Government Debt? Evidence From Survey Experiments on Budgetary Trade-offs and Priorities'
 date: 2022-01-11
 permalink: /posts/2022/01/citizens-debt/
 tags:
