@@ -14,12 +14,9 @@ This research, therefore, helps to explain both why fiscal consolidation is elec
 
 *Related publications:*
 
-* ["Fiscal policy preferences, trade-offs, and support for social investment"](https://doi.org/10.1017/S0143814X22000095) (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/)). *Journal of Public Policy*, 2022. <br/>
-[Preprint version]({{ site.url }}/files/publications/BremerBusemeyer_JPP_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerBusemeyer_JPP_OnlineAppendix.pdf) / [replication material]( https://doi.org/10.7910/DVN/LQUPJW)
-* ["Do citizens care about government debt? Evidence from survey experiments on budgetary priorities"](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.1250) (with [Reto Bürgisser](https://retobuergisser.com/)). *European Journal of Political Research*, 2022. <br/>
-[Preprint version](https://osf.io/preprints/socarxiv/gw5ea/) / [online appendix]({{ site.url }}/files/publications/BremerBürgisser_EJPR_OnlineAppendix.pdf) / [replication material](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505)
-* ["Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments"](https://cup.org/3IVayu6) (with [Reto Bürgisser](https://retobuergisser.com/)). *Political Science Research and Methods*, 2022. <br/>
-[Preprint version](https://osf.io/uj6eq/)  / [online appendix]({{ site.url }}/files/publications/BremerBürgisser_PSRM_OnlineAppendix.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7ERIFH)
+* ["Fiscal policy preferences, trade-offs, and support for social investment"](https://doi.org/10.1017/S0143814X22000095) (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/)). *Journal of Public Policy*, 2022.
+* ["Do citizens care about government debt? Evidence from survey experiments on budgetary priorities"](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.1250) (with [Reto Bürgisser](https://retobuergisser.com/)). *European Journal of Political Research*, 2022.
+* ["Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments"](https://cup.org/3IVayu6) (with [Reto Bürgisser](https://retobuergisser.com/)). *Political Science Research and Methods*, 2022.
 * "Public preferences towards social investment: Comparing patterns of support across three continents." In Julian Garritzmann, Silja Häusermann, and Bruno Palier (eds.), [*The World Politics of Social Investment (Volume I): The Welfare State in the Century of Knowledge*](https://global.oup.com/academic/product/the-world-politics-of-social-investment-volume-i-9780197585245?cc=us&lang=en&). Oxford: Oxford University Press, 2022.
 
 *Working papers:*
