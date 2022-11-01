@@ -26,5 +26,5 @@ A large focus of these projects is to examine the relationship between macroecon
 
 * "Quantitative easing and trust in central banks: Evidence from a natural experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
 * "When central banking becomes costly: The politics of unconventional monetary policies and its trade-offs" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
-* "What shapes public opinion towards Green central banking?" (with Jeffrey Chwieroth)
+* "What shapes public opinion towards Green central banking?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/)) 
 * "Is the left more profligate than the right? Partisanship and public debt revisited"
