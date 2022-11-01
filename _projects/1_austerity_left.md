@@ -10,7 +10,7 @@ Austerity became the predominant fiscal policy response to the Great Recession i
 
 Based on this evidence, the book shows that a complex interaction of *electoral* and *ideational* pressures pushed social democratic parties towards orthodox fiscal policies, as they were trapped by the legacy of their pre-crisis policies. In their search for fiscal credibility, social democrats responded to public opinion and the dominant discourse that viewed government deficits as taboo. This was reinforced by powerful mechanisms of path dependency and institutional stickiness: In the wake of the Third Way, many social democrats bought into a structural explanation of the crisis and did not believe that demand management would help Europe to recover. However, as the costs of austerity policies increased over time, the inability of social democratic parties to rally against these policies diluted their party brand, demobilized their supporters, and contributed to their current electoral crisis. Consequently, the book does not only help to understand why austerity became the dominant response to the Great Recession, but it also provides a new perspective on the current electoral crisis of the center-left. It shows that social democratic parties are not just victims of large, structural changes (e.g., de-industrialization or educational expansion) but also agents of their own fate.
 
-*Related Publications:*
+*Related publications:*
 
 * *Austerity From the Left: Social Democratic Parties in the Shadow of the Great Recession*. Oxford: Oxford University Press, forthcoming (2023).
 * "Social democracy." In Neil Carter, Dan Keith, Gyda Sindre, and Sofia Vasilopoulou (eds.), *Routledge Handbook of Political Parties*. London: Routledge, forthcoming (2023).
