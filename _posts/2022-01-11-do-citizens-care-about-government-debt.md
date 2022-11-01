@@ -1,5 +1,5 @@
 ---
-title: 'Do citizens care about government debt? Evidence from survey experiments on budgetary trade-offs and priorities'
+title: 'Do Citizens Care About Government Debt? Evidence from survey experiments on budgetary trade-offs and priorities'
 date: 2022-01-11
 permalink: /posts/2022/01/citizens-debt/
 tags:
@@ -13,7 +13,7 @@ tags:
 
 ---
 
-My article "Do citizens care about government debt? Evidence from survey experiments on budgetary trade-offs and priorities" co-authored with Reto Bürgisser was just published by the [European Journal of Political Research](https://ejpr.onlinelibrary.wiley.com/journal/14756765). The article is open access and available [here](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505).
+My article "Do citizens care about government debt? Evidence From Survey Experiments on Budgetary Trade-offs and Priorities" co-authored with Reto Bürgisser was just published by the [European Journal of Political Research](https://ejpr.onlinelibrary.wiley.com/journal/14756765). The article is open access and available [here](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505).
 
 **Abstract:**
 
