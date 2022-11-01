@@ -1,5 +1,5 @@
 ---
-title: 'The constrained politics of local public investment under cooperative federalism'
+title: 'The Constrained Politics of Local Public Investment Under Cooperative Federalism'
 date: 2022-06-02
 permalink: /posts/2022/05/German-public-investment/
 tags:
