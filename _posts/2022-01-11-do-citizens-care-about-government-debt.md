@@ -1,5 +1,5 @@
 ---
-title: 'Till Austerity Do Us Part? A Survey Experiment on Support for the Euro in Italy'
+title: 'Do citizens care about government debt? Evidence from survey experiments on budgetary trade-offs and priorities'
 date: 2022-01-11
 permalink: /posts/2022/01/citizens-debt/
 tags:
