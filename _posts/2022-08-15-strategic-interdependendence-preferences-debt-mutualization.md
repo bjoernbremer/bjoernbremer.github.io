@@ -13,7 +13,7 @@ tags:
 
 My article "Strategic interdependence and preferences for debt mutualization in the eurozones" co-authored with Lucio Baccaro and Erik Neimanns was just published by the [Revew of International Political Economy](https://www.tandfonline.com/journals/rrip20). The article is open access and available [here](https://doi.org/10.1080/09692290.2022.2107043).
 
-We wrote a short blog post summarizing our results, which was published by LSE's EUROPP blog and which is available [here](https://blogs.lse.ac.uk/europpblog/2022/08/17/threats-and-solidarity-in-the-eurozone-how-italian-and-german-citizens-respond-to-information-about-italexit/).
+We also wrote a short blog post summarizing our results, which was published by LSE's [EUROPP blog](https://blogs.lse.ac.uk/europpblog/2022/08/17/threats-and-solidarity-in-the-eurozone-how-italian-and-german-citizens-respond-to-information-about-italexit/).
 
 **Abstract:**
 
