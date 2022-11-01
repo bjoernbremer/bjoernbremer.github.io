@@ -11,7 +11,7 @@ tags:
 
 ---
 
-My article "Fiscal policy preferences, trade-offs, and support for social investment" co-authored with Marius Busemeyer was just published by the [Socio-Economic Review](https://academic.oup.com/ser/). The article is open access and available [here](https://doi.org/10.1093/ser/mwac026). The research for this article was previously featrued in a report in the German magazine WirtschaftsWoche. The article is available [here](https://www.wiwo.de/technologie/digitalisierung-der-wirtschaft/investitionssummen-aller-401-kreise-wo-sich-der-investitionsstau-seit-der-wiedervereinigung-am-meisten-verschaerft-hat-/27619494.html). 
+My article "Fiscal policy preferences, trade-offs, and support for social investment" co-authored with Donato di Carlo and Leon Wansleben was just published by the [Socio-Economic Review](https://academic.oup.com/ser/). The article is open access and available [here](https://doi.org/10.1093/ser/mwac026). The research for this article was previously featured in a report by the German magazine [WirtschaftsWoche](https://www.wiwo.de/). The article is available [here](https://www.wiwo.de/technologie/digitalisierung-der-wirtschaft/investitionssummen-aller-401-kreise-wo-sich-der-investitionsstau-seit-der-wiedervereinigung-am-meisten-verschaerft-hat-/27619494.html). 
 
 On 13 June 2022, I will also present our main findings from this research project in Cologne's city hall. All information about this talk is available online [here](https://koelner-wissenschaftsrunde.de/oeffentliche-finanzen-was-hemmt-lokale-investitionen/).
 
