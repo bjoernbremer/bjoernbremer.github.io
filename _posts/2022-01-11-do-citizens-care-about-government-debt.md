@@ -3,13 +3,13 @@ title: 'Do Citizens Care About Government Debt? Evidence From Survey Experiments
 date: 2022-01-11
 permalink: /posts/2022/01/citizens-debt/
 tags:
-  -austerity
-  -conjoint surveys
-  -fiscal policies
-  -government debt
-  -public opinion
-  -survey experiments
-  -trade-offs
+  - austerity
+  - conjoint surveys
+  - fiscal policies
+  - government debt
+  - public opinion
+  - survey experiments
+  - trade-offs
 
 ---
 
