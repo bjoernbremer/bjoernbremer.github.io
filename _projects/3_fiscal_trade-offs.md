@@ -12,12 +12,12 @@ Using novel survey experiments conducted in four European countries (Germany, It
 
 *Related publications:*
 
-* ["Fiscal policy preferences, trade-offs, and support for social investment"](https://doi.org/10.1017/S0143814X22000095) (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/)). *Journal of Public Policy*, 2022.
-* ["Do citizens care about government debt? Evidence from survey experiments on budgetary priorities"](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.1250) (with [Reto Bürgisser](https://retobuergisser.com/)). *European Journal of Political Research*, 2022.
-* ["Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments"](https://cup.org/3IVayu6) (with [Reto Bürgisser](https://retobuergisser.com/)). *Political Science Research and Methods*, 2022.
+* ["Public opinion on welfare state recalibration in times of austerity: Evidence from survey experiments"](https://cup.org/3IVayu6) (with [Reto Bürgisser](https://retobuergisser.com/)). *Political Science Research and Methods*, 11(1):34-52, 2023.
+* ["Do citizens care about government debt? Evidence from survey experiments on budgetary priorities"](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/1475-6765.1250) (with [Reto Bürgisser](https://retobuergisser.com/)). *European Journal of Political Research* 62(1):239-263, 2023.
+* ["Fiscal policy preferences, trade-offs, and support for social investment"](https://doi.org/10.1017/S0143814X22000095) (with [Marius Busemeyer](https://www.polver.uni-konstanz.de/en/busemeyer/team/prof-marius-r-busemeyer/)). *Journal of Public Policy* 42(4):684-704, 2022.
 * "Public preferences towards social investment: Comparing patterns of support across three continents." In Julian Garritzmann, Silja Häusermann, and Bruno Palier (eds.), [*The World Politics of Social Investment (Volume I): The Welfare State in the Century of Knowledge*](https://global.oup.com/academic/product/the-world-politics-of-social-investment-volume-i-9780197585245?cc=us&lang=en&). Oxford: Oxford University Press, 2022.
 
 *Working papers:*
 
-* "Is the low tax doctrine rooted in public opinion? Evidence from a survey experiment in four European countries" (with [Reto Bürgisser](https://retobuergisser.com/))
+* "Is the low tax doctrine rooted in public opinion? Evidence from a survey experiment in four European countries" (with [Reto Bürgisser](https://retobuergisser.com/),  SocArXiv: https://doi.org/10.31235/osf.io/e6ds9)
 * "The distributive preferences of green voters in times of electoral realignment" (with [Hanna Schwander](http://www.schwander-hanna.ch/))
