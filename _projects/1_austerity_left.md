@@ -12,7 +12,7 @@ Based on this evidence, the book shows that a complex interaction of *electoral*
 
 *Related publications:*
 
-* *Austerity From the Left: Social Democratic Parties in the Shadow of the Great Recession*. Oxford: Oxford University Press, forthcoming (2023).
+* [Austerity From the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210?q=austerity%20from%20the%20left&cc=de&lang=en). Oxford: Oxford University Press, forthcoming (2023).
 * "Social democracy." In Neil Carter, Dan Keith, Gyda Sindre, and Sofia Vasilopoulou (eds.), *Routledge Handbook of Political Parties*. London: Routledge, forthcoming (2023).
 * "[Who still likes social democracy? The support base of social democratic parties reconsidered](https://doi.org/10.1177/13540688221093770)" (with [Line Rennwald](https://linerennwald.wordpress.com/)) *Party Politics*, 2022.
 * "[The ideational foundations of social democratic austerity in the context of the Great Recession](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwz001/5320344)" (with [Sean McDaniel](https://warwick.ac.uk/fac/soc/pais/people/mcdaniel/)). *Socio-Economic Review*, 18(2):439-463, 2020.
