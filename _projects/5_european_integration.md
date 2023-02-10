@@ -19,5 +19,5 @@ One research project conducted jointly with Lucio Baccaro and Erik Neimanns focu
 *Working papers:*
 
 * "In this together? Support for European fiscal integration in the COVID-19 crisis" (with [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://maurits-meijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/), SocArXiv: https://osf.io/preprints/socarxiv/82cyw/)
-* "Partisan cueing and preferences for international cooperation" (with [Maurits Meijers](http://maurits-meijers.eu/), [Theresa Kuhn](https://theresakuhn.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/), SocArXiv: \url{https://doi.org/10.31235/osf.io/bmf5e})
+* "Partisan cueing and preferences for international cooperation" (with [Maurits Meijers](http://maurits-meijers.eu/), [Theresa Kuhn](https://theresakuhn.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/), SocArXiv: https://doi.org/10.31235/osf.io/bmf5e)
 * "Better-off vs. left-behind? Patterns of support for the euro in Italy and Germany" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
