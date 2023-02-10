@@ -19,5 +19,5 @@ Using novel survey experiments conducted in four European countries (Germany, It
 
 *Working papers:*
 
-* "Is the low tax doctrine rooted in public opinion? Evidence from a survey experiment in four European countries" (with [Reto Bürgisser](https://retobuergisser.com/),  SocArXiv: https://doi.org/10.31235/osf.io/e6ds9)
+* "Lower taxes at all costs? Evidence from a survey experiment in four European countries?" (with [Reto Bürgisser](https://retobuergisser.com/),  SocArXiv: https://doi.org/10.31235/osf.io/e6ds9)
 * "The distributive preferences of green voters in times of electoral realignment" (with [Hanna Schwander](http://www.schwander-hanna.ch/))
