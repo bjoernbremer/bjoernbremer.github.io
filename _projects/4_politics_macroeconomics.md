@@ -17,7 +17,7 @@ A large focus of these projects is to examine the relationship between macroecon
 *Working papers:*
 
 * "Public opinion towards growth strategies: Evidence from  a new survey" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp), and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885))
-* "Much ado about debt? Understanding how people reason about debt sustainability and fiscal policy" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Catherine de Vries](https://www.catherinedevries.eu/), and [Lisanne de Blok](https://lisannedeblok.com/))
+* "Much ado about debt? Understanding how people reason about debt sustainability and fiscal policy" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Lisanne de Blok](https://lisannedeblok.com/), and [Catherine de Vries](https://www.catherinedevries.eu/))
 * "Support for wealth protection in the new gilded age: Do ethnic and class inequality matter?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/) and [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter))
 * "Party favoritism and local public investment: Quasi-experimental evidence from Germany" (with Robin Hetzel)
 * "Do ordinary citizens react to central bank communication? Evidence from a natural experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
