@@ -12,7 +12,7 @@ A large focus of these projects is to examine the relationship between macroecon
 
 *Related publications:*
 
-* ["The constrained politics of local public investments under cooperative federalism"](https://doi.org/10.1093/ser/mwac026) (with [Donato di Carlo](https://www.mpifg.de/person/110112/753645), and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460)). *Socio-Economic Review*,  30(4):1459-1485, 2023.
+* ["The constrained politics of local public investments under cooperative federalism"](https://doi.org/10.1093/ser/mwac026) (with [Donato di Carlo](https://www.mpifg.de/person/110112/753645) and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460)). *Socio-Economic Review*,  30(4):1459-1485, 2023.
 
 *Working papers:*
 
