@@ -12,7 +12,7 @@ A large focus of these projects is to examine the relationship between macroecon
 
 *Related publications:*
 
-* ["The constrained politics of local public investments under cooperative federalism"](https://doi.org/10.1093/ser/mwac026) (with [Donato di Carlo](https://www.mpifg.de/person/110112/753645), and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460)). *Socio-Economic Review*, 2022.
+* ["The constrained politics of local public investments under cooperative federalism"](https://doi.org/10.1093/ser/mwac026) (with [Donato di Carlo](https://www.mpifg.de/person/110112/753645), and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460)). *Socio-Economic Review*,  30(4):1459-1485, 2023.
 
 *Working papers:*
 
@@ -20,10 +20,10 @@ A large focus of these projects is to examine the relationship between macroecon
 * "Much ado about debt? Understanding how people reason about debt sustainability and fiscal policy" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Lisanne de Blok](https://lisannedeblok.com/), and [Catherine de Vries](https://www.catherinedevries.eu/))
 * "Support for wealth protection in the new gilded age: Do ethnic and class inequality matter?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/) and [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter))
 * "Party favoritism and local public investment: Quasi-experimental evidence from Germany" (with Robin Hetzel)
-* "Do ordinary citizens react to central bank communication? Evidence from a natural experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
+* "Do central bank announcements affect public opinion? Evidence from a natural experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
 * "The politics of unconventional monetary policies and its trade-offs" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
 
 *Work in progress:*
 
-* "What shapes public opinion towards Green central banking?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/)) 
+* "Public opinion on green central banking and its trade-offs: Evidence from a survey experiment?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/)) 
 * "Is the left more profligate than the right? Partisanship and public debt revisited"
