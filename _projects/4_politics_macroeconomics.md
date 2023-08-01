@@ -22,8 +22,10 @@ A large focus of these projects is to examine the relationship between macroecon
 * "Party favoritism and local public investment: Quasi-experimental evidence from Germany" (with Robin Hetzel)
 * "Do central bank announcements affect public opinion? Evidence from a natural experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
 * "The politics of unconventional monetary policies and its trade-offs" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
+* "Public opinion on green central banking and its trade-offs: Evidence from a survey experiment?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/)) 
+
 
 *Work in progress:*
 
-* "Public opinion on green central banking and its trade-offs: Evidence from a survey experiment?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/)) 
 * "Is the left more profligate than the right? Partisanship and public debt revisited"
+* "Do fiscal consolidations harm public investment? Evidence from a quasi-experiment"
