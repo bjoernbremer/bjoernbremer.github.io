@@ -12,7 +12,7 @@ As part of this project, my research examined how the Great Recession influenced
 
 *Related publications:*
 
-* ["Who still likes social democracy? The support base of social democratic parties reconsidered"](https://doi.org/10.1177/13540688221093770) (with [Line Rennwald](https://linerennwald.wordpress.com/)) *Party Politics* 29(4):741-754, 2023.
+* ["Who still likes social democracy? The support base of social democratic parties reconsidered"](https://doi.org/10.1177/13540688221093770) (with [Line Rennwald](https://linerennwald.wordpress.com/)). *Party Politics* 29(4):741-754, 2023.
 * ["The effect of austerity packages on government popularity during the Great Recession"](https://t.co/2Fmbwkxf9T?amp=1) (with Abel Bojar, [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx) and Chendi Wang). *British Journal of Political Science* 52(1):181-199, 2022.
 * ["Dynamics of protest and electoral politics in the Great Recession"](https://doi.org/10.1111/1475-6765.12375) (with [Swen Hutter](http://www.swen-hutter.eu/), and [Hanspeter Kriesi](http://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/People/Professors/Kriesi.aspx)). *European Journal of Political Research* 59(4):842-866, 2020.
 * "The electoral consequences of centrist policies: Fiscal consolidations and the fate of social democratic parties." In Silja Häusermann and Herbert Kitschelt (eds.), *Beyond Social Democracy: The Transformation of the Left in Emerging Knowledge Societies*. Cambridge: Cambridge University Press, forthcoming.
