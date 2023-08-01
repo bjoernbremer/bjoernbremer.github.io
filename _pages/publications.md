@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 **Monographs (Peer-Reviewed):**
-* Björn Bremer. 2023 (forthcoming). [Austerity from the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210?facet_narrowbyprice_facet=50to100&lang=en&cc=mv#). Oxford: Oxford University Press.
+* Björn Bremer. 2023. [Austerity from the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210?facet_narrowbyprice_facet=50to100&lang=en&cc=mv#). Oxford: Oxford University Press.
 
 **Journal Articles (Peer-Reviewed):**
 * Björn Bremer, [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://mauritsmeijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/). 2023. [In this together? Support for European fiscal integration in the COVID-19 crisis](https://doi.org/10.1080/13501763.2023.2220357). *Journal of European Public Policy*. Online first .<br/>
