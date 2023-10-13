@@ -12,6 +12,6 @@ Feel free to contact me if you have any questions about my research:
 &nbsp;&nbsp;&nbsp;&nbsp; Quellenstraße 51 | A-1100 Wien, Austria 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Email: bremerb[at]ceu.edu    
-&nbsp;&nbsp;&nbsp;&nbsp; Twitter: @bjoern_bremer
-&nbsp;&nbsp;&nbsp;&nbsp; Bluesky: @bjoernbremer.bsky.social
-&nbsp;&nbsp;&nbsp;&nbsp; Phone: +43 1 25230 7535
+&nbsp;&nbsp;&nbsp;&nbsp; Twitter: @bjoern_bremer    
+&nbsp;&nbsp;&nbsp;&nbsp; Bluesky: @bjoernbremer.bsky.social    
+&nbsp;&nbsp;&nbsp;&nbsp; Phone: +43 1 25230 7535    
