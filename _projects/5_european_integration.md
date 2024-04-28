@@ -12,6 +12,7 @@ One research project conducted jointly with Lucio Baccaro and Erik Neimanns focu
 
 *Related publications:*
 
+* [Closer During Crises? European Identity During the COVID-19 Pandemic and the Russian Invasion of Ukraine](https://doi.org/10.1080/13501763.2024.2319346) (with Franceso Nicoli, David van der Duin, Roel Beetsma, Brian Burgoon, Theresa Kuhn, Maurits Meijers, and Anniek de Ruijter). *Journal of European Public Policy*. Online first, 2023
 * "[In this together? Support for European fiscal integration in the COVID-19 crisis](https://doi.org/10.1080/13501763.2023.2220357)" (with [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://maurits-meijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/)), *Journal of European Public Policy*. Online first, 2023.
 * [Strategic interdependence and preferences for debt mutualization in the Eurozone](https://doi.org/10.1080/09692290.2022.2107043) (with [Lucio Baccaro](https://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)). *Review of International Political Economy* 30(4):1459-1485, 2023. 
 * ["Till austerity do us part? A survey experiment on support for the Euro in Italy"](https://journals.sagepub.com/doi/full/10.1177/14651165211004772) (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp) and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)). *European Union Politics* 22(3):401-423, 2021.
