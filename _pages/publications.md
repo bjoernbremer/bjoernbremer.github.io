@@ -10,6 +10,9 @@ author_profile: true
 * Björn Bremer. 2023. [Austerity from the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210?facet_narrowbyprice_facet=50to100&lang=en&cc=mv#). Oxford: Oxford University Press.
 
 **Journal Articles (Peer-Reviewed):**
+* Björn Bremer and Reto Bürgisser. 2024. [Lower taxes at all costs? Evidence from a survey experiment in four European countries.](https://doi.org/10.1080/13501763.2024.2333856). *Journal of European Public Policy*. Online first. <br/>
+* Lucio Baccaro, Björn Bremer, and Erik Neimanns. 2024. Preferences for Growth Strategies in Advanced Democracies: A New 'Representation Gap'? *European Journal of Political Research*. Forthcoming. <br/>
+* Franceso Nicoli, David van der Duin, Roel Beetsma, Björn Bremer, Brian Burgoon, Theresa Kuhn, Maurits Meijers, Anniek de Ruijter. 2024. [Closer During Crises? European Identity During the COVID-19 Pandemic and the Russian Invasion of Ukraine](https://doi.org/10.1080/13501763.2024.2319346). *Journal of European Public Policy*. Online first. <br/>
 * Björn Bremer, [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://mauritsmeijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/). 2023. [In this together? Support for European fiscal integration in the COVID-19 crisis](https://doi.org/10.1080/13501763.2023.2220357). *Journal of European Public Policy*. Online first. <br/>
 [Preprint version](https://osf.io/preprints/socarxiv/82cyw/)
 * [Lucio Baccaro](https://www.mpifg.de/people/lb/index_en.asp), Björn Bremer, and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885). 2023. [Strategic interdependence and preferences for debt mutualization in the Eurozone](https://doi.org/10.1080/09692290.2022.2107043). *Review of International Political Economy* 30(4):1459-1485. <br/>
