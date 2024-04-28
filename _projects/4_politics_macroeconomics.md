@@ -12,7 +12,7 @@ A large focus of these projects is to examine the relationship between macroecon
 
 *Related publications:*
 
-* "Preferences for Growth Strategies in Advanced Democracies: A New 'Representation Gap'?" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp), and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)). *European Journal of Political Research*. Forthcoming, 2024.
+* "Preferences for growth strategies in advanced democracies: A new 'representation gap'?" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp), and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)). *European Journal of Political Research*. Forthcoming, 2024.
 * ["The constrained politics of local public investments under cooperative federalism"](https://doi.org/10.1093/ser/mwac026) (with [Donato di Carlo](https://www.mpifg.de/person/110112/753645) and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460)). *Socio-Economic Review*,  30(4):1459-1485, 2023.
 
 *Working papers:*
