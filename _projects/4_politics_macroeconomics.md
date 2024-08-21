@@ -17,15 +17,17 @@ A large focus of these projects is to examine the relationship between macroecon
 
 *Working papers:*
 * "How much do citizens care about ethnic wealth gaps? Inequality and support for financial market stabilization in times of crisis" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/) and [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)). SocArXiv Preprint: https://osf.io/preprints/socarxiv/r75zh
-* ``The local politics of social investment under fiscal constraints: The case of childcare expansion in Germany'' (with Erik Neimanns).  Preprint: \url{https://doi.org/10.31235/osf.io/9yrp2}
+* "The local politics of social investment under fiscal constraints: The case of childcare expansion in Germany" (with Erik Neimanns).  Preprint: https://doi.org/10.31235/osf.io/9yrp2
 * "Much ado about debt? Understanding how people reason about debt sustainability and fiscal policy" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Lisanne de Blok](https://lisannedeblok.com/), and [Catherine de Vries](https://www.catherinedevries.eu/))
 * "High sovereign debt and social solidarity in advanced economies?" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Lisanne de Blok](https://lisannedeblok.com/), and [Catherine de Vries](https://www.catherinedevries.eu/))
 * "Party favoritism and local public investment: Quasi-experimental evidence from Germany" (with Robin Hetzel)
 * "Do central bank announcements affect public opinion? Evidence from a natural experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
 * "The politics of unconventional monetary policies and its trade-offs" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
-* "Public opinion on green central banking and its trade-offs: Evidence from a survey experiment?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/)) 
+* "Public opinion on green central banking and its trade-offs: Evidence from a survey experiment?" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
 
 *Work in progress:*
 
 * "Is the left more profligate than the right? Partisanship and public debt revisited"
 * "Do fiscal consolidations harm public investment? Evidence from a quasi-experiment"
+* "Taxing uber-polluters: The climate crisis and popular support for wealth taxation" (with Leo Ahrens and Lukas Hakelberg)
+* "Are people willing to pay for the green transition? Media discourse and citizen attitudes towards green industrial policies" (with Fabio Bulfone, Reto Bürgisser, and Timo Seidl)
