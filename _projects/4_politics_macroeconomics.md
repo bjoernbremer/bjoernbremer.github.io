@@ -17,7 +17,7 @@ A large focus of these projects is to examine the relationship between macroecon
 
 *Working papers:*
 * "How much do citizens care about ethnic wealth gaps? Inequality and support for financial market stabilization in times of crisis" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/) and [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)). SocArXiv Preprint: https://osf.io/preprints/socarxiv/r75zh
-* "The local politics of social investment under fiscal constraints: The case of childcare expansion in Germany" (with Erik Neimanns).  Preprint: https://doi.org/10.31235/osf.io/9yrp2
+* "The local politics of social investment under fiscal constraints: The case of childcare expansion in Germany" (with [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)).  Preprint: https://doi.org/10.31235/osf.io/9yrp2
 * "Much ado about debt? Understanding how people reason about debt sustainability and fiscal policy" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Lisanne de Blok](https://lisannedeblok.com/), and [Catherine de Vries](https://www.catherinedevries.eu/))
 * "High sovereign debt and social solidarity in advanced economies?" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Lisanne de Blok](https://lisannedeblok.com/), and [Catherine de Vries](https://www.catherinedevries.eu/))
 * "Party favoritism and local public investment: Quasi-experimental evidence from Germany" (with Robin Hetzel)
