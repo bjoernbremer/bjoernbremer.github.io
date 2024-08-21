@@ -62,3 +62,10 @@ author_profile: true
 * Guido Baldi, Björn Bremer and Thore Schlaak. 2017. [International investments and current account imbalances: The importance of valuation changes]({{ site.url }}/files/publications/diw_roundup_117_en.pdf). *DIW Round-up* 117, 7 December 2017. 
 * Guido Baldi and Björn Bremer (2015). [The evolution of Germany's net foreign asset position]({{ site.url }}/files/publications/diw_econ_bull_2015-22-3.pdf). *DIW Economic Bulletin*, 22+23/2015, pp. 303-309.
 * Stefan Bach, Guido Baldi, Kerstin Bernoth, Björn Bremer, Beatrice Farkas, Ferdinand Fichtner, Marcel Fratzscher, and Martin Gornig 2013. [More growth through higher investment]({{ site.url }}/files/publications/diw_econ_bull_2013-08-2.pdf). *DIW Economic Bulletin*, 08/2013, pp. 5-16.
+
+
+**Published Working Papers:**
+
+* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2023. [Partisan cueing and preferences for international cooperation](https://doi.org/10.31235/osf.io/bmf5e). SocArXiv Preprint. 
+* Erik Neimanns and Björn Bremer. 2024. [The local politics of social investment under fiscal constraints: The case of childcare expansion in Germany](https://doi.org/10.31235/osf.io/9yrp2). SocArXiv Preprint: 
+* Björn Bremer, Jeffrey Chwieroth, and Andrew Walter. 2024. [How much do citizens care about ethnic wealth gaps? Inequality and support for financial market stabilization in times of crisis](https://osf.io/preprints/socarxiv/r75zh). SocArXiv Preprint.
