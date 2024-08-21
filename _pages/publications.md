@@ -11,10 +11,13 @@ author_profile: true
 
 **Journal Articles (Peer-Reviewed):**
 * Björn Bremer and Reto Bürgisser. 2024. [Lower Taxes at All Costs? Evidence From a Survey Experiment in Four European Countries](https://doi.org/10.1080/13501763.2024.2333856). *Journal of European Public Policy*. Online first. <br/>
+[Preprint version](https://osf.io/preprints/socarxiv/e6ds9) / [online appendix](https://ndownloader.figstatic.com/files/45385238) / [replication material](https://doi.org/10.7910/DVN/ECECZA)
 * Lucio Baccaro, Björn Bremer, and Erik Neimanns. 2024. [Preferences for Growth Strategies in Advanced Democracies: A New 'Representation Gap'?](https://doi.org/10.1111/1475-6765.12686) *European Journal of Political Research*. Online first. <br/>
+[Preprint version](https://pure.mpg.de/pubman/item/item_3528109_3/component/file_3528110/mpifg_dp23_4.pdf?mode=download) / [online appendix](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12686&file=ejpr12686-sup-0001-Appendix.pdf) / [replication material](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12686&file=ejpr12686-sup-0002-Replication.zip)
 * Franceso Nicoli, David van der Duin, Roel Beetsma, Björn Bremer, Brian Burgoon, Theresa Kuhn, Maurits Meijers, and Anniek de Ruijter. 2024. [Closer During Crises? European Identity During the COVID-19 Pandemic and the Russian Invasion of Ukraine](https://doi.org/10.1080/13501763.2024.2319346). *Journal of European Public Policy*. Online first. <br/>
+[Online appendix](https://ndownloader.figstatic.com/files/45081325) 
 * Björn Bremer, [Theresa Kuhn](https://theresakuhn.eu/), [Maurits Meijers](http://mauritsmeijers.eu/), and [Francesco Nicoli](https://francesconicoli.wordpress.com/). 2023. [In this together? Support for European fiscal integration in the COVID-19 crisis](https://doi.org/10.1080/13501763.2023.2220357). *Journal of European Public Policy*. 31(9):2582–2610. <br/>
-[Preprint version](https://osf.io/preprints/socarxiv/82cyw/)
+[Preprint version](https://osf.io/preprints/socarxiv/82cyw/) / [online appendix](https://ndownloader.figstatic.com/files/41227849) 
 * [Lucio Baccaro](https://www.mpifg.de/people/lb/index_en.asp), Björn Bremer, and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885). 2023. [Strategic interdependence and preferences for debt mutualization in the Eurozone](https://doi.org/10.1080/09692290.2022.2107043). *Review of International Political Economy* 30(4):1459-1485. <br/>
 [Preprint version](https://osf.io/preprints/socarxiv/atg8p/) / [online appendix]({{ site.url }}/files/publications/BaccaroBremerNeimanns_RIPE_OnlineAppendix.pdf)
 * Björn Bremer and [Line Rennwald](https://linerennwald.wordpress.com/). 2023. Who still likes social democracy? [The support base of social democratic parties reconsidered](https://doi.org/10.1177/13540688221093770). *Party Politics* 29(4):741-754. <br/>
