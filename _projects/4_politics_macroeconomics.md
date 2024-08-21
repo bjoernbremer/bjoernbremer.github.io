@@ -12,13 +12,14 @@ A large focus of these projects is to examine the relationship between macroecon
 
 *Related publications:*
 
-* "Preferences for growth strategies in advanced democracies: A new 'representation gap'?" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp), and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)). *European Journal of Political Research*. Forthcoming, 2024.
+* ["Preferences for growth strategies in advanced democracies: A new 'representation gap'?"](https://doi.org/10.1111/1475-6765.12686) (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp), and [Erik Neimanns](https://www.mpifg.de/forschung/wissdetails_en.asp?MitarbID=885)). *European Journal of Political Research*. Online first, 2024.
 * ["The constrained politics of local public investments under cooperative federalism"](https://doi.org/10.1093/ser/mwac026) (with [Donato di Carlo](https://www.mpifg.de/person/110112/753645) and [Leon Wansleben](https://www.mpifg.de/person/wansleben-leon/576460)). *Socio-Economic Review*,  30(4):1459-1485, 2023.
 
 *Working papers:*
-
+* "How much do citizens care about ethnic wealth gaps? Inequality and support for financial market stabilization in times of crisis" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/) and [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)). SocArXiv Preprint: https://osf.io/preprints/socarxiv/r75zh
+* ``The local politics of social investment under fiscal constraints: The case of childcare expansion in Germany'' (with Erik Neimanns).  Preprint: \url{https://doi.org/10.31235/osf.io/9yrp2}
 * "Much ado about debt? Understanding how people reason about debt sustainability and fiscal policy" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Lisanne de Blok](https://lisannedeblok.com/), and [Catherine de Vries](https://www.catherinedevries.eu/))
-* "Do citizens care about ethnic wealth gaps? Inequality and support for financial market stabilization in times of crises" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/) and [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter))
+* "High sovereign debt and social solidarity in advanced economies?" (with [Charlotte Cavaille](https://charlottecavaille.wordpress.com/), [Lisanne de Blok](https://lisannedeblok.com/), and [Catherine de Vries](https://www.catherinedevries.eu/))
 * "Party favoritism and local public investment: Quasi-experimental evidence from Germany" (with Robin Hetzel)
 * "Do central bank announcements affect public opinion? Evidence from a natural experiment" (with [Lucio Baccaro](http://www.mpifg.de/people/lb/index_en.asp))
 * "The politics of unconventional monetary policies and its trade-offs" (with [Jeffrey Chwieroth](http://personal.lse.ac.uk/chwierot/))
