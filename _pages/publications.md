@@ -59,6 +59,8 @@ author_profile: true
 
 **Policy Papers:**
 
+* Björn Bremer. 2024. [Why social democratic parties do not benefit from orthodox fiscal policies](https://politicscentre.nuffield.ox.ac.uk/media/elsb5xyq/bremer.pdf). *PPRNet Research Brief*.
+* Hanna Schwander and Björn Bremer. 2024. [Why the rise of the greens does not threaten the welfare state](https://politicscentre.nuffield.ox.ac.uk/media/gg5cnglx/schwander_bremer.pdf). *PPRNet Research Brief*.
 * Guido Baldi, Björn Bremer and Thore Schlaak. 2017. [International investments and current account imbalances: The importance of valuation changes]({{ site.url }}/files/publications/diw_roundup_117_en.pdf). *DIW Round-up* 117, 7 December 2017. 
 * Guido Baldi and Björn Bremer (2015). [The evolution of Germany's net foreign asset position]({{ site.url }}/files/publications/diw_econ_bull_2015-22-3.pdf). *DIW Economic Bulletin*, 22+23/2015, pp. 303-309.
 * Stefan Bach, Guido Baldi, Kerstin Bernoth, Björn Bremer, Beatrice Farkas, Ferdinand Fichtner, Marcel Fratzscher, and Martin Gornig 2013. [More growth through higher investment]({{ site.url }}/files/publications/diw_econ_bull_2013-08-2.pdf). *DIW Economic Bulletin*, 08/2013, pp. 5-16.
