@@ -14,7 +14,4 @@ Previously, I was a Senior Researcher in Comparative and International Political
 
 My research lies at the intersection of comparative politics, international political economy, and political behavior. I am particularly interested in the politics of macroeconomic policies, welfare state politics, and the political consequences of economic crises. My first book, “[Austerity from the Left: Social Democratic Parties in the Shadows of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210)”, was published by Oxford University Press in 2023. 
 
-I collect news about my research, blog articles, and other thoughts about politics and economics on my website [here]({{ site.url }}/year-archive/). For more recent updates, feel free to browse my Twitter timeline: 
-
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/bjoern_bremer" data-widget-id="614467895389724673">Tweets by @bjoern_bremer</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+I irregularly collect news about my research, blog articles, and other thoughts about politics and economics on my website [here]({{ site.url }}/year-archive/). 
