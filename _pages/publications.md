@@ -10,7 +10,7 @@ author_profile: true
 * Björn Bremer. 2023. [Austerity from the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210?facet_narrowbyprice_facet=50to100&lang=en&cc=mv#). Oxford: Oxford University Press.
 
 **Journal Articles (Peer-Reviewed):**
-* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2025. ``Partisan Cueing and Preferences for Contentious European Integration Steps.'' \textit{West European Politics}, forthcoming. [Preprint version](https://doi.org/10.31235/osf.io/bmf5e).
+* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2025. ``Partisan Cueing and Preferences for Contentious European Integration Steps.'' *West European Politics*, forthcoming. [Preprint version](https://doi.org/10.31235/osf.io/bmf5e).
 * Lucio Baccaro, Björn Bremer, and Erik Neimanns. 2025. [Preferences for Growth Strategies in Advanced Democracies: A New 'Representation Gap'?](https://doi.org/10.1111/1475-6765.12686) *European Journal of Political Research* 64(1):156-180. <br/>
 [Preprint version](https://pure.mpg.de/pubman/item/item_3528109_3/component/file_3528110/mpifg_dp23_4.pdf?mode=download) / [online appendix](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12686&file=ejpr12686-sup-0001-Appendix.pdf) / [replication material](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12686&file=ejpr12686-sup-0002-Replication.zip)
 * Björn Bremer and Reto Bürgisser. 2024. [Lower Taxes at All Costs? Evidence From a Survey Experiment in Four European Countries](https://doi.org/10.1080/13501763.2024.2333856). *Journal of European Public Policy*. Online first. <br/>
