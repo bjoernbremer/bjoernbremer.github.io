@@ -10,7 +10,8 @@ author_profile: true
 * Björn Bremer. 2023. [Austerity from the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210?facet_narrowbyprice_facet=50to100&lang=en&cc=mv#). Oxford: Oxford University Press.
 
 **Journal Articles (Peer-Reviewed):**
-* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2025. ``Partisan Cueing and Preferences for Contentious European Integration Steps.'' *West European Politics*, forthcoming. [Preprint version](https://doi.org/10.31235/osf.io/bmf5e).
+* Neimanns, Erik and Björn Bremer. 2024. [The local politics of social investment under fiscal constraints: The case of childcare expansion in Germany](https://onlinelibrary.wiley.com/doi/10.1111/rego.70037). *Regulation & Governance*, online first. [Preprint version](https://doi.org/10.31235/osf.io/9yrp2) / [online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Frego.70037&file=rego70037-sup-0001-Appendix.pdf).
+* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2025. [Partisan Cueing and Preferences for Contentious European Integration Steps](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2497720). *West European Politics*, online first. [Preprint version](https://doi.org/10.31235/osf.io/bmf5e) / [online appendix](https://ndownloader.figstatic.com/files/55047875) / [replication material](https://doi.org/10.7910/DVN/RNSKQV)
 * Lucio Baccaro, Björn Bremer, and Erik Neimanns. 2025. [Preferences for Growth Strategies in Advanced Democracies: A New 'Representation Gap'?](https://doi.org/10.1111/1475-6765.12686) *European Journal of Political Research* 64(1):156-180. <br/>
 [Preprint version](https://pure.mpg.de/pubman/item/item_3528109_3/component/file_3528110/mpifg_dp23_4.pdf?mode=download) / [online appendix](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12686&file=ejpr12686-sup-0001-Appendix.pdf) / [replication material](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12686&file=ejpr12686-sup-0002-Replication.zip)
 * Björn Bremer and Reto Bürgisser. 2024. [Lower Taxes at All Costs? Evidence From a Survey Experiment in Four European Countries](https://doi.org/10.1080/13501763.2024.2333856). *Journal of European Public Policy*. Online first. <br/>
@@ -67,8 +68,7 @@ author_profile: true
 * Stefan Bach, Guido Baldi, Kerstin Bernoth, Björn Bremer, Beatrice Farkas, Ferdinand Fichtner, Marcel Fratzscher, and Martin Gornig 2013. [More growth through higher investment]({{ site.url }}/files/publications/diw_econ_bull_2013-08-2.pdf). *DIW Economic Bulletin*, 08/2013, pp. 5-16.
 
 
-**Working Papers:**
+**Published Working Papers (Preprints):**
 
-* Erik Neimanns and Björn Bremer. 2024. [The local politics of social investment under fiscal constraints: The case of childcare expansion in Germany](https://doi.org/10.31235/osf.io/9yrp2). SocArXiv Preprint. 
 * Björn Bremer, Jeffrey Chwieroth, and Andrew Walter. 2024. [How much do citizens care about ethnic wealth gaps? Inequality and support for financial market stabilization in times of crisis](https://osf.io/preprints/socarxiv/r75zh). SocArXiv Preprint.
 * Björn Bremer, Charlotte, Cavaillé, Lisanne de Blok, and Catherine de Vries. [High sovereign debt and social solidarity in advanced economies?](https://osf.io/preprints/osf/jw4v6_v1). SocArXiv Preprint.
