@@ -1,5 +1,6 @@
 ---
-permalink: /contact/
+title: "Austerity from the Left"
+permalink: /book/
 author_profile: true
 ---
 
