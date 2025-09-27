@@ -6,7 +6,32 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/files/bremer_2023_book_cover.jpg" alt="Book cover" style="float: right; margin-left: 20px; margin-bottom: 20px; max-width: 300px;">
+<style>
+.book-cover {
+  float: right;
+  margin: 0 0 20px 20px;
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .book-cover {
+    float: none;
+    display: block;
+    margin: 20px auto;
+    max-width: 250px;
+  }
+}
+
+@media (max-width: 480px) {
+  .book-cover {
+    max-width: 200px;
+  }
+}
+</style>
+
+<img src="/files/bremer_2023_book_cover.jpg" alt="Book cover" class="book-cover">
 
 My first book, “[Austerity from the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210)”, was published by Oxford University Press in 2023.
 
