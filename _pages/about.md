@@ -15,4 +15,4 @@ Prior to my PhD, I studied at [UWC Atlantic College](http://www.atlanticcollege.
 
 My research lies at the intersection of comparative politics, international political economy, and political behavior. I am particularly interested in the politics of macroeconomic policies, European integration, climate change, and the political consequences of economic crises. My first book, “[Austerity from the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210)”, was published by Oxford University Press in 2023.
 
-I am currently writing another book with [Lucio Baccaro](https://www.mpifg.de/baccaro_en) on the politics of stagnation and reform in the eurozone.
+I am currently writing another book with [Lucio Baccaro](https://www.mpifg.de/baccaro_en) on the politics of stagnation and reform in the eurozone, which is under advanced contract with Princeton University Press.
