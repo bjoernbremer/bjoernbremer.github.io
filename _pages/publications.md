@@ -49,7 +49,7 @@ author_profile: true
 * Björn Bremer. 2018. [The missing left? Economic crisis and the programmatic response of social democratic parties in Europe](http://journals.sagepub.com/doi/abs/10.1177/1354068817740745). *Party Politics* 24(1):23-38. <br/>
 [Preprint version]({{ site.url }}/files/publications/Bremer_PartyPolitics_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/Bremer_PartyPolitics_OnlineAppendix.pdf) / [replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LBO6KC)
 
-**Book Chapters in Edited Volumes:**
+**Book Chapters in Edited Volumes (Peer-Reviewed):**
 
 * Björn Bremer. 2024. "The electoral consequences of centrist policies: Fiscal consolidations and the fate of social democratic parties." In Silja Häusermann and Herbert Kitschelt (eds.), *[Beyond Social Democracy: The Transformation of the Left in Emerging Knowledge Societies](https://www.cambridge.org/core/books/beyond-social-democracy/B4C5F9FFAF5FF8142DB2E209E6C5C9D0)*. Cambridge: Cambridge University Press.
 * Björn Bremer. 2023. "Social democracy." In Neil Carter, Dan Keith, Gyda Sindre, and Sofia Vasilopoulou (eds.), *[Routledge Handbook of Political Parties](https://www.routledge.com/The-Routledge-Handbook-of-Political-Parties/Carter-Keith-Sindre-Vasilopoulou/p/book/9780367620004?srsltid=AfmBOopP7XYfQUu8KMT8FmITI6O_l5iIKAqK2Nm0wGJKiW9QkZM9iu7z)*. London: Routledge.
