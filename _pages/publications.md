@@ -11,8 +11,9 @@ author_profile: true
 
 **Journal Articles (Peer-Reviewed):**
 * Björn Bremer and Robin Hetzel. 2025. [Political Alignment and the Distribution of Investment Subsidies: Quasi-Experimental Evidence from Germany](https://doi.org/10.1007/s11127-025-01348-4). *Public Choice*, online first. [Online appendix](https://static-content.springer.com/esm/art%3A10.1007%2Fs11127-025-01348-4/MediaObjects/11127_2025_1348_MOESM1_ESM.pdf).
-* Neimanns, Erik and Björn Bremer. 2025. [The Local Politics of Social Investment Under Fiscal Constraints: The Case of Childcare Expansion in Germany](https://onlinelibrary.wiley.com/doi/10.1111/rego.70037). *Regulation & Governance*, online first. [Preprint version](https://doi.org/10.31235/osf.io/9yrp2) / [online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Frego.70037&file=rego70037-sup-0001-Appendix.pdf).
-* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2025. [Partisan Cueing and Preferences for Fiscal Integration in the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2497720). *West European Politics*, online first. [Preprint version](https://doi.org/10.31235/osf.io/bmf5e) / [online appendix](https://ndownloader.figstatic.com/files/55047875) / [replication material](https://doi.org/10.7910/DVN/RNSKQV)
+* Erik Neimanns and Björn Bremer. 2025. [The Local Politics of Social Investment Under Fiscal Constraints: The Case of Childcare Expansion in Germany](https://onlinelibrary.wiley.com/doi/10.1111/rego.70037). *Regulation & Governance*, online first. [Preprint version](https://doi.org/10.31235/osf.io/9yrp2) / [online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Frego.70037&file=rego70037-sup-0001-Appendix.pdf).
+* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2025. [Partisan Cueing and Preferences for Fiscal Integration in the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2497720). *West European Politics*, online first. <br/>
+[Preprint version](https://doi.org/10.31235/osf.io/bmf5e) / [online appendix](https://ndownloader.figstatic.com/files/55047875) / [replication material](https://doi.org/10.7910/DVN/RNSKQV)
 * Lucio Baccaro, Björn Bremer, and Erik Neimanns. 2025. [Preferences for Growth Strategies in Advanced Democracies: A New 'Representation Gap'?](https://doi.org/10.1111/1475-6765.12686) *European Journal of Political Research* 64(1):156-180. <br/>
 [Preprint version](https://pure.mpg.de/pubman/item/item_3528109_3/component/file_3528110/mpifg_dp23_4.pdf?mode=download) / [online appendix](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12686&file=ejpr12686-sup-0001-Appendix.pdf) / [replication material](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12686&file=ejpr12686-sup-0002-Replication.zip)
 * Björn Bremer and Reto Bürgisser. 2025. [Lower Taxes at All Costs? Evidence From a Survey Experiment in Four European Countries](https://doi.org/10.1080/13501763.2024.2333856). *Journal of European Public Policy*. 32(5):1225-1252. <br/>
@@ -36,7 +37,7 @@ author_profile: true
 * Abel Bojar, Björn Bremer, Hanspeter Kriesi, and Chendi Wang. 2022. [The effect of austerity packages on government popularity during the Great Recession](https://t.co/2Fmbwkxf9T?amp=1). *British Journal of Political Science* 52(1):181-199. <br/>
 [Preprint version]({{ site.url }}/files/publications/BojarBremerKriesiWang_BJPolS_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BojarBremerKriesiWang_BJPolS_OnlineAppendix.pdf) / [replication material](https://doi.org/10.7910/DVN/MDLQKC)
 * Lucio Baccaro, Björn Bremer, and Erik Neimanns. 2021. [Till austerity do us part? A survey experiment on support for the Euro in Italy](https://journals.sagepub.com/doi/full/10.1177/14651165211004772). *European Union Politics* 22(3):401-423. <br/>
-[Preprint version]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_OnlineAppendix.pdf) / [replication material]()
+[Preprint version]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_OnlineAppendix.pdf)
 * Björn Bremer, Swen Hutter, and Hanspeter Kriesi. 2020. [Dynamics of protest and electoral politics in the Great Recession](https://doi.org/10.1111/1475-6765.12375). *European Journal of Political Research* 59(4):842-866. <br/>
 [Preprint version]({{ site.url }}/files/publications/BremerHutterKriesi_EJPR_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerHutterKriesi_EJPR_OnlineAppendix.pdf) / [replication material](https://doi.org/10.7910/DVN/GWPX1A)
 * Björn Bremer, Philipp Genschel, and Markus Jachtenfuchs. 2020. [Juncker's curse? Identity, interest and public support for the integration of core state powers](https://doi.org/10.1111/jcms.12980). *Journal of Common Market Studies* 58(1):56-75. <br/> 
@@ -59,7 +60,7 @@ author_profile: true
 
 **Book Reviews:**
 
-* Björn Bremer. 2019. [The Clientelistic Turn in Welfare State Policy-Making: Party Politics in Times of Austerity](\url{https://doi.org/10.1111/), Evelyne Hübscher, London, ECPR Press / Rowman & Littlefield International Ltd. (2018). *Swiss Political Science Review* 25(3):330-333.
+* Björn Bremer. 2019. [The Clientelistic Turn in Welfare State Policy-Making: Party Politics in Times of Austerity](https://doi.org/10.1111/spsr.12368), Evelyne Hübscher, London, ECPR Press / Rowman & Littlefield International Ltd. (2018). *Swiss Political Science Review* 25(3):330-333.
 
 **Policy Papers:**
 
