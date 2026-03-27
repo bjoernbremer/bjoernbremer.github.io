@@ -10,6 +10,8 @@ author_profile: true
 * Björn Bremer. 2023. [Austerity from the Left: Social Democratic Parties in the Shadow of the Great Recession](https://global.oup.com/academic/product/austerity-from-the-left-9780192872210?facet_narrowbyprice_facet=50to100&lang=en&cc=mv#). Oxford: Oxford University Press.
 
 **Journal Articles (Peer-Reviewed):**
+* Leo Ahrens, Björn Bremer, and Lukas Hakelberg. Forthcoming. [Taxing uber-polluters: The climate crisis and popular support for wealth taxation](https://osf.io/preprints/osf/h6rxc_v1). *Climate Policy*.
+* Björn Bremer, Charlotte Cavaillé, Lisanne de Blok, and Catherine de Vries. Forthcoming. [The limits of public support for fiscal consolidation: Evidence from three surveys in Great Britain](https://osf.io/preprints/osf/jw4v6_v1). *Comparative Political Studies*.
 * Björn Bremer and Robin Hetzel. 2025. [Political Alignment and the Distribution of Investment Subsidies: Quasi-Experimental Evidence from Germany](https://doi.org/10.1007/s11127-025-01348-4). *Public Choice*, online first. [Online appendix](https://static-content.springer.com/esm/art%3A10.1007%2Fs11127-025-01348-4/MediaObjects/11127_2025_1348_MOESM1_ESM.pdf).
 * Erik Neimanns and Björn Bremer. 2025. [The Local Politics of Social Investment Under Fiscal Constraints: The Case of Childcare Expansion in Germany](https://onlinelibrary.wiley.com/doi/10.1111/rego.70037). *Regulation & Governance*, online first. [Preprint version](https://doi.org/10.31235/osf.io/9yrp2) / [online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Frego.70037&file=rego70037-sup-0001-Appendix.pdf).
 * Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2025. [Partisan Cueing and Preferences for Fiscal Integration in the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2497720). *West European Politics*, online first. <br/>
@@ -34,7 +36,7 @@ author_profile: true
 [Preprint version](https://osf.io/preprints/socarxiv/gw5ea/) / [online appendix]({{ site.url }}/files/publications/BremerBürgisser_EJPR_OnlineAppendix.pdf) / [replication material](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12505)
 * Björn Bremer and Marius Busemeyer. 2022. [Fiscal policy preferences, trade-offs, and support for social investment](https://doi.org/10.1017/S0143814X22000095). *Journal of Public Policy* 42(4):684-704. <br/>
 [Preprint version]({{ site.url }}/files/publications/BremerBusemeyer_JPP_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BremerBusemeyer_JPP_OnlineAppendix.pdf) / [replication material]( https://doi.org/10.7910/DVN/LQUPJW)
-* Abel Bojar, Björn Bremer, Hanspeter Kriesi, and Chendi Wang. 2022. [The effect of austerity packages on government popularity during the Great Recession](https://t.co/2Fmbwkxf9T?amp=1). *British Journal of Political Science* 52(1):181-199. <br/>
+* Abel Bojar, Björn Bremer, Hanspeter Kriesi, and Chendi Wang. 2022. [The effect of austerity packages on government popularity during the Great Recession](https://doi.org/10.1017/S0007123420000472). *British Journal of Political Science* 52(1):181-199. <br/>
 [Preprint version]({{ site.url }}/files/publications/BojarBremerKriesiWang_BJPolS_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BojarBremerKriesiWang_BJPolS_OnlineAppendix.pdf) / [replication material](https://doi.org/10.7910/DVN/MDLQKC)
 * Lucio Baccaro, Björn Bremer, and Erik Neimanns. 2021. [Till austerity do us part? A survey experiment on support for the Euro in Italy](https://journals.sagepub.com/doi/full/10.1177/14651165211004772). *European Union Politics* 22(3):401-423. <br/>
 [Preprint version]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_Preprint.pdf) / [online appendix]({{ site.url }}/files/publications/BaccaroBremerNeimanns_EUP_OnlineAppendix.pdf)
@@ -64,14 +66,15 @@ author_profile: true
 
 **Policy Papers:**
 
+* Tarik Abou-Chadi, Björn Bremer, and Silja Häusermann. 2025. Introduction: The Politics of Housing. *PPRNet Research Brief*.
+* Björn Bremer, Jane Gingrich, and Hanna Schwander. 2024. Introduction: The political viability of climate policies. *PPRNet Research Brief*.
 * Björn Bremer. 2024. [Why social democratic parties do not benefit from orthodox fiscal policies](https://politicscentre.nuffield.ox.ac.uk/media/elsb5xyq/bremer.pdf). *PPRNet Research Brief*.
-* Hanna Schwander and Björn Bremer. 2024. [Why the rise of the greens does not threaten the welfare state](https://politicscentre.nuffield.ox.ac.uk/media/gg5cnglx/schwander_bremer.pdf). *PPRNet Research Brief*.
+* Hanna Schwander and Björn Bremer. 2024. [Why the rise of green parties does not threaten the welfare state](https://politicscentre.nuffield.ox.ac.uk/media/gg5cnglx/schwander_bremer.pdf). *PPRNet Research Brief*.
 * Guido Baldi, Björn Bremer and Thore Schlaak. 2017. [International investments and current account imbalances: The importance of valuation changes]({{ site.url }}/files/publications/diw_roundup_117_en.pdf). *DIW Round-up* 117, 7 December 2017. 
 * Guido Baldi and Björn Bremer. 2015. [The evolution of Germany's net foreign asset position]({{ site.url }}/files/publications/diw_econ_bull_2015-22-3.pdf). *DIW Economic Bulletin*, 22+23/2015, pp. 303-309.
 * Stefan Bach, Guido Baldi, Kerstin Bernoth, Björn Bremer, Beatrice Farkas, Ferdinand Fichtner, Marcel Fratzscher, and Martin Gornig. 2013. [More growth through higher investment]({{ site.url }}/files/publications/diw_econ_bull_2013-08-2.pdf). *DIW Economic Bulletin*, 08/2013, pp. 5-16.
 
 
 **Published Working Papers (Preprints):**
-* Leo Ahrens, Björn Bremer, and Lukas Hakelberg. 2025. [Taxing uber-polluters: Carbon inequality and support for wealth taxation to finance the green transition](https://osf.io/preprints/osf/h6rxc_v1). SocArXiv Preprint.
-* Björn Bremer, Jeffrey Chwieroth, and Andrew Walter. 2025. [How much do citizens care about ethnic wealth gaps? Inequality and support for financial market stabilization in times of crisis](https://osf.io/preprints/socarxiv/r75zh). SocArXiv Preprint.
+* Björn Bremer, Jeffrey Chwieroth, and Andrew Walter. 2025. [Wealth inequality and public support for financial stabilization in economic crises](https://osf.io/preprints/socarxiv/r75zh). SocArXiv Preprint.
 * Björn Bremer, Charlotte Cavaillé, Lisanne de Blok, and Catherine de Vries. 2024. [High sovereign debt and social solidarity in advanced economies?](https://osf.io/preprints/osf/jw4v6_v1). SocArXiv Preprint.
