@@ -21,7 +21,7 @@ author_profile: true
 
 **Postgraduate Seminars (MA):**
 
-* The Politics of Macroeconomic Policies, CEU, Spring 2026
+* The Politics of Macroeconomic Policies, CEU, Winter 2026
 * Economic and Political Inequality, CEU, Winter 2024 and 2026
 * Basics in Quantitative Research, CEU, Fall 2023
 * Political Economy, CEU, Fall 2023

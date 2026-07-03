@@ -30,7 +30,7 @@ author_profile: true
   [📄 Preprint](https://doi.org/10.31235/osf.io/9yrp2)
   [📎 Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Frego.70037&file=rego70037-sup-0001-Appendix.pdf)
   </div>
-* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2025. [Partisan Cueing and Preferences for Fiscal Integration in the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2497720). *West European Politics*, online first.
+* Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2026. [Partisan Cueing and Preferences for Fiscal Integration in the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2497720). *West European Politics* 49(5):1203-1229.
   <div class="pub-links" markdown="1">
   [📄 Preprint](https://doi.org/10.31235/osf.io/bmf5e)
   [📎 Online appendix](https://ndownloader.figstatic.com/files/55047875)
@@ -140,17 +140,7 @@ author_profile: true
 
 * Björn Bremer. 2019. [The Clientelistic Turn in Welfare State Policy-Making: Party Politics in Times of Austerity](https://doi.org/10.1111/spsr.12368), Evelyne Hübscher, London, ECPR Press / Rowman & Littlefield International Ltd. (2018). *Swiss Political Science Review* 25(3):330-333.
 
-**Policy Papers:**
-
-* Tarik Abou-Chadi, Björn Bremer, and Silja Häusermann. 2025. Introduction: The Politics of Housing. *PPRNet Research Brief*.
-* Björn Bremer, Jane Gingrich, and Hanna Schwander. 2024. Introduction: The political viability of climate policies. *PPRNet Research Brief*.
-* Björn Bremer. 2024. [Why social democratic parties do not benefit from orthodox fiscal policies](https://politicscentre.nuffield.ox.ac.uk/media/elsb5xyq/bremer.pdf). *PPRNet Research Brief*.
-* Hanna Schwander and Björn Bremer. 2024. [Why the rise of green parties does not threaten the welfare state](https://politicscentre.nuffield.ox.ac.uk/media/gg5cnglx/schwander_bremer.pdf). *PPRNet Research Brief*.
-* Guido Baldi, Björn Bremer and Thore Schlaak. 2017. [International investments and current account imbalances: The importance of valuation changes]({{ site.url }}/files/publications/diw_roundup_117_en.pdf). *DIW Round-up* 117, 7 December 2017. 
-* Guido Baldi and Björn Bremer. 2015. [The evolution of Germany's net foreign asset position]({{ site.url }}/files/publications/diw_econ_bull_2015-22-3.pdf). *DIW Economic Bulletin*, 22+23/2015, pp. 303-309.
-* Stefan Bach, Guido Baldi, Kerstin Bernoth, Björn Bremer, Beatrice Farkas, Ferdinand Fichtner, Marcel Fratzscher, and Martin Gornig. 2013. [More growth through higher investment]({{ site.url }}/files/publications/diw_econ_bull_2013-08-2.pdf). *DIW Economic Bulletin*, 08/2013, pp. 5-16.
-
-
 **Published Working Papers (Preprints):**
+* Björn Bremer, Jeffrey Chwieroth, and Anita Mancosu. 2026. [When central banks go green: Public opinion and monetary policy legitimacy](https://osf.io/preprints/socarxiv/jmru2_v1). SocArXiv Preprint.
 * Björn Bremer, Jeffrey Chwieroth, and Andrew Walter. 2025. [Wealth inequality and public support for financial stabilization in economic crises](https://osf.io/preprints/socarxiv/r75zh). SocArXiv Preprint.
 * Björn Bremer, Charlotte Cavaillé, Lisanne de Blok, and Catherine de Vries. 2024. [High sovereign debt and social solidarity in advanced economies?](https://osf.io/preprints/osf/jw4v6_v1). SocArXiv Preprint.

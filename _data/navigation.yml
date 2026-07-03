@@ -14,11 +14,14 @@ main:
   - title: "Book"
     url: /book/
 
+  - title: "Outreach"
+    url: /outreach/
+
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
-    url: /files/Bremer_CV_05_2026.pdf
+    url: /files/Bremer_CV_07_2026.pdf
     
   - title: "Contact"
     url: /contact/
