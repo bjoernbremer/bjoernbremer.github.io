@@ -16,25 +16,25 @@ author_profile: true
   [📎 Online appendix](https://www.tandfonline.com/doi/suppl/10.1080/14693062.2026.2661351)
   [🗃 Replication material](https://doi.org/10.7910/DVN/I4FXDZ)
   </div>
-* Björn Bremer, Charlotte Cavaillé, Lisanne de Blok, and Catherine de Vries. 2026. [The limits of public support for fiscal consolidation: Evidence from three surveys in Great Britain](https://doi.org/10.1177/00104140261431821). *Comparative Political Studies*, online first.
+* Björn Bremer, Charlotte Cavaillé, Lisanne de Blok, and Catherine de Vries. 2026. [The limits of public support for fiscal consolidation: Survey evidence from Great Britain](https://doi.org/10.1177/00104140261431821). *Comparative Political Studies*, online first.
   <div class="pub-links" markdown="1">
   [📎 Online appendix](https://journals.sagepub.com/doi/suppl/10.1177/00104140261431821/suppl_file/sj-pdf-1-cps-10.1177_00104140261431821.pdf)
   [🗃 Replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OYJOXP)
-  </div>
-* Björn Bremer and Robin Hetzel. 2025. [Political Alignment and the Distribution of Investment Subsidies: Quasi-Experimental Evidence from Germany](https://doi.org/10.1007/s11127-025-01348-4). *Public Choice*, online first.
-  <div class="pub-links" markdown="1">
-  [📎 Online appendix](https://static-content.springer.com/esm/art%3A10.1007%2Fs11127-025-01348-4/MediaObjects/11127_2025_1348_MOESM1_ESM.pdf)
-  </div>
-* Erik Neimanns and Björn Bremer. 2025. [The Local Politics of Social Investment Under Fiscal Constraints: The Case of Childcare Expansion in Germany](https://onlinelibrary.wiley.com/doi/10.1111/rego.70037). *Regulation & Governance*, online first.
-  <div class="pub-links" markdown="1">
-  [📄 Preprint](https://doi.org/10.31235/osf.io/9yrp2)
-  [📎 Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Frego.70037&file=rego70037-sup-0001-Appendix.pdf)
   </div>
 * Maurits Meijers, Björn Bremer, Theresa Kuhn, and Francesco Nicoli. 2026. [Partisan Cueing and Preferences for Fiscal Integration in the European Union](https://www.tandfonline.com/doi/full/10.1080/01402382.2025.2497720). *West European Politics* 49(5):1203-1229.
   <div class="pub-links" markdown="1">
   [📄 Preprint](https://doi.org/10.31235/osf.io/bmf5e)
   [📎 Online appendix](https://ndownloader.figstatic.com/files/55047875)
   [🗃 Replication material](https://doi.org/10.7910/DVN/RNSKQV)
+  </div>
+* Erik Neimanns and Björn Bremer. 2026. [The Local Politics of Social Investment Under Fiscal Constraints: The Case of Childcare Expansion in Germany](https://onlinelibrary.wiley.com/doi/10.1111/rego.70037). *Regulation & Governance* 20(3):1225-1239.
+  <div class="pub-links" markdown="1">
+  [📄 Preprint](https://doi.org/10.31235/osf.io/9yrp2)
+  [📎 Online appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Frego.70037&file=rego70037-sup-0001-Appendix.pdf)
+  </div>
+* Björn Bremer and Robin Hetzel. 2025. [Political Alignment and the Distribution of Investment Subsidies: Quasi-Experimental Evidence from Germany](https://doi.org/10.1007/s11127-025-01348-4). *Public Choice* 207(3-4):587-610.
+  <div class="pub-links" markdown="1">
+  [📎 Online appendix](https://static-content.springer.com/esm/art%3A10.1007%2Fs11127-025-01348-4/MediaObjects/11127_2025_1348_MOESM1_ESM.pdf)
   </div>
 * Lucio Baccaro, Björn Bremer, and Erik Neimanns. 2025. [Preferences for Growth Strategies in Advanced Democracies: A New 'Representation Gap'?](https://doi.org/10.1111/1475-6765.12686) *European Journal of Political Research* 64(1):156-180.
   <div class="pub-links" markdown="1">
@@ -141,6 +141,8 @@ author_profile: true
 * Björn Bremer. 2019. [The Clientelistic Turn in Welfare State Policy-Making: Party Politics in Times of Austerity](https://doi.org/10.1111/spsr.12368), Evelyne Hübscher, London, ECPR Press / Rowman & Littlefield International Ltd. (2018). *Swiss Political Science Review* 25(3):330-333.
 
 **Published Working Papers (Preprints):**
+* Björn Bremer and Jeffrey Chwieroth. 2026. [Specific support, diffuse trust: Central banks and the mass politics of unconventional monetary policy](https://osf.io/preprints/socarxiv/es7wf_v1). SocArXiv Preprint.
+* Björn Bremer and Lucio Baccaro. 2026. [One policy, many publics: Central bank communication and the national politics of trust](https://osf.io/preprints/socarxiv/zyvjh_v2). SocArXiv Preprint.
 * Björn Bremer, Jeffrey Chwieroth, and Anita Mancosu. 2026. [When central banks go green: Public opinion and monetary policy legitimacy](https://osf.io/preprints/socarxiv/jmru2_v1). SocArXiv Preprint.
-* Björn Bremer, Jeffrey Chwieroth, and Andrew Walter. 2025. [Wealth inequality and public support for financial stabilization in economic crises](https://osf.io/preprints/socarxiv/r75zh). SocArXiv Preprint.
+* Björn Bremer, Jeffrey Chwieroth, and Andrew Walter. 2025. [Wealth inequality and public support for financial stabilization in economic crises](https://osf.io/preprints/socarxiv/r75zh_v2). SocArXiv Preprint.
 * Björn Bremer, Charlotte Cavaillé, Lisanne de Blok, and Catherine de Vries. 2024. [High sovereign debt and social solidarity in advanced economies?](https://osf.io/preprints/osf/jw4v6_v1). SocArXiv Preprint.

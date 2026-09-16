@@ -11,18 +11,19 @@ author_profile: true
 
 **Undergraduate Seminars (BA):**
 
-* Introduction to Political Economy, CEU, Fall 2025
-* Rational Choice and Collective Action, CEU, Spring 2024 and 2026
+* Introduction to Political Economy, CEU, Fall 2025 and 2026
+* Rational Choice and Collective Action, CEU, Spring 2024, 2026, and 2027
 * The Politics of Macroeconomic Policies, University of Cologne, Spring 2020
 
 **Postgraduate Lectures (MA):**
 
-* Democratic Theory and Politics, University of Cologne, Spring 2021
+* Democratic Theory and Practice, University of Cologne, Spring 2021
 
 **Postgraduate Seminars (MA):**
 
-* The Politics of Macroeconomic Policies, CEU, Winter 2026
-* Economic and Political Inequality, CEU, Winter 2024 and 2026
+* The Political Economy of the Green Transition, CEU, Winter 2027
+* Economic and Political Inequality, CEU, Winter 2024, 2026, and 2027
+* The Politics of Macroeconomic Policies, CEU, Winter 2026 and Fall 2026
 * Basics in Quantitative Research, CEU, Fall 2023
 * Political Economy, CEU, Fall 2023
 * Economic and Political Inequality, University of Cologne, Fall 2021
